@@ -166,6 +166,18 @@ function build() {
 
       artistData.totalTracks = artistData.totalSingles + artistData.totalAlbumTracks;
 
+      // Compute artist-level timestamps: earliest createdAt, latest updatedAt
+      const allTracks = [
+        ...artistData.singles,
+        ...artistData.albums.flatMap((a) => a.tracks)
+      ];
+      const artistCreatedAt = allTracks.length
+        ? Math.min(...allTracks.map((t) => t.createdAt))
+        : null;
+      const artistUpdatedAt = allTracks.length
+        ? Math.max(...allTracks.map((t) => t.updatedAt))
+        : null;
+
       const artistFileName = `${artistSlug}.json`;
       fs.writeFileSync(
         path.join(ARTISTS_DIR, artistFileName),
@@ -179,7 +191,9 @@ function build() {
         totalTracks: artistData.totalTracks,
         totalSingles: artistData.totalSingles,
         totalAlbums: artistData.albums.length,
-        totalFileSize: artistData.totalFileSize
+        totalFileSize: artistData.totalFileSize,
+        createdAt: artistCreatedAt,
+        updatedAt: artistUpdatedAt
       });
     }
   });
