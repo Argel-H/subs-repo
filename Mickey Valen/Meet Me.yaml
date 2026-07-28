@@ -1,0 +1,293 @@
+version: 1
+
+project:
+  title: Mickey Valen - Meet Me
+  track_name: Meet Me
+  artists:
+    - Mickey Valen
+    - Noé
+  album_name: Meet Me
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/ced94e1ab73d5f35237b7bc03fbe6465/500x500-000000-80-0-0.webp"
+  isrcs: TCACR1659490
+  origin_language: English
+  translation_language: Spanish
+  song_link: "https://www.deezer.com/track/1787815627"
+  audio_url: "https://file.garden/alCSwLnuWEQGo0Me/Meet%20Me%20(feat.%20Noe%CC%81).flac"
+  wallpaper_artist_name: yuanbin hu
+  wallpaper_source: ArtStation
+  wallpaper_url: "https://www.artstation.com/artwork/rlBzzE"
+  artist_links:
+    - name: Mickey Valen
+      url: "https://www.deezer.com/artist/10679059"
+    - name: Mickey Valen
+      url: "https://www.deezer.com/artist/10679059"
+    - name: Noe
+      url: "https://www.deezer.com/artist/165184"
+  social_links:
+    - artist_name: Mickey Valen
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/2tLI4kPsmsxQQv6zr2jbgt"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/10679059"
+        - platform: Twitter/X
+          url: "https://twitter.com/mickeyvalenxy"
+        - platform: Facebook
+          url: "https://www.facebook.com/mickeyvalen"
+        - platform: Instagram
+          url: "https://www.instagram.com/mickeyvalen/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/mickeyvalen"
+        - platform: Tidal
+          url: "https://tidal.com/artist/5835904"
+    - artist_name: Noé
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/6ATGuATiaPOyjNIc5AjP3R"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/1787815627"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1784026425058
+  updated_at: 1785219378737
+  exported_at: 1785219383518
+
+lyrics:
+  - time_start: 3490
+    time_end: 9840
+    original: "Been counting all your aces, you ain't winning"
+    translated: Presumes mucho tus cartas, aún así no estás ganando
+    locked: true
+  - time_start: 9840
+    time_end: 16810
+    original: Your phone book full of numbers instead of names
+    translated: Tu agenda está llena de números en vez de nombres
+    locked: true
+  - time_start: 16810
+    time_end: 23490
+    original: All them vain decisions keep you jaded
+    translated: Todas esas decisiones egoístas te tienen amargado
+    locked: true
+  - time_start: 23490
+    time_end: 29450
+    original: "You could have found the one, but you won't change"
+    translated: Pudiste hallar el amor, pero no cambiarás
+    locked: true
+  - time_start: 29450
+    time_end: 32620
+    original: "So, aren't you glad to meet me?"
+    translated: Entonces, ¿no te alegra conocerme?
+    locked: true
+  - time_start: 32620
+    time_end: 33620
+    original: I think you should
+    translated: Deberías estarlo
+    locked: true
+  - time_start: 33620
+    time_end: 35840
+    original: "I'll be glad to meet me"
+    translated: Yo me alegraría de conocerme
+    locked: true
+  - time_start: 35840
+    time_end: 36790
+    original: If I were you
+    translated: Si fuera tú
+    locked: true
+  - time_start: 36790
+    time_end: 38940
+    original: "Aren't you glad to meet me?"
+    translated: ¿No te alegra conocerme?
+    locked: true
+  - time_start: 38940
+    time_end: 43080
+    original: I think you should
+    translated: Creo que deberías
+    locked: true
+  - time_start: 43080
+    time_end: 45840
+    original: "I'll make a real good soul"
+    translated: Haré de ti una buena alma
+    locked: true
+  - time_start: 45840
+    time_end: 48740
+    original: "Out of you, time ain't ticking slow"
+    translated: El tiempo pasa rápido
+    locked: true
+  - time_start: 48740
+    time_end: 50090
+    original: "Yes, you're overdue"
+    translated: Sí, y ya te estás tardando
+    locked: true
+  - time_start: 50090
+    time_end: 52490
+    original: "Aren't you glad to meet me?"
+    translated: ¿No te alegra conocerme?
+    locked: true
+  - time_start: 52490
+    time_end: 54450
+    original: I think you should
+    translated: Creo que deberías
+    locked: true
+  - time_start: 54450
+    time_end: 57290
+    original: I mean I really think you should, yeah
+    translated: De verdad creo que deberías, sí
+    locked: true
+  - time_start: 57290
+    time_end: 68140
+    original: " "
+    translated: ""
+  - time_start: 68140
+    time_end: 80810
+    original: "Aren't you glad to meet me?"
+    translated: ¿No te alegra conocerme?
+    locked: true
+  - time_start: 80810
+    time_end: 82930
+    original: I mean I really think you should
+    translated: De verdad creo que deberías
+    locked: true
+  - time_start: 82930
+    time_end: 89160
+    original: "You keep on playing saying it's in your nature"
+    translated: Sigues jugando, diciendo que es tu naturaleza
+    locked: true
+  - time_start: 89160
+    time_end: 96250
+    original: Then you go on sulking, blaming all but you
+    translated: Después te emberrinchas, culpando a todos menos a ti
+    locked: true
+  - time_start: 96250
+    time_end: 102650
+    original: "Won't admit you set your heart for failure"
+    translated: No admites que te condenas al fracaso
+    locked: true
+  - time_start: 102650
+    time_end: 109000
+    original: "Should be glad I'm here awaking you"
+    translated: Agradece que hoy te vengo a despertar
+    locked: true
+  - time_start: 109000
+    time_end: 112060
+    original: "So, aren't you glad to meet me?"
+    translated: Entonces, ¿no te alegra conocerme?
+    locked: true
+  - time_start: 112060
+    time_end: 112900
+    original: I think you should
+    translated: Deberías estarlo
+    locked: true
+  - time_start: 112900
+    time_end: 115290
+    original: "I'll be glad to meet me"
+    translated: Yo me alegraría de conocerme
+  - time_start: 115290
+    time_end: 116460
+    original: If I were you
+    translated: Si fuera tú
+  - time_start: 116460
+    time_end: 118580
+    original: "Aren't you glad to meet me?"
+    translated: ¿No te alegra conocerme?
+  - time_start: 118580
+    time_end: 122770
+    original: I think you should
+    translated: Creo que deberías
+  - time_start: 122770
+    time_end: 125120
+    original: "I'll make a real good soul"
+    translated: De ti haré un alma buena
+  - time_start: 125120
+    time_end: 128320
+    original: "Out of you, time ain't ticking slow"
+    translated: El tiempo no va despacio
+  - time_start: 128320
+    time_end: 129480
+    original: "Yes, you're overdue"
+    translated: Sí, ya te tardaste
+  - time_start: 129480
+    time_end: 131860
+    original: "Aren't you glad to meet me?"
+    translated: ¿No te alegra conocerme?
+  - time_start: 131860
+    time_end: 133950
+    original: I think you should
+    translated: Creo que deberías
+  - time_start: 133950
+    time_end: 136290
+    original: I mean I really think you should, yeah
+    translated: De verdad creo que deberías, sí
+  - time_start: 136290
+    time_end: 147360
+    original: " "
+    translated: ""
+  - time_start: 147360
+    time_end: 150370
+    original: "Aren't you glad to meet me?"
+    translated: ¿No te alegra conocerme?
+  - time_start: 150370
+    time_end: 160420
+    original: " "
+    translated: ""
+  - time_start: 160420
+    time_end: 162660
+    original: I mean I really think you should, yeah
+    translated: De verdad creo que deberías, sí
+  - time_start: 162660
+    time_end: 164980
+    original: "Aren't you glad to meet me?"
+    translated: ¿No te alegra conocerme?
+  - time_start: 164980
+    time_end: 166060
+    original: I think you should
+    translated: Creo que deberías
+  - time_start: 166060
+    time_end: 168250
+    original: "I'll be glad to meet me"
+    translated: Yo me alegraría de conocerme
+  - time_start: 168250
+    time_end: 169230
+    original: If I were you
+    translated: Si fuera tú
+  - time_start: 169230
+    time_end: 171640
+    original: "Aren't you glad to meet me?"
+    translated: ¿No te alegra conocerme?
+  - time_start: 171640
+    time_end: 175600
+    original: I think you should
+    translated: Creo que deberías
+  - time_start: 175600
+    time_end: 178280
+    original: "I'll make a real good soul"
+    translated: De ti haré un alma buena
+  - time_start: 178280
+    time_end: 181240
+    original: "Out of you, time ain't ticking slow"
+    translated: El tiempo no va despacio
+  - time_start: 181240
+    time_end: 182590
+    original: "Yes, you're overdue"
+    translated: Sí, ya te tardaste
+  - time_start: 182590
+    time_end: 184930
+    original: "Aren't you glad to meet me?"
+    translated: ¿No te alegra conocerme?
+  - time_start: 184930
+    time_end: 186880
+    original: I think you should
+    translated: Creo que deberías
+  - time_start: 186880
+    time_end: 190710
+    original: I mean I really think you should, yeah
+    translated: De verdad creo que deberías, sí
+  - time_start: 190710
+    time_end: 193710
+    original: " "
+    translated: ""
