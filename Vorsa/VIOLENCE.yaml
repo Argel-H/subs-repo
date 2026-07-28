@@ -1,0 +1,199 @@
+version: 1
+
+project:
+  title: Vorsa - VIOLENCE
+  track_name: VIOLENCE
+  artists:
+    - Vorsa
+  album_name: VIOLENCE
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/795bbe61cbf8321a8ad1eccaf944162e/500x500-000000-80-0-0.webp"
+  song_link: "https://song.link/d/2596007672"
+  artist_links:
+    - name: Vorsa
+      url: "https://www.deezer.com/artist/10413624"
+  social_links:
+    - artist_name: Vorsa
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/1gh8GYfxnY6D9nXPQ1Pb6g"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/10413624"
+        - platform: Apple Music
+          url: "https://music.apple.com/us/artist/vorsa/1104843440"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/vorsa"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/2424025815"
+    appleMusic: null
+    spotify: null
+    youtube: null
+    amazonMusic: "https://music.amazon.com/albums/B0CGG72KJY?trackAsin=B0CGGGDJQT"
+    soundcloud: null
+    tidal: "https://listen.tidal.com/track/312472105"
+
+metadata:
+  created_at: 1785223832987
+  updated_at: 1785223832987
+  exported_at: 1785223836797
+
+lyrics:
+  - time_start: 6160
+    time_end: 10060
+    original: I never stood a chance when you were here
+    translated: "Nunca tuve oportunidad estando tu aquí"
+  - time_start: 10060
+    time_end: 15550
+    original: "All I could think about was you, I didn't have any defense"
+    translated: "Eras lo único en lo que pensaba, no tenía cómo defenderme"
+  - time_start: 15550
+    time_end: 21400
+    original: All of my fears came to fruition, felt like we were enemies
+    translated: "Todos mi miedos,"
+  - time_start: 21400
+    time_end: 25660
+    original: I was like, oh-oh-oh-oh, oh-oh-oh-oh
+    translated: "Me sentía como, oh-oh-oh-oh, oh-oh-oh-oh"
+  - time_start: 25660
+    time_end: 28800
+    original: "Tossing and turning, I'm always sleepwalking"
+    translated: "Atrapado en un ciclo, siempre estoy sonámbulo"
+  - time_start: 28800
+    time_end: 32990
+    original: Like, oh-oh-oh-oh, oh-oh-oh-oh
+    translated: "Como, oh-oh-oh-oh, oh-oh-oh-oh"
+  - time_start: 32990
+    time_end: 37450
+    original: "Trying and trying, but there's no escaping from here"
+    translated: "Tratando e Intentando pero no hay escape de aqui"
+  - time_start: 37450
+    time_end: 43460
+    original: " "
+    translated: ""
+  - time_start: 43460
+    time_end: 47280
+    original: Tell me why, tell me why
+    translated: "Por favor, explicame..."
+  - time_start: 47280
+    time_end: 50970
+    original: Have I been like this while I let you in
+    translated: "¿Por que he sido así?, ¿Por qué te he dejado entrar?"
+  - time_start: 50970
+    time_end: 54520
+    original: Tell me why, tell me why
+    translated: "Explicame, por favor..."
+  - time_start: 54520
+    time_end: 58220
+    original: I guess this is it, we chose violence
+    translated: "Supongo que se acabó, elegimos la violencia"
+  - time_start: 58220
+    time_end: 61570
+    original: But I hope, hope that you know
+    translated: "Pero espero, espero que lo sepas"
+  - time_start: 61570
+    time_end: 65760
+    original: If you should pursue that again
+    translated: "Si es que decides esa manera de nuevo..."
+  - time_start: 65760
+    time_end: 69440
+    original: Tell me why, tell me why
+    translated: "Por favor, explicame..."
+  - time_start: 69440
+    time_end: 72960
+    original: I guess this is it, we chose violence
+    translated: "Supongo que se acabó, elegimos la violencia"
+  - time_start: 72960
+    time_end: 77010
+    original: I woke up, thought I was somebody else
+    translated: "Desperté no sintiéndome yo mismo"
+  - time_start: 77010
+    time_end: 79960
+    original: I looked at myself in the mirror
+    translated: "Me miré al espejo"
+  - time_start: 79960
+    time_end: 84680
+    original: "But it wasn't me, don't know what I have become"
+    translated: "Ese no era yo, no sé en que me convertí"
+  - time_start: 84680
+    time_end: 88460
+    original: "You think you're a saint, but you act like the opposite"
+    translated: "Piensas tener un alma pura, pero tus acciones te contradicen"
+  - time_start: 88460
+    time_end: 92050
+    original: Oh-oh-oh-oh, oh-oh-oh-oh
+    translated: "Oh-oh-oh-oh, oh-oh-oh-oh"
+  - time_start: 92050
+    time_end: 95430
+    original: Falling apart, you just stare and you watch me
+    translated: "Cayéndome a pedazos, y solo me miras sin hacer nada"
+  - time_start: 95430
+    time_end: 99840
+    original: Like Oh-oh-oh-oh, oh-oh-oh-oh
+    translated: "Como Oh-oh-oh-oh, oh-oh-oh-oh"
+  - time_start: 99840
+    time_end: 104060
+    original: "Guess it's my fault I never tried to stop you at all"
+    translated: "Supongo que es mi culpa, por nunca intentar detenerte."
+  - time_start: 104060
+    time_end: 110100
+    original: " "
+    translated: ""
+  - time_start: 110100
+    time_end: 113580
+    original: Tell me why, tell me why
+    translated: "Solo explicame, por favor"
+  - time_start: 113580
+    time_end: 117540
+    original: Have I been like this while I let you in
+    translated: "¿Por qué he sido así?, ¿Por qué te he dejado entrar?"
+  - time_start: 117540
+    time_end: 120990
+    original: Tell me why, tell me why
+    translated: "Por favor, explicame..."
+  - time_start: 120990
+    time_end: 124930
+    original: I guess this is it, we chose violence
+    translated: "Supongo que se acabó, elegimos la violencia"
+  - time_start: 124930
+    time_end: 128080
+    original: But I hope, hope that you know
+    translated: "Pero espero, espero que lo sepas"
+  - time_start: 128080
+    time_end: 132010
+    original: If you should pursue that again
+    translated: "Si es que decides esa manera de nuevo..."
+  - time_start: 132010
+    time_end: 135760
+    original: Tell me why, tell me why
+    translated: "Explicame, por favor..."
+  - time_start: 135760
+    time_end: 140150
+    original: I guess this is it, we chose violence
+    translated: "Supongo que se acabó, elegimos la violencia"
+  - time_start: 140150
+    time_end: 147560
+    original: Going under, going under, please
+    translated: "Me estoy hundiendo, hasta el fondo, por favor…"
+  - time_start: 147560
+    time_end: 153120
+    original: Going under, going under, please
+    translated: "Estoy colapsando, hasta el fondo, por favor…"
+  - time_start: 153120
+    time_end: 160660
+    original: I wish that I could forget and turn back (Going under, going under, please)
+    translated: "Desearía poder olvidarlo y volver atrás"
+  - time_start: 160660
+    time_end: 170130
+    original: I wish that I could forget and turn back (Going under, going under, please)
+    translated: "Desearía poder olvidarlo y volver atrás"
+  - time_start: 170130
+    time_end: 179020
+    original: Going under, going under, please
+    translated: "Me estoy hundiendo, hasta el fondo, por favor…"
+  - time_start: 179020
+    time_end: 186940
+    original: Going under, going under, please
+    translated: "Me estoy hundiendo, hasta el fondo, por favor…"
+  - time_start: 186940
+    time_end: 189940
+    original: " "
+    translated: ""

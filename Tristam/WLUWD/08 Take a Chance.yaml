@@ -1,0 +1,242 @@
+version: 1
+
+project:
+  title: Tristam - Take a Chance
+  track_name: Take a Chance
+  artists:
+    - Tristam
+  album_name: WLUWD
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/4acd08d2eaaf8cc4c00bbf776a8d5aab/500x500-000000-80-0-0.webp"
+  isrcs: QMBZ92051265
+  song_link: "https://www.deezer.com/track/1101175912"
+  artist_links:
+    - name: Tristam
+      url: "https://www.deezer.com/artist/319572"
+  social_links:
+    - artist_name: Tristam
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/319572"
+        - platform: Genius
+          url: "https://genius.com/artists/Tristam"
+        - platform: Website
+          url: "https://tristam.me/"
+        - platform: Twitter/X
+          url: "https://twitter.com/TristamOfficial"
+        - platform: Facebook
+          url: "https://www.facebook.com/Theofficialtristam"
+        - platform: Instagram
+          url: "https://www.instagram.com/itsmetristam/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/tristam"
+        - platform: Apple Music
+          url: "https://music.apple.com/ca/artist/342658707"
+        - platform: Tidal
+          url: "https://tidal.com/artist/20593116"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UC1l0vzhU4V4ddirN7hPNDTA"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/1101175912"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785224738898
+  updated_at: 1785224738898
+  exported_at: 1785225640262
+
+lyrics:
+  - time_start: 10270
+    time_end: 12290
+    original: Long ago
+    translated: Hace mucho tiempo
+  - time_start: 12290
+    time_end: 17280
+    original: I left a place behind
+    translated: Dejé un lugar atrás
+  - time_start: 17280
+    time_end: 24320
+    original: So dear, but it took more than I could find
+    translated: Tan querido para mí, pero me quitaba más de lo que podía encontrar
+  - time_start: 24320
+    time_end: 27120
+    original: One day I had enough
+    translated: Un día tuve suficiente
+  - time_start: 27120
+    time_end: 29880
+    original: Of trying and trusting
+    translated: Me cansé de confiar e intentarlo
+  - time_start: 29880
+    time_end: 34580
+    original: Thought this time I just got to go
+    translated: Sentí que esta vez era momento de irme
+  - time_start: 34580
+    time_end: 37110
+    original: Wondered who would I be
+    translated: Me pregunté quién sería yo
+  - time_start: 37110
+    time_end: 39400
+    original: Somewhere hopeful and free
+    translated: En algún lugar lleno de esperanza y libertad
+  - time_start: 39400
+    time_end: 44560
+    original: I remember thinking this time I just got to know
+    translated: Recuerdo haber pensado que esta vez simplemente tenía que saber
+  - time_start: 44560
+    time_end: 45930
+    original: So I
+    translated: Así que
+  - time_start: 45930
+    time_end: 48460
+    original: Took a chance, ran away
+    translated: Tomé el riesgo y escapé
+  - time_start: 48460
+    time_end: 50720
+    original: "Had enough, couldn't stay"
+    translated: Tuve suficiente, no podía quedarme
+  - time_start: 50720
+    time_end: 53450
+    original: With a broken heart, an ounce of shame
+    translated: Con un corazón roto, una pizca de remordimiento
+  - time_start: 53450
+    time_end: 55850
+    original: I remembered my name
+    translated: Recordé mi nombre
+  - time_start: 55850
+    time_end: 58580
+    original: Took a chance, ran away
+    translated: Tomé el riesgo y escapé
+  - time_start: 58580
+    time_end: 60870
+    original: "Had enough, couldn't stay"
+    translated: Tuve suficiente, no podía quedarme
+  - time_start: 60870
+    time_end: 63660
+    original: With a broken heart, an ounce of shame
+    translated: Con un corazón roto, una pizca de remordimiento
+  - time_start: 63660
+    time_end: 68860
+    original: I remembered my name
+    translated: Recordé mi nombre
+  - time_start: 68860
+    time_end: 75580
+    original: " "
+    translated: ""
+  - time_start: 75580
+    time_end: 82860
+    original: Nowadays you feel it getting hard
+    translated: Actualmente, sientes que las cosas que se complican
+  - time_start: 82860
+    time_end: 89820
+    original: "I hope you'll never let it go too far"
+    translated: Espero que nunca permitas que eso vaya demasiado lejos
+  - time_start: 89820
+    time_end: 92610
+    original: "'Til one day, you've had enough"
+    translated: Hasta que un día, hayas tenido suficiente
+  - time_start: 92610
+    time_end: 95950
+    original: Of trying and trusting
+    translated: De confiar e intentarlo
+  - time_start: 95950
+    time_end: 99840
+    original: "You'll wonder if you got to go"
+    translated: Te preguntarás si es que tienes que irte
+  - time_start: 99840
+    time_end: 102680
+    original: Dreaming of what it could be
+    translated: Soñando con lo que sería de ti
+  - time_start: 102680
+    time_end: 105050
+    original: If you werе, wild and free
+    translated: Si fueras, salvaje y libre
+  - time_start: 105050
+    time_end: 106890
+    original: But in the end
+    translated: Pero al final, solo lo sabrás
+  - time_start: 106890
+    time_end: 110420
+    original: You will only know
+    translated: ㅤ
+  - time_start: 110420
+    time_end: 111680
+    original: When you
+    translated: Cuando
+  - time_start: 111680
+    time_end: 114230
+    original: Takе a chance, run away
+    translated: Tomes el riesgo y escapes
+  - time_start: 114230
+    time_end: 116580
+    original: "Had enough, couldn't stay"
+    translated: Tuve suficiente, no podía quedarme
+  - time_start: 116580
+    time_end: 119350
+    original: With a broken heart, an ounce of shame
+    translated: Con un corazón roto, una pizca de remordimiento
+  - time_start: 119350
+    time_end: 121730
+    original: "You'll remember your name"
+    translated: Recordarás tu nombre
+  - time_start: 121730
+    time_end: 124370
+    original: Takе a chance, run away
+    translated: Toma el riesgo y escapa
+  - time_start: 124370
+    time_end: 126470
+    original: "Had enough, couldn't stay"
+    translated: Tuve suficiente, no podía quedarme
+  - time_start: 126470
+    time_end: 129360
+    original: With a broken heart, an ounce of shame
+    translated: Con un corazón roto, una pizca de remordimiento
+  - time_start: 129360
+    time_end: 134360
+    original: "You'll remember your name"
+    translated: Recordarás tu nombre
+  - time_start: 134360
+    time_end: 152060
+    original: " "
+    translated: ""
+  - time_start: 152060
+    time_end: 154660
+    original: Takе a chance, run away
+    translated: Toma el riesgo y escapa
+  - time_start: 154660
+    time_end: 156750
+    original: "Had enough, couldn't stay"
+    translated: Tuve suficiente, no podía quedarme
+  - time_start: 156750
+    time_end: 159760
+    original: With a broken heart, an ounce of shame
+    translated: Con un corazón roto, una pizca de remordimiento
+  - time_start: 159760
+    time_end: 162020
+    original: "You'll remember your name"
+    translated: Recordarás tu nombre
+  - time_start: 162020
+    time_end: 164690
+    original: Takе a chance, run away
+    translated: Toma el riesgo y escapa
+  - time_start: 164690
+    time_end: 167030
+    original: "Had enough, couldn't stay"
+    translated: Tuve suficiente, no podía quedarme
+  - time_start: 167030
+    time_end: 170050
+    original: With a broken heart, an ounce of shame
+    translated: Con un corazón roto, una pizca de remordimiento
+  - time_start: 170050
+    time_end: 171950
+    original: "You'll remember your name"
+    translated: Recordarás tu nombre
+  - time_start: 171950
+    time_end: 174950
+    original: " "
+    translated: ""

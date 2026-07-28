@@ -1,0 +1,270 @@
+version: 1
+
+project:
+  title: AJR - The Dumb Song
+  track_name: The Dumb Song
+  artists:
+    - AJR
+  album_name: The Dumb Song
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/c2f0112c8c4659743ee81d4099cb6b78/500x500-000000-80-0-0.webp"
+  isrcs: USUG12302241
+  song_link: "https://www.deezer.com/track/2238324557"
+  artist_links:
+    - name: AJR
+      url: "https://www.deezer.com/artist/3288461"
+  social_links:
+    - artist_name: AJR
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/176420427"
+        - platform: Genius
+          url: "https://genius.com/artists/Ajr"
+        - platform: Website
+          url: "http://ajrbrothers.com/"
+        - platform: Twitter/X
+          url: "https://twitter.com/ajrbrothers"
+        - platform: Facebook
+          url: "https://www.facebook.com/AJRBrothers"
+        - platform: Instagram
+          url: "https://www.instagram.com/ajrbrothers/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/ajrbrothers"
+        - platform: Apple Music
+          url: "https://music.apple.com/gb/artist/359553651"
+        - platform: Tidal
+          url: "https://tidal.com/artist/5073699"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UCQ5w3fSomzziZfO7neK7eAg"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/2238324557"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785223670224
+  updated_at: 1785223670224
+  exported_at: 1785223679691
+
+lyrics:
+  - time_start: 11730
+    time_end: 18710
+    original: Oh, in my head
+    translated: "Oh, En Mi Cabeza"
+  - time_start: 18710
+    time_end: 21170
+    original: You said with certainty
+    translated: "Dijiste Con Seguridad"
+  - time_start: 21170
+    time_end: 24390
+    original: "I may be the dumbest person that you've ever seen"
+    translated: "Que Podría Ser La Persona Más Tonta Que Hayas Visto"
+  - time_start: 24390
+    time_end: 26790
+    original: "You think you're hurting me"
+    translated: "Piensas Que Me Haces Sufrir"
+  - time_start: 26790
+    time_end: 31780
+    original: "Bet you won't believe it, but you kinda set me free"
+    translated: "Tal Vez Te Sorprenda, Pero Me Liberaste Un Poco"
+  - time_start: 31780
+    time_end: 41190
+    original: " "
+    translated: ""
+  - time_start: 41190
+    time_end: 43420
+    original: "You've mentioned Adderall"
+    translated: "Mencionaste Unos Fármacos"
+  - time_start: 43420
+    time_end: 46830
+    original: "Slip this guy a sedative, he's bouncing off the wall"
+    translated: "\"Seden A Ese Chico, Está A Punto De Explotar De Tanta Energía\""
+  - time_start: 46830
+    time_end: 48980
+    original: "Honey, it's no big deal"
+    translated: "Tranquila, No Es Para Tanto"
+  - time_start: 48980
+    time_end: 54050
+    original: "We'll get you back to college, you could study somethin' real"
+    translated: "\"Te Devolveremos A La Universidad, Así Podrás Estudiar Algo De Verdad\""
+  - time_start: 54050
+    time_end: 56640
+    original: "So if that's how you feel"
+    translated: "Así Que Si Eso Es Lo Que Piensas"
+  - time_start: 56640
+    time_end: 59400
+    original: When we go down
+    translated: "Cuando Estamos Débiles"
+  - time_start: 59400
+    time_end: 62290
+    original: When kingdom come
+    translated: "Cuando Todo Se Desmorona"
+  - time_start: 62290
+    time_end: 65220
+    original: "Don't look at me, don't look at me"
+    translated: "No Me Mires A Mi, No Me Mires A Mi"
+  - time_start: 65220
+    time_end: 67980
+    original: "I'm just too dumb"
+    translated: "Soy Demasiado Tonto"
+  - time_start: 67980
+    time_end: 70760
+    original: "I'd love to stay (love to stay)"
+    translated: "Me Encantaría Quedarme (Me Encantaría Quedarme)"
+  - time_start: 70760
+    time_end: 73420
+    original: But like you said (like you said)
+    translated: "Pero Como Dijiste (Como Dijiste)"
+  - time_start: 73420
+    time_end: 79020
+    original: "Don't look at me, 'cause I got nothin' in my head"
+    translated: "No Me Mires, Porque No Tengo Nada En Mi Cabeza"
+  - time_start: 79020
+    time_end: 86120
+    original: Oh, in my head
+    translated: "Oh, En Mi Cabeza"
+  - time_start: 86120
+    time_end: 88490
+    original: "Too dumb for breakin' up"
+    translated: "Soy Demasiado Tonto Para Terminarte"
+  - time_start: 88490
+    time_end: 91870
+    original: "I'd do it in person, but I'd probably mess it up"
+    translated: "Lo Haría En Persona, Pero Probablemente Lo Arruinaría"
+  - time_start: 91870
+    time_end: 93950
+    original: "I'll text you, that's enough"
+    translated: "Te Enviaré Un Mensaje De Texto, Eso Es Suficiente"
+  - time_start: 93950
+    time_end: 98910
+    original: "That's how empty-handed people get through sh- stuff"
+    translated: "Así Es Como Las Personas Con Nada En La Cabeza Se Las Arreglan"
+  - time_start: 98910
+    time_end: 108540
+    original: " "
+    translated: ""
+  - time_start: 108540
+    time_end: 110810
+    original: Your world is ending soon
+    translated: "Tu Mundo Se Está Terminando Pronto"
+  - time_start: 110810
+    time_end: 114250
+    original: "Mine's a little better 'cause I never watch the news"
+    translated: "El Mío Está Un Poco Mejor Porque Nunca Veo Las Noticias"
+  - time_start: 114250
+    time_end: 116500
+    original: You make my lunch today
+    translated: "Me Preparaste El Almuerzo Hoy"
+  - time_start: 116500
+    time_end: 121580
+    original: "I would do it, but I couldn't work my microwave"
+    translated: "Lo Haría Yo, Pero No Podría Hacer Funcionar Mi Microondas :D"
+  - time_start: 121580
+    time_end: 123960
+    original: "So if that's what you're saying"
+    translated: "Así Que Si Eso Es Lo Que Piensas"
+  - time_start: 123960
+    time_end: 126780
+    original: When we go down
+    translated: "Cuando Estamos Débiles"
+  - time_start: 126780
+    time_end: 129650
+    original: When kingdom come
+    translated: "Cuando Todo Se Desmorona"
+  - time_start: 129650
+    time_end: 132680
+    original: "Don't look at me, don't look at me"
+    translated: "No Me Mires A Mi, No Me Mires A Mi"
+  - time_start: 132680
+    time_end: 135320
+    original: "I'm just too dumb"
+    translated: "Soy Demasiado Tonto"
+  - time_start: 135320
+    time_end: 138150
+    original: "I'd love to stay (love to stay)"
+    translated: "Me Encantaría Quedarme (Me Encantaría Quedarme)"
+  - time_start: 138150
+    time_end: 140960
+    original: But like you said (like you said)
+    translated: "Pero Como Dijiste (Como Dijiste)"
+  - time_start: 140960
+    time_end: 146510
+    original: "Don't look at me, 'cause I got nothin' in my head"
+    translated: "No Me Mires, Porque No Tengo Nada En Mi Cabeza"
+  - time_start: 146510
+    time_end: 153440
+    original: Oh, in my head
+    translated: "Oh, En Mi Cabeza"
+  - time_start: 153440
+    time_end: 162650
+    original: " "
+    translated: ""
+  - time_start: 162650
+    time_end: 166610
+    original: You should not have done that
+    translated: "No Deberías Haber Hecho Eso :D"
+  - time_start: 166610
+    time_end: 176250
+    original: " "
+    translated: ""
+  - time_start: 176250
+    time_end: 178930
+    original: When we go down (we go down)
+    translated: "Cuando Estamos Débiles (Estamos Débiles)"
+  - time_start: 178930
+    time_end: 181880
+    original: When kingdom come (kingdom come)
+    translated: "Cuando Todo Se Desmorona (Se Desmorona)"
+  - time_start: 181880
+    time_end: 184540
+    original: "Don't look at me, don't look at me"
+    translated: "No Me Mires A Mi, No Me Mires A Mi"
+  - time_start: 184540
+    time_end: 187590
+    original: "I'm much too dumb"
+    translated: "Soy Tonto Mucho Demasiado"
+  - time_start: 187590
+    time_end: 190320
+    original: "I'd love to stay (love to stay)"
+    translated: "Me Encantaría Quedarme (Me Encantaría Quedarme)"
+  - time_start: 190320
+    time_end: 193040
+    original: But like you said (like you said)
+    translated: "Pero Como Dijiste (Como Dijiste)"
+  - time_start: 193040
+    time_end: 198680
+    original: "Don't look at me, 'cause I got nothin' in my head"
+    translated: "No Me Mires, Porque No Tengo Nada En Mi Cabeza"
+  - time_start: 198680
+    time_end: 204350
+    original: Oh, in my head
+    translated: "Oh, En Mi Cabeza"
+  - time_start: 204350
+    time_end: 209830
+    original: Oh, in my head
+    translated: "Oh, En Mi Cabeza"
+  - time_start: 209830
+    time_end: 212730
+    original: When we go down
+    translated: "Cuando Estamos Débiles"
+  - time_start: 212730
+    time_end: 215580
+    original: When kingdom come
+    translated: "Cuando Todo Se Desmorona"
+  - time_start: 215580
+    time_end: 218650
+    original: "Don't look at me, don't look at me"
+    translated: "No Me Mires A Mi, No Me Mires A Mi"
+  - time_start: 218650
+    time_end: 220250
+    original: "I'm just too dumb"
+    translated: "Soy Demasiado Tonto"
+  - time_start: 220250
+    time_end: 223250
+    original: " "
+    translated: ""

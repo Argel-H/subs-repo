@@ -1,0 +1,182 @@
+version: 1
+
+project:
+  title: Tristam - Black Beauty
+  track_name: Black Beauty
+  artists:
+    - Tristam
+  album_name: WLUWD
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/4acd08d2eaaf8cc4c00bbf776a8d5aab/500x500-000000-80-0-0.webp"
+  isrcs: QMBZ92051258
+  song_link: "https://www.deezer.com/track/1101175842"
+  artist_links:
+    - name: Tristam
+      url: "https://www.deezer.com/artist/319572"
+  social_links:
+    - artist_name: Tristam
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/319572"
+        - platform: Genius
+          url: "https://genius.com/artists/Tristam"
+        - platform: Website
+          url: "https://tristam.me/"
+        - platform: Twitter/X
+          url: "https://twitter.com/TristamOfficial"
+        - platform: Facebook
+          url: "https://www.facebook.com/Theofficialtristam"
+        - platform: Instagram
+          url: "https://www.instagram.com/itsmetristam/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/tristam"
+        - platform: Apple Music
+          url: "https://music.apple.com/ca/artist/342658707"
+        - platform: Tidal
+          url: "https://tidal.com/artist/20593116"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UC1l0vzhU4V4ddirN7hPNDTA"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/1101175842"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785224488364
+  updated_at: 1785224488364
+  exported_at: 1785225623722
+
+lyrics:
+  - time_start: 54630
+    time_end: 60510
+    original: Did you know, the streets are colder now
+    translated: ¿Sabías que las calles están más frías ahora
+  - time_start: 60510
+    time_end: 67270
+    original: Than they have ever been? Would you let me in?
+    translated: de lo que nunca han sido? ¿Me dejarías entrar?
+  - time_start: 67270
+    time_end: 73720
+    original: "I'm invisible, you walk right on through"
+    translated: Soy como un fantasma, pasas a través de mí
+  - time_start: 73720
+    time_end: 80630
+    original: "Like I wasn't there, like you didn't care"
+    translated: Como si no existiera allí, como si no te importara
+  - time_start: 80630
+    time_end: 87130
+    original: All we ask is for your eyes to see us, not for our disguise
+    translated: Todo lo que pedimos a tus ojos es que nos vean, más allá de nuestro disfraz
+  - time_start: 87130
+    time_end: 93580
+    original: "To hear our beckon, hear our cries, why can't you stop to meet our eyes?"
+    translated: ¿Por qué sigues ignorando nuestras miradas?
+  - time_start: 93580
+    time_end: 97720
+    original: All we want is a little love, to trickle down from up above
+    translated: Todo lo que queremos es que nos fluya un poco de amor desde allá arriba
+  - time_start: 97720
+    time_end: 99850
+    original: " "
+    translated: ""
+  - time_start: 99850
+    time_end: 106410
+    original: "We've been waiting for a flood, but all we've got is sweat and blood"
+    translated: Nos hemos esforzado tanto y a cambio solo obtenemos lágrimas y sudor
+  - time_start: 106410
+    time_end: 118490
+    original: " "
+    translated: ""
+  - time_start: 118490
+    time_end: 128040
+    original: "You can't let me down, the prospect of a saviour has lost its appeal"
+    translated: No puedes decepcionarme, la esperanza de tener un salvador ha perdido su encanto
+  - time_start: 128040
+    time_end: 131190
+    original: Maybe I can heal
+    translated: Tal vez pueda sanar
+  - time_start: 131190
+    time_end: 138390
+    original: "They say that hope lives on but I don't really care If I am treated as"
+    translated: Dicen que la esperanza es lo último que muere Pero ya no me importa si me tratan como una insignificante fracción de mí.
+  - time_start: 138390
+    time_end: 140470
+    original: " "
+    translated: ""
+  - time_start: 140470
+    time_end: 144580
+    original: A quarter of my halves
+    translated: Pero ya no me importa si me tratan como una insignificante fracción de mí.
+  - time_start: 144580
+    time_end: 150780
+    original: All we ask is for your eyes to see us, not for our disguise
+    translated: Todo lo que pedimos a tus ojos es que nos vean, más allá de nuestro disfraz
+  - time_start: 150780
+    time_end: 157100
+    original: "To hear our beckon, hear our cries, why can't you stop to meet our eyes"
+    translated: ¿Por qué sigues ignorando nuestras miradas?
+  - time_start: 157100
+    time_end: 163430
+    original: All we want is a little love, to trickle down from up above
+    translated: Todo lo que queremos es que nos fluya un poco de amor desde allá arriba
+  - time_start: 163430
+    time_end: 169670
+    original: "We've been waiting for a flood, but all we've got is sweat and blood"
+    translated: Nos hemos esforzado tanto y a cambio solo obtenemos lágrimas y sudor
+  - time_start: 169670
+    time_end: 172660
+    original: I want to soar
+    translated: Quiero volar
+  - time_start: 172660
+    time_end: 175560
+    original: I want to fly away
+    translated: Quiero volar fuera de esta carcel
+  - time_start: 175560
+    time_end: 178710
+    original: To freedom in outer space
+    translated: Hacia la libertad del espacio exterior
+  - time_start: 178710
+    time_end: 181940
+    original: If I were bold, if I were brave
+    translated: Si fuera fuerte, si fuera valiente
+  - time_start: 181940
+    time_end: 185120
+    original: "I'd take a stand"
+    translated: Elegiría luchar
+  - time_start: 185120
+    time_end: 188370
+    original: I would accept the reins
+    translated: Aceptaría tomar las riendas
+  - time_start: 188370
+    time_end: 191510
+    original: I would assume the pain
+    translated: Asumiría todo el dolor
+  - time_start: 191510
+    time_end: 195750
+    original: "I wouldn't need to place the blame"
+    translated: No necesitaría culpar a nadie
+  - time_start: 195750
+    time_end: 198680
+    original: "So when you're looking down upon"
+    translated: Así que cuando estés juzgando desde arriba
+  - time_start: 198680
+    time_end: 201830
+    original: Our weary masks that life has drawn
+    translated: Nuestras cansadas máscaras que la vida ha dibujado
+  - time_start: 201830
+    time_end: 204990
+    original: Remember how you fill your void
+    translated: Recuerda como tú también llenas tu vacío
+  - time_start: 204990
+    time_end: 207270
+    original: "Like us, you're trying to find some joy"
+    translated: Y que al igual que nosotros, estás tratando de encontrar un poco de felicidad.
+  - time_start: 207270
+    time_end: 210270
+    original: " "
+    translated: ""

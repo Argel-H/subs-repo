@@ -1,0 +1,317 @@
+version: 1
+
+project:
+  title: EDEN - Ghost in the Shell
+  track_name: Ghost in the Shell
+  artists:
+    - EDEN
+  album_name: DDAARRKK
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/7c8e7903392f85c937e2f24ffdb9da66/500x500-000000-80-0-0.webp"
+  isrcs: QM6P42596992
+  song_link: "https://www.deezer.com/track/3378111071"
+  artist_links:
+    - name: EDEN
+      url: "https://www.deezer.com/artist/14450"
+  social_links:
+    - artist_name: EDEN
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/14450"
+        - platform: Website
+          url: "http://iameden.eu/"
+        - platform: Twitter/X
+          url: "https://twitter.com/iameden"
+        - platform: Facebook
+          url: "https://www.facebook.com/iameden"
+        - platform: Instagram
+          url: "https://www.instagram.com/iameden/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/iameden"
+        - platform: Apple Music
+          url: "https://music.apple.com/us/artist/1067193301"
+        - platform: Tidal
+          url: "https://tidal.com/artist/15718519"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UC-ZsN5evqmSVo3_SJyQe9yA"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/3378111071"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785222795818
+  updated_at: 1785222799181
+  exported_at: 1785222843833
+
+lyrics:
+  - time_start: 0
+    time_end: 3800
+    original: Sur la terre, tout est joli
+    translated: Sobre la tierra, todo es hermoso
+    locked: false
+  - time_start: 3800
+    time_end: 17000
+    original: ""
+    translated: ""
+    locked: false
+  - time_start: 17000
+    time_end: 20700
+    original: Speaking of another life
+    translated: Hablando de tener una vida diferente
+    locked: false
+  - time_start: 20700
+    time_end: 24500
+    original: Rooftop convos, backstory of tattoos
+    translated: Con conversaciones en la terraza, e historias de tatuajes
+    locked: false
+  - time_start: 24500
+    time_end: 28060
+    original: "I can't imagine"
+    translated: No me lo puedo imaginar
+    locked: false
+  - time_start: 28060
+    time_end: 31500
+    original: Eye contact fast, high hopes got dashed
+    translated: Te contacté rápido, todas mis esperanzas se desvanecieron
+    locked: false
+  - time_start: 31500
+    time_end: 34000
+    original: When you called me up
+    translated: Pero me llamaste de vuelta
+    locked: false
+  - time_start: 34000
+    time_end: 37740
+    original: "I can't believe my luck"
+    translated: Qué increíble suerte la mía
+    locked: false
+  - time_start: 37740
+    time_end: 39800
+    original: "The ghost I love's in love"
+    translated: El fantasma que amo está enamorado
+    locked: false
+  - time_start: 39800
+    time_end: 45000
+    original: "With someone else and he doesn't know about us"
+    translated: De alguien más y él no sabe sobre nosotros
+    locked: false
+  - time_start: 45000
+    time_end: 49700
+    original: "And now it's fading away (And now it's fading away)"
+    translated: Pero ahora todo se está desvaneciendo Ahora se está desvaneciendo
+    locked: false
+  - time_start: 49700
+    time_end: 56800
+    original: "I feel something (And now it's fading away)"
+    translated: (Siento algo) Ahora se está desvaneciendo
+    locked: false
+  - time_start: 56800
+    time_end: 60100
+    original: "It's fading away"
+    translated: Que se está desvaneciendo
+    locked: false
+  - time_start: 60100
+    time_end: 62850
+    original: "It's fading away"
+    translated: Se está desvaneciendo
+    locked: false
+  - time_start: 62850
+    time_end: 65600
+    original: "But can't I make you see, you belong with me"
+    translated: ¿No puedo hacerte ver, que perteneces aquí conmigo?
+    locked: false
+  - time_start: 65600
+    time_end: 69510
+    original: "Don't you know you're throwing it away, throwing it away"
+    translated: ¿Qué no ves que estás echándolo a perder, echándolo a perder?
+    locked: false
+  - time_start: 69510
+    time_end: 70400
+    original: Throwing it a-
+    translated: Echándolo a-
+    locked: false
+  - time_start: 70400
+    time_end: 73100
+    original: "Can't I make you see, you belong with me"
+    translated: ¿No puedo hacerte ver, que perteneces aquí conmigo?
+    locked: false
+  - time_start: 73100
+    time_end: 77000
+    original: "Don't you know you're throwing it away, throwing it away"
+    translated: ¿Qué no ves que estás echándolo a perder, echándolo a perder?
+    locked: false
+  - time_start: 77000
+    time_end: 77900
+    original: Throwing it a-
+    translated: Echándolo a-
+    locked: false
+  - time_start: 77900
+    time_end: 80650
+    original: Sometimes when I feel what it does to me
+    translated: A veces mis emociones, no están siendo claras
+    locked: false
+  - time_start: 80650
+    time_end: 84260
+    original: I just wanna throw it all away, throwing it away
+    translated: Solo quiero deshacerme de todo, deshacerme de todo
+    locked: false
+  - time_start: 84260
+    time_end: 88070
+    original: Throwing it, throwing it away, throwing it away
+    translated: Deshacerme de, deshacerme de todo, deshacerme de todo
+    locked: false
+  - time_start: 88070
+    time_end: 91930
+    original: Throwing it, throwing it away, throwing it away
+    translated: Deshacerme de, deshacerme de todo, deshacerme de todo
+    locked: false
+  - time_start: 91930
+    time_end: 92700
+    original: Throwing it
+    translated: Deshacerme de
+    locked: false
+  - time_start: 92700
+    time_end: 95540
+    original: Gun hands in the air, slow motion
+    translated: Disparos en el aire en cámara lenta
+    locked: false
+  - time_start: 95540
+    time_end: 99400
+    original: "Got me feeling something strange, it's a cold ocean"
+    translated: Me hicieron sentir algo extraño, cómo estar en un frío océano
+    locked: false
+  - time_start: 99400
+    time_end: 102130
+    original: Ahadadream showing me new ways
+    translated: Ahadadream me mostró como ver las cosas de nuevas manera
+    locked: false
+  - time_start: 102130
+    time_end: 105000
+    original: I had a dream, there was no escape
+    translated: Tuve un sueño, dónde no había escape
+    locked: false
+  - time_start: 105000
+    time_end: 107800
+    original: You got me back in your own ways
+    translated: Me atrapaste a tu propia manera
+    locked: false
+  - time_start: 107800
+    time_end: 110700
+    original: I ate that karma, now the debts paid
+    translated: Me tragué ese karma, ahora esa deuda está saldada
+    locked: false
+  - time_start: 110700
+    time_end: 113530
+    original: Eye for an eye, we saw each other change
+    translated: Ojo por ojo, vimos como cambiamos
+    locked: false
+  - time_start: 113530
+    time_end: 116300
+    original: Orbits we had decoupled, in decay
+    translated: Las órbitas que teníamos se desacoplaron, en decadencia
+    locked: false
+  - time_start: 116300
+    time_end: 121650
+    original: Then a couple years show me new sides of familiar faces
+    translated: Y después de unos años me muestran nuevos lados de esas caras familiares
+    locked: false
+  - time_start: 121650
+    time_end: 125420
+    original: We fell out of touch, out of sync it chafed
+    translated: Perdimos el contacto y la sincronía, eso dolió
+    locked: false
+  - time_start: 125420
+    time_end: 129000
+    original: Fell on my face hit you for commiserations
+    translated: Caí directo de cara, te busqué para consolarme
+    locked: false
+  - time_start: 129000
+    time_end: 133900
+    original: The tee shirt said the heart had changed
+    translated: Tu camiseta me decía que tu corazón había cambiado
+    locked: false
+  - time_start: 133900
+    time_end: 137500
+    original: Those texts made me a ghost in the shell
+    translated: Aunque, el sexo me hizo un fantasma en un cascarón.
+    locked: false
+  - time_start: 137500
+    time_end: 140510
+    original: How can I make you see, you belong with me
+    translated: ¿No puedo hacerte ver, que perteneces aquí conmigo?
+    locked: false
+  - time_start: 140510
+    time_end: 144210
+    original: "Don't you know you're throwing it away, throwing it away"
+    translated: ¿Qué no ves que estás echándolo a perder, echándolo a perder?
+    locked: false
+  - time_start: 144210
+    time_end: 145240
+    original: Throwing it a-
+    translated: Echándolo a-
+    locked: false
+  - time_start: 145240
+    time_end: 147910
+    original: "Can't I make you see, you belong with me"
+    translated: ¿No puedo hacerte ver, que perteneces aquí conmigo?
+    locked: false
+  - time_start: 147910
+    time_end: 151760
+    original: "Don't you know you're throwing it away, throwing it away"
+    translated: ¿Qué no ves que estás echándolo a perder, echándolo a perder?
+    locked: false
+  - time_start: 151760
+    time_end: 152660
+    original: Throwing it a-
+    translated: Echándolo a-
+    locked: false
+  - time_start: 152660
+    time_end: 155540
+    original: Sometimes when I feel what it does to me
+    translated: A veces mis emociones, no están siendo claras
+    locked: false
+  - time_start: 155540
+    time_end: 159080
+    original: I just wanna throw it all away, throwing it away
+    translated: Solo quiero deshacerme de todo, deshacerme de todo
+    locked: false
+  - time_start: 159080
+    time_end: 162850
+    original: Throwing it, throwing it away, throwing it away
+    translated: Deshacerme de, deshacerme de todo, deshacerme de todo
+    locked: false
+  - time_start: 162850
+    time_end: 166690
+    original: Throwing it, throwing it away, throwing it away
+    translated: Deshacerme de, deshacerme de todo, deshacerme de todo
+    locked: false
+  - time_start: 166690
+    time_end: 169500
+    original: Throwing it
+    translated: Deshacerme de
+    locked: false
+  - time_start: 169500
+    time_end: 176750
+    original: I feel something (feel something)
+    translated: Siento algo
+    locked: false
+  - time_start: 176750
+    time_end: 180610
+    original: "It's fading away (self-destructive)"
+    translated: Que se está desvaneciendo Que se está desvaneciendo
+    locked: false
+  - time_start: 180610
+    time_end: 186430
+    original: "It's fading awa-"
+    translated: Se está desvaneciendo
+    locked: false
+  - time_start: 186430
+    time_end: 189430
+    original: " "
+    translated: ""
+    locked: false

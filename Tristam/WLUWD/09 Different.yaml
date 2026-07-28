@@ -1,0 +1,294 @@
+version: 1
+
+project:
+  title: Tristam - Different
+  track_name: Different
+  artists:
+    - Tristam
+  album_name: WLUWD
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/4acd08d2eaaf8cc4c00bbf776a8d5aab/500x500-000000-80-0-0.webp"
+  isrcs: QMBZ92051266
+  song_link: "https://www.deezer.com/track/1101175922"
+  artist_links:
+    - name: Tristam
+      url: "https://www.deezer.com/artist/319572"
+  social_links:
+    - artist_name: Tristam
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/319572"
+        - platform: Genius
+          url: "https://genius.com/artists/Tristam"
+        - platform: Website
+          url: "https://tristam.me/"
+        - platform: Twitter/X
+          url: "https://twitter.com/TristamOfficial"
+        - platform: Facebook
+          url: "https://www.facebook.com/Theofficialtristam"
+        - platform: Instagram
+          url: "https://www.instagram.com/itsmetristam/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/tristam"
+        - platform: Apple Music
+          url: "https://music.apple.com/ca/artist/342658707"
+        - platform: Tidal
+          url: "https://tidal.com/artist/20593116"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UC1l0vzhU4V4ddirN7hPNDTA"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/1101175922"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785224761109
+  updated_at: 1785224761109
+  exported_at: 1785225644322
+
+lyrics:
+  - time_start: 17990
+    time_end: 22670
+    original: Laying here pretty, still to my feet
+    translated: Estando aquí acostado, vulnerable hasta los pies
+  - time_start: 22670
+    time_end: 27440
+    original: "Can you really blame me if I'd rather sleep?"
+    translated: ¿Es tan malo que prefiera dormir en lugar de hacer cualquier cosa?
+  - time_start: 27440
+    time_end: 31590
+    original: "If you're so lucky to hear me complain"
+    translated: Si eres el afortunado de escuchar mis quejas
+  - time_start: 31590
+    time_end: 36400
+    original: "Hold up my head and I'll swallow my pain"
+    translated: Mantendré mi cabeza en alto y soportaré el dolor
+  - time_start: 36400
+    time_end: 40480
+    original: "Look at me funny and I'll hear out your jokes"
+    translated: No te preocupes por ofenderme, igual escucharé tus chistes
+  - time_start: 40480
+    time_end: 47370
+    original: "My mamma once told me I'm golden and special, and I know"
+    translated: Mi mamá me dijo una vez que soy valioso y especial, y lo sé
+  - time_start: 47370
+    time_end: 53160
+    original: "I know it's true"
+    translated: Sé que no se equivoca.
+  - time_start: 53160
+    time_end: 56310
+    original: "And though, I'm a little bit different"
+    translated: Y aunque, soy un poco diferente
+  - time_start: 56310
+    time_end: 58520
+    original: You could never really make a dent
+    translated: Nunca podrás cambiar eso de mí
+  - time_start: 58520
+    time_end: 60610
+    original: Take away my only different
+    translated: No permitiré que me quiten lo que me define
+  - time_start: 60610
+    time_end: 63240
+    original: "It's mine, that's right"
+    translated: Es mío, me pertenece. (Me pertenece)
+  - time_start: 63240
+    time_end: 65400
+    original: "I'm a little bit different"
+    translated: Soy un poco diferente
+  - time_start: 65400
+    time_end: 67520
+    original: You could never really make a dent
+    translated: Nunca podrás cambiar eso de mí
+  - time_start: 67520
+    time_end: 69520
+    original: Take away my only different
+    translated: No permitiré que me quiten lo que me define
+  - time_start: 69520
+    time_end: 72480
+    original: "It's mine, that's right"
+    translated: Es mío, me pertenece.
+  - time_start: 72480
+    time_end: 90200
+    original: " "
+    translated: ""
+  - time_start: 90200
+    time_end: 94130
+    original: "Tell me the point of these words you can't hold"
+    translated: ¿Cuál es el punto de esas palabras que no puedes mantener...
+  - time_start: 94130
+    time_end: 99010
+    original: "When the heat from the friction can't fight off your cold"
+    translated: ...cuando el peso de las mismas te son indiferentes?
+  - time_start: 99010
+    time_end: 102920
+    original: Your favourite season may be subject to change
+    translated: Tu temporada favorita está sujeta a cambios
+  - time_start: 102920
+    time_end: 108200
+    original: But the beat of my heart you will never derange
+    translated: Pero el latido de mi corazón nunca alterarás.
+  - time_start: 108200
+    time_end: 112530
+    original: "Look at me funny and I'll hear out your jokes"
+    translated: No te preocupes por ofenderme, igual escucharé tus chistes
+  - time_start: 112530
+    time_end: 119360
+    original: "My mamma once told me I'm golden and special, and I know"
+    translated: Mi mamá me dijo una vez que soy valioso y especial, y lo sé
+  - time_start: 119360
+    time_end: 125320
+    original: "I know it's true"
+    translated: Sé que no se
+  - time_start: 125320
+    time_end: 128280
+    original: "And though, I'm a little bit different"
+    translated: (Soy un poco diferente)
+  - time_start: 128280
+    time_end: 130680
+    original: You could never really make a dent
+    translated: Nunca podrás cambiar eso de mí
+  - time_start: 130680
+    time_end: 132530
+    original: Take away my only different
+    translated: No permitiré que me quiten lo que me define
+  - time_start: 132530
+    time_end: 135070
+    original: "It's mine, that's right"
+    translated: Es mío, me
+  - time_start: 135070
+    time_end: 137320
+    original: "I'm a little bit different"
+    translated: Soy un poco diferente
+  - time_start: 137320
+    time_end: 139510
+    original: You could never really make a dent
+    translated: Nunca podrás cambiar eso de mí
+  - time_start: 139510
+    time_end: 141420
+    original: Take away my only different
+    translated: No permitiré que me quiten lo que me define
+  - time_start: 141420
+    time_end: 144270
+    original: "It's mine, that's right"
+    translated: pertenece.
+  - time_start: 144270
+    time_end: 146150
+    original: "(I'm a little bit different)"
+    translated: (Soy un poco diferente)
+  - time_start: 146150
+    time_end: 148390
+    original: (You could never really make a dent)
+    translated: (Nunca podrás cambiar eso de mí)
+  - time_start: 148390
+    time_end: 150430
+    original: (Take away my only different)
+    translated: (No permitiré que me quiten lo que me define)
+  - time_start: 150430
+    time_end: 153120
+    original: "(It's mine, that's right)"
+    translated: Es mío, me pertenece.
+  - time_start: 153120
+    time_end: 155440
+    original: "(I'm a little bit different)"
+    translated: Soy un poco diferente
+  - time_start: 155440
+    time_end: 157470
+    original: (You could never really make a dent)
+    translated: (Nunca podrás cambiar eso de mí)
+  - time_start: 157470
+    time_end: 159670
+    original: (Take away my only different)
+    translated: (No permitiré que me quiten lo que me define)
+  - time_start: 159670
+    time_end: 161010
+    original: "(It's mine that's-)"
+    translated: Es mío, me pertenece.
+  - time_start: 161010
+    time_end: 165440
+    original: Let those colors show
+    translated: Permítete mostrar tus verdaderos colores
+  - time_start: 165440
+    time_end: 169680
+    original: Nothing to explain
+    translated: No tienes nada que explicar
+  - time_start: 169680
+    time_end: 174070
+    original: "Remember when you're scared"
+    translated: Cuando estés asustado no olvides que
+  - time_start: 174070
+    time_end: 180030
+    original: The fear is half the pain
+    translated: El miedo es la mitad del dolor
+  - time_start: 180030
+    time_end: 182310
+    original: "I'm a little bit different"
+    translated: Soy un poco diferente
+  - time_start: 182310
+    time_end: 184550
+    original: You could never really make a dent
+    translated: Nunca podrás cambiar eso de mí
+  - time_start: 184550
+    time_end: 186460
+    original: Take away my only different
+    translated: No permitiré que me quiten lo que me define
+  - time_start: 186460
+    time_end: 189120
+    original: "It's mine, that's right"
+    translated: Es mío, me pertenece.
+  - time_start: 189120
+    time_end: 191230
+    original: "I'm a little bit different"
+    translated: Soy un poco diferente
+  - time_start: 191230
+    time_end: 193420
+    original: You could never really make a dent
+    translated: Nunca podrás cambiar eso de mí
+  - time_start: 193420
+    time_end: 195410
+    original: Take away my only different
+    translated: No permitiré que me quiten lo que me define
+  - time_start: 195410
+    time_end: 198140
+    original: "It's mine, that's right"
+    translated: Es mío, me pertenece.
+  - time_start: 198140
+    time_end: 200260
+    original: "(I'm a little bit different)"
+    translated: Soy un poco diferente
+  - time_start: 200260
+    time_end: 202390
+    original: (You could never really make a dent)
+    translated: (Nunca podrás cambiar eso de mí)
+  - time_start: 202390
+    time_end: 204510
+    original: (Take away my only different)
+    translated: (No permitiré que me quiten lo que me define)
+  - time_start: 204510
+    time_end: 207030
+    original: "(It's mine, that's right)"
+    translated: Es mío, me pertenece.
+  - time_start: 207030
+    time_end: 209230
+    original: "(I'm a little bit different)"
+    translated: Soy un poco diferente
+  - time_start: 209230
+    time_end: 211520
+    original: (You could never really make a dent)
+    translated: (Nunca podrás cambiar eso de mí)
+  - time_start: 211520
+    time_end: 214730
+    original: "(Take away my only different, it's mine)"
+    translated: (No permitiré que me quiten lo que me define, es mía)
+  - time_start: 214730
+    time_end: 215820
+    original: "(That's right)"
+    translated: Es mío, me pertenece.
+  - time_start: 215820
+    time_end: 218820
+    original: " "
+    translated: ""

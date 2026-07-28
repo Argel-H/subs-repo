@@ -1,0 +1,310 @@
+version: 1
+
+project:
+  title: Tristam - Can You Feel the Love
+  track_name: Can You Feel the Love
+  artists:
+    - Tristam
+  album_name: WLUWD
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/4acd08d2eaaf8cc4c00bbf776a8d5aab/500x500-000000-80-0-0.webp"
+  isrcs: QMBZ92051268
+  song_link: "https://www.deezer.com/track/1101175942"
+  artist_links:
+    - name: Tristam
+      url: "https://www.deezer.com/artist/319572"
+  social_links:
+    - artist_name: Tristam
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/319572"
+        - platform: Genius
+          url: "https://genius.com/artists/Tristam"
+        - platform: Website
+          url: "https://tristam.me/"
+        - platform: Twitter/X
+          url: "https://twitter.com/TristamOfficial"
+        - platform: Facebook
+          url: "https://www.facebook.com/Theofficialtristam"
+        - platform: Instagram
+          url: "https://www.instagram.com/itsmetristam/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/tristam"
+        - platform: Apple Music
+          url: "https://music.apple.com/ca/artist/342658707"
+        - platform: Tidal
+          url: "https://tidal.com/artist/20593116"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UC1l0vzhU4V4ddirN7hPNDTA"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/1101175942"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785225069519
+  updated_at: 1785225069519
+  exported_at: 1785225650270
+
+lyrics:
+  - time_start: 15050
+    time_end: 18840
+    original: As I grew
+    translated: Mientras crecía
+  - time_start: 18840
+    time_end: 24810
+    original: From your supple hands
+    translated: En la calidez de tus manos
+  - time_start: 24810
+    time_end: 29870
+    original: I could be a burden
+    translated: Podía ser una carga
+  - time_start: 29870
+    time_end: 34580
+    original: "But you'd understand"
+    translated: Pero siempre lo comprendías
+  - time_start: 34580
+    time_end: 39210
+    original: "Though the child's gone"
+    translated: Aunque ya haya crecido
+  - time_start: 39210
+    time_end: 44490
+    original: "I'm still a mixed-up kid"
+    translated: Sigo siendo un niño confundido
+  - time_start: 44490
+    time_end: 48760
+    original: "It's like I need you now"
+    translated: Y necesito tu ayuda
+  - time_start: 48760
+    time_end: 55310
+    original: Like I never did
+    translated: Como nunca la necesité
+  - time_start: 55310
+    time_end: 60540
+    original: "Life's got me tumbling down the stairs again, unusually blue"
+    translated: La vida me tiene cayendo por las escaleras otra vez, haciéndome sentir muy triste
+  - time_start: 60540
+    time_end: 64810
+    original: "I've been scratched up and bruised"
+    translated: Me he golpeado y arañado
+  - time_start: 64810
+    time_end: 69970
+    original: "Just as I'm asking for some help again, you already knew"
+    translated: Justo cuando vuelvo a pedir ayuda, tú ya sabías que...
+  - time_start: 69970
+    time_end: 72990
+    original: I feel thrown out and used
+    translated: Me siento desechado y utilizado
+  - time_start: 72990
+    time_end: 77900
+    original: "There's nothing like your eyes to recognize my pain"
+    translated: No hay nada como tu mirada para reconocer mi dolor
+  - time_start: 77900
+    time_end: 80100
+    original: Uncovering the lies
+    translated: Poniendo al descubierto las mentiras
+  - time_start: 80100
+    time_end: 83030
+    original: I told myself in vain
+    translated: Que me conté a mí mismo en vano
+  - time_start: 83030
+    time_end: 84940
+    original: Nothing like your hand
+    translated: No hay nada como tus manos
+  - time_start: 84940
+    time_end: 87380
+    original: So gentle with my heart
+    translated: Tan gentiles con mi corazón
+  - time_start: 87380
+    time_end: 89950
+    original: To hold me in my grief
+    translated: Para abrazarme en mi dolor
+  - time_start: 89950
+    time_end: 92940
+    original: To make me feel apart
+    translated: Para hacerme sentir distinto
+  - time_start: 92940
+    time_end: 97900
+    original: I can feel thе love right now
+    translated: Puedo sentir el amor ahora mismo
+  - time_start: 97900
+    time_end: 102590
+    original: I can feel the love right now
+    translated: Puedo sentir el amor ahora mismo
+  - time_start: 102590
+    time_end: 107120
+    original: I can feel thе love right now
+    translated: Puedo sentir el amor ahora mismo
+  - time_start: 107120
+    time_end: 113280
+    original: "And the laughs and cries that we'll take to the ground"
+    translated: Junto a las risas y lágrimas que nos acompañarán
+  - time_start: 113280
+    time_end: 117050
+    original: Looking round
+    translated: Mirando al rededor
+  - time_start: 117050
+    time_end: 122830
+    original: To the ones I love
+    translated: A aquellos que amo
+  - time_start: 122830
+    time_end: 127110
+    original: I can feel it slip
+    translated: Puedo sentir se me escapan
+  - time_start: 127110
+    time_end: 132630
+    original: "Then the moment's gone"
+    translated: Para que después el momento desaparezca
+  - time_start: 132630
+    time_end: 136890
+    original: Did I blink too fast?
+    translated: ¿Fue que parpadee demasiado rápido?
+  - time_start: 136890
+    time_end: 142680
+    original: Caught up in my ways
+    translated: Estoy demasiado envuelto a mis asuntos
+  - time_start: 142680
+    time_end: 146860
+    original: Someone take me back
+    translated: Por favor alguien lléveme de vuelta
+  - time_start: 146860
+    time_end: 152940
+    original: To those good old days
+    translated: A aquellas buenas épocas
+  - time_start: 152940
+    time_end: 158110
+    original: "And now you're tumbling down the stairs again, unusually blue"
+    translated: Ahora la vida te tiene cayendo por las escaleras otra vez, haciéndote sentir muy triste
+  - time_start: 158110
+    time_end: 162750
+    original: You got scratched up and bruised
+    translated: Te has golpeado y arañado
+  - time_start: 162750
+    time_end: 168200
+    original: I see a shadow pass me by again, I already knew
+    translated: Veo una sombra dejándome atrás de nuevo, ya lo sabía
+  - time_start: 168200
+    time_end: 171190
+    original: You feel thrown out and used
+    translated: También sientes que te desecharon y utilizaron
+  - time_start: 171190
+    time_end: 173360
+    original: "And you don't have to ask"
+    translated: No necesitas pedirlo
+  - time_start: 173360
+    time_end: 176380
+    original: "I'll lift beneath the veil"
+    translated: Yo levantaré las cortinas
+  - time_start: 176380
+    time_end: 178140
+    original: Letting in some light
+    translated: Dejando pasar algo de luz
+  - time_start: 178140
+    time_end: 180880
+    original: Remind you of the day
+    translated: Recordándote del día
+  - time_start: 180880
+    time_end: 183220
+    original: And if you want to hide
+    translated: Y si quieres esconderte
+  - time_start: 183220
+    time_end: 185650
+    original: Afraid to face the sun
+    translated: Por miedo a la luz del sol
+  - time_start: 185650
+    time_end: 187870
+    original: "No matter I'll be there"
+    translated: No te preocupes, estaré ahí contigo
+  - time_start: 187870
+    time_end: 190620
+    original: "And I'm not the only one"
+    translated: Y hay otros que también lo harán
+  - time_start: 190620
+    time_end: 195650
+    original: Can you feel the love right now?
+    translated: Puedo sentir el amor ahora mismo
+  - time_start: 195650
+    time_end: 200660
+    original: Can you feel the love right now?
+    translated: Puedo sentir el amor ahora mismo
+  - time_start: 200660
+    time_end: 204830
+    original: Can you feel the love right now?
+    translated: Puedo sentir el amor ahora mismo
+  - time_start: 204830
+    time_end: 210480
+    original: "And the laughs and cries that we'll take to the ground"
+    translated: Junto a las risas y lágrimas que nos acompañarán
+  - time_start: 210480
+    time_end: 215340
+    original: Can you feel the love right now?
+    translated: Puedo sentir el amor ahora mismo
+  - time_start: 215340
+    time_end: 220400
+    original: Can you feel the love right now?
+    translated: Puedo sentir el amor ahora mismo
+  - time_start: 220400
+    time_end: 224130
+    original: Can you feel the love right now?
+    translated: Puedo sentir el amor ahora mismo
+  - time_start: 224130
+    time_end: 230740
+    original: "And the laughs and cries that we'll take to the ground"
+    translated: Junto a las risas y lágrimas que nos acompañarán
+  - time_start: 230740
+    time_end: 240850
+    original: " "
+    translated: ""
+  - time_start: 240850
+    time_end: 245790
+    original: Oh-oh-oh-oh-oh uh-uh-uh
+    translated: Oh-oh-oh-oh-oh uh-uh-uh
+  - time_start: 245790
+    time_end: 248360
+    original: Uh-uh-uh
+    translated: Uh-uh-uh
+  - time_start: 248360
+    time_end: 253330
+    original: Oh-oh-oh-oh-oh uh-uh-uh
+    translated: Oh-oh-oh-oh-oh uh-uh-uh
+  - time_start: 253330
+    time_end: 255530
+    original: Uh-uh-uh
+    translated: Uh-uh-uh
+  - time_start: 255530
+    time_end: 260890
+    original: Oh-oh-oh-oh-oh uh-uh-uh
+    translated: Oh-oh-oh-oh-oh uh-uh-uh
+  - time_start: 260890
+    time_end: 262750
+    original: Uh-uh-uh
+    translated: Uh-uh-uh
+  - time_start: 262750
+    time_end: 268050
+    original: Oh-oh-oh-oh-oh uh-uh-uh
+    translated: Oh-oh-oh-oh-oh uh-uh-uh
+  - time_start: 268050
+    time_end: 270170
+    original: Uh-uh-uh
+    translated: Uh-uh-uh
+  - time_start: 270170
+    time_end: 275320
+    original: Oh-oh-oh-oh-oh uh-uh-uh
+    translated: Oh-oh-oh-oh-oh uh-uh-uh
+  - time_start: 275320
+    time_end: 277520
+    original: Uh-uh-uh
+    translated: Uh-uh-uh
+  - time_start: 277520
+    time_end: 285420
+    original: Uh-uh-uh uh-uh-uh
+    translated: Uh-uh-uh uh-uh-uh
+  - time_start: 285420
+    time_end: 288420
+    original: " "
+    translated: ""

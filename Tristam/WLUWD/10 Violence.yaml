@@ -1,0 +1,258 @@
+version: 1
+
+project:
+  title: Tristam - Violence
+  track_name: Violence
+  artists:
+    - Tristam
+  album_name: WLUWD
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/56cdb70d34c87e7ff72fbc1c94917d2a/500x500-000000-80-0-0.webp"
+  isrcs: QMBZ92051267
+  song_link: "https://www.deezer.com/track/1095537092"
+  artist_links:
+    - name: Tristam
+      url: "https://www.deezer.com/artist/319572"
+  social_links:
+    - artist_name: Tristam
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/319572"
+        - platform: Genius
+          url: "https://genius.com/artists/Tristam"
+        - platform: Website
+          url: "https://tristam.me/"
+        - platform: Twitter/X
+          url: "https://twitter.com/TristamOfficial"
+        - platform: Facebook
+          url: "https://www.facebook.com/Theofficialtristam"
+        - platform: Instagram
+          url: "https://www.instagram.com/itsmetristam/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/tristam"
+        - platform: Apple Music
+          url: "https://music.apple.com/ca/artist/342658707"
+        - platform: Tidal
+          url: "https://tidal.com/artist/20593116"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UC1l0vzhU4V4ddirN7hPNDTA"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/1095537092"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785224798715
+  updated_at: 1785224798715
+  exported_at: 1785225647729
+
+lyrics:
+  - time_start: 11080
+    time_end: 14150
+    original: "Don't wanna go, trying to keep"
+    translated: No quiero seguir, intentando sobrevivir
+  - time_start: 14150
+    time_end: 20250
+    original: Too tired to fight, leave me to sweep up my pieces
+    translated: Tan cansado de luchar, solo déjame recoger mis pedazos
+  - time_start: 20250
+    time_end: 23570
+    original: "It's only weakness"
+    translated: Solo estoy débil
+  - time_start: 23570
+    time_end: 26520
+    original: "Give me the strength, I don't wanna fall"
+    translated: Dame la fuerza, para no hundirme más
+  - time_start: 26520
+    time_end: 29620
+    original: "When I don't know how to deal with it all"
+    translated: Cuando no sé cómo enfrentarlo todo
+  - time_start: 29620
+    time_end: 35310
+    original: The waves overthrow me, with fire and salt
+    translated: Las olas me sumergen Con intensidad y dolor
+  - time_start: 35310
+    time_end: 39210
+    original: "I can't get my oxygen"
+    translated: No puedo recuperar mi aliento
+  - time_start: 39210
+    time_end: 47240
+    original: " "
+    translated: ""
+  - time_start: 47240
+    time_end: 50630
+    original: "I can't get my oxygen"
+    translated: No puedo recuperar mi aliento
+  - time_start: 50630
+    time_end: 60060
+    original: " "
+    translated: ""
+  - time_start: 60060
+    time_end: 63120
+    original: "Maybe I'm done with the violence"
+    translated: Puede que esté al límite con tanta violencia
+  - time_start: 63120
+    time_end: 66030
+    original: "Maybe with love, it'll make sense"
+    translated: Tal vez con amor, esto tendrá algo de sentido
+  - time_start: 66030
+    time_end: 69130
+    original: "Maybe it's all in our intent"
+    translated: Quizás todo depende de nuestra intención
+  - time_start: 69130
+    time_end: 72220
+    original: Deep down we are innocent
+    translated: En el fondo, todos somos inocentes
+  - time_start: 72220
+    time_end: 75180
+    original: "Maybe I'm done with the violence"
+    translated: Puede que esté al límite con tanta violencia
+  - time_start: 75180
+    time_end: 78220
+    original: "Maybe with love, it'll make sense"
+    translated: Tal vez con amor, esto tendrá algo de sentido
+  - time_start: 78220
+    time_end: 81340
+    original: "Maybe it's all in our intent"
+    translated: Quizás todo depende de nuestra intención
+  - time_start: 81340
+    time_end: 84430
+    original: Deep down we are innocent
+    translated: Porque en el fondo, todos somos inocentes
+  - time_start: 84430
+    time_end: 88540
+    original: "Maybe I'm done with the violence"
+    translated: Puede que esté al límite con tanta violencia
+  - time_start: 88540
+    time_end: 97690
+    original: " "
+    translated: ""
+  - time_start: 97690
+    time_end: 100750
+    original: When you got hurt, you wanted to scream
+    translated: Cuando estanas herido, quisiste gritar
+  - time_start: 100750
+    time_end: 103890
+    original: Burrow yourself into a dream
+    translated: Refugiarte en un sueño
+  - time_start: 103890
+    time_end: 106840
+    original: "Didn't you notice"
+    translated: ¿No lo has notado?
+  - time_start: 106840
+    time_end: 110090
+    original: "We're just a weakness"
+    translated: Solo somos testigos
+  - time_start: 110090
+    time_end: 113380
+    original: Open your eyes, look at the signs
+    translated: Abre tus ojos, mira las señales
+  - time_start: 113380
+    time_end: 116480
+    original: "Think of the hate you've been holding inside"
+    translated: Piensa en el odio que has aguantado dentro de ti
+  - time_start: 116480
+    time_end: 119180
+    original: The waves can uplift you
+    translated: Las olas pueden llevarte a flote
+  - time_start: 119180
+    time_end: 121900
+    original: "'Cause it's not their fault"
+    translated: Porque ellas no tienen la culpa
+  - time_start: 121900
+    time_end: 125630
+    original: "If you can't get your oxygen"
+    translated: De que no puedas recuperar tu aliento.
+  - time_start: 125630
+    time_end: 133940
+    original: " "
+    translated: ""
+  - time_start: 133940
+    time_end: 137590
+    original: "I can't get my oxygen"
+    translated: No puedo recuperar mi aliento
+  - time_start: 137590
+    time_end: 146470
+    original: " "
+    translated: ""
+  - time_start: 146470
+    time_end: 149560
+    original: "Maybe I'm done with the violence"
+    translated: Puede que esté al límite con tanta violencia
+  - time_start: 149560
+    time_end: 152560
+    original: "Maybe with love, it'll make sense"
+    translated: Tal vez con amor, esto tendrá algo de sentido
+  - time_start: 152560
+    time_end: 155610
+    original: "Maybe it's all in our intent"
+    translated: Quizás todo depende de nuestra intención
+  - time_start: 155610
+    time_end: 158850
+    original: Deep down we are innocent
+    translated: En el fondo, todos somos inocentes
+  - time_start: 158850
+    time_end: 161820
+    original: "Maybe I'm done with the violence"
+    translated: Puede que esté al límite con tanta violencia
+  - time_start: 161820
+    time_end: 164870
+    original: "Maybe with love, it'll make sense"
+    translated: Tal vez con amor, esto tendrá algo de sentido
+  - time_start: 164870
+    time_end: 167920
+    original: "Maybe it's all in our intent"
+    translated: Quizás todo depende de nuestra intención
+  - time_start: 167920
+    time_end: 171150
+    original: Deep down we are innocent
+    translated: Porque en el fondo, todos somos inocentes
+  - time_start: 171150
+    time_end: 175530
+    original: "Maybe I'm done with the violence"
+    translated: Puede que esté al límite con tanta violencia
+  - time_start: 175530
+    time_end: 183490
+    original: " "
+    translated: ""
+  - time_start: 183490
+    time_end: 186740
+    original: "Maybe I'm done with the violence"
+    translated: Puede que esté al límite con tanta violencia
+  - time_start: 186740
+    time_end: 189900
+    original: "Maybe with love, it'll make sense"
+    translated: Tal vez con amor, esto tendrá algo de sentido
+  - time_start: 189900
+    time_end: 192860
+    original: "Maybe it's all in our intent"
+    translated: Quizás todo depende de nuestra intención
+  - time_start: 192860
+    time_end: 196060
+    original: Deep down we are innocent
+    translated: En el fondo, todos somos inocentes
+  - time_start: 196060
+    time_end: 199110
+    original: "Maybe I'm done with the violence"
+    translated: Puede que esté al límite con tanta violencia
+  - time_start: 199110
+    time_end: 202180
+    original: "Maybe with love, it'll make sense"
+    translated: Tal vez con amor, esto tendrá algo de sentido
+  - time_start: 202180
+    time_end: 205480
+    original: "Maybe it's all in our intent"
+    translated: Quizás todo depende de nuestra intención
+  - time_start: 205480
+    time_end: 209400
+    original: Deep down we are innocent
+    translated: Despues de todo, en el fondo, todos somos inocentes
+  - time_start: 209400
+    time_end: 212400
+    original: " "
+    translated: ""

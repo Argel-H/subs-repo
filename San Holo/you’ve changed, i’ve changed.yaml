@@ -1,0 +1,152 @@
+version: 1
+
+project:
+  title: San Holo - you’ve changed, i’ve changed
+  track_name: you’ve changed, i’ve changed
+  artists:
+    - San Holo
+  album_name: you’ve changed, i’ve changed
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/015c601a63781f1c21aebe563a9281db/500x500-000000-80-0-0.webp"
+  song_link: "https://song.link/d/1711097317"
+  artist_links:
+    - name: San Holo
+      url: "https://www.deezer.com/artist/5696423"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/1231653242"
+    appleMusic: null
+    spotify: null
+    youtube: null
+    amazonMusic: "https://music.amazon.com/albums/B094RFVLKB?trackAsin=B094RFZQZD"
+    soundcloud: null
+    tidal: "https://listen.tidal.com/track/183917329"
+
+metadata:
+  created_at: 1785223795400
+  updated_at: 1785223795400
+  exported_at: 1785223799699
+
+lyrics:
+  - time_start: 51220
+    time_end: 57970
+    original: "I don't wanna lose my mind again"
+    translated: "No Quiero Enloquecer Otra Vez"
+  - time_start: 57970
+    time_end: 65280
+    original: I remember every word you said
+    translated: "Aún Recuerdo Cada Palabra Que Dijiste"
+  - time_start: 65280
+    time_end: 72200
+    original: If there was a way, I would go back
+    translated: "Si Pudiera, Volvería Atrás"
+  - time_start: 72200
+    time_end: 79740
+    original: If there was a way, I would go back
+    translated: "Si Hubiese La Manera, Regresaría Contigo"
+  - time_start: 79740
+    time_end: 87500
+    original: "I don't wanna lose my mind again"
+    translated: "No Quiero Perder La Razón Como Antes"
+  - time_start: 87500
+    time_end: 94770
+    original: "Even if I try, I can't forget"
+    translated: "Aunque Lo Intento, No Puedo Olvidar"
+  - time_start: 94770
+    time_end: 102560
+    original: If there was a way, I would go back
+    translated: "Si Hubiese La Manera, Regresaría Contigo"
+  - time_start: 102560
+    time_end: 114470
+    original: If there was a way, I would go back
+    translated: "Si Pudiera, Volvería Atrás"
+  - time_start: 114470
+    time_end: 120470
+    original: "You've changed, I've changed"
+    translated: "Tú Has Cambiado, Yo He Cambiado"
+  - time_start: 120470
+    time_end: 127830
+    original: "You've changed, it's not the same"
+    translated: "Has Cambiado, Y No Es Lo Mismo"
+  - time_start: 127830
+    time_end: 135700
+    original: "You've changed, I've changed"
+    translated: "Has Cambiado, He Cambiado"
+  - time_start: 135700
+    time_end: 142330
+    original: "You've changed, it's not the same"
+    translated: "Tú Has Cambiado, Es Tan Distinto"
+  - time_start: 142330
+    time_end: 149800
+    original: "I don't wanna lose my mind again"
+    translated: "No Quiero Enloquecer Otra Vez"
+  - time_start: 149800
+    time_end: 156920
+    original: I remember every word you said
+    translated: "Aún Recuerdo Cada Palabra Que Dijiste"
+  - time_start: 156920
+    time_end: 163930
+    original: If there was a way, I would go back
+    translated: "Si Pudiera, Volvería Atrás"
+  - time_start: 163930
+    time_end: 175840
+    original: If there was a way, I would go back
+    translated: "Si Hubiese La Manera, Regresaría Contigo"
+  - time_start: 175840
+    time_end: 181840
+    original: "You've changed, I've changed"
+    translated: "Tú Has Cambiado, Yo He Cambiado"
+  - time_start: 181840
+    time_end: 189710
+    original: "You've changed, it's not the same"
+    translated: "Has Cambiado, No Es Lo Mismo"
+  - time_start: 189710
+    time_end: 197260
+    original: "You've changed, I've changed"
+    translated: "Has Cambiado, He Cambiado"
+  - time_start: 197260
+    time_end: 221670
+    original: "You've changed, it's not the same"
+    translated: "Te Has Transformado, Es Tan Distinto"
+  - time_start: 221670
+    time_end: 237680
+    original: " "
+    translated: ""
+  - time_start: 237680
+    time_end: 241460
+    original: "It's not the same"
+    translated: "No Es Lo Mismo"
+  - time_start: 241460
+    time_end: 248290
+    original: "You've changed, I've changed"
+    translated: "Tú Has Cambiado, Hemos Cambiado"
+  - time_start: 248290
+    time_end: 269430
+    original: "You've changed, it's not the same"
+    translated: "Has Cambiado, No Es Lo Mismo"
+  - time_start: 269430
+    time_end: 282470
+    original: " "
+    translated: ""
+  - time_start: 282470
+    time_end: 286360
+    original: "It's not the same"
+    translated: "Es Tan Distinto"
+  - time_start: 286360
+    time_end: 292980
+    original: "You've changed, I've changed"
+    translated: "Tú Has Cambiado, Yo He Cambiado"
+  - time_start: 292980
+    time_end: 300040
+    original: "You've changed, it's not the same"
+    translated: "Has Cambiado, No Es Lo Mismo"
+  - time_start: 300040
+    time_end: 307120
+    original: "You've changed, I've changed"
+    translated: "Has Cambiado, He Cambiado"
+  - time_start: 307120
+    time_end: 310620
+    original: "You've changed"
+    translated: "Ya No Eres La Misma."
+  - time_start: 310620
+    time_end: 313620
+    original: " "
+    translated: ""

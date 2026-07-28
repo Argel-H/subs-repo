@@ -1,0 +1,148 @@
+version: 1
+
+project:
+  title: EDEN - Pocket (montreal)
+  track_name: Pocket (montreal)
+  artists:
+    - EDEN
+  album_name: DDAARRKK
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/7c8e7903392f85c937e2f24ffdb9da66/500x500-000000-80-0-0.webp"
+  isrcs: NLRD52350474
+  song_link: "https://www.deezer.com/track/3299720641"
+  artist_links:
+    - name: EDEN
+      url: "https://www.deezer.com/artist/14450"
+  social_links:
+    - artist_name: EDEN
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/14450"
+        - platform: Website
+          url: "http://iameden.eu/"
+        - platform: Twitter/X
+          url: "https://twitter.com/iameden"
+        - platform: Facebook
+          url: "https://www.facebook.com/iameden"
+        - platform: Instagram
+          url: "https://www.instagram.com/iameden/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/iameden"
+        - platform: Apple Music
+          url: "https://music.apple.com/us/artist/1067193301"
+        - platform: Tidal
+          url: "https://tidal.com/artist/15718519"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UC-ZsN5evqmSVo3_SJyQe9yA"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/3299720641"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785221363390
+  updated_at: 1785221363390
+  exported_at: 1785221369619
+
+lyrics:
+  - time_start: 1960
+    time_end: 5490
+    original: The zipper broke
+    translated: "El zíper se rompió"
+  - time_start: 5490
+    time_end: 15030
+    original: "Now I can't open up my pocket"
+    translated: "Y ahora no puedo abrir mi bolsillo"
+  - time_start: 15030
+    time_end: 18500
+    original: Your guard is up
+    translated: "Estabas a la defensiva"
+  - time_start: 18500
+    time_end: 27660
+    original: So we just shadowboxing
+    translated: "Así que terminamos boxeando contra la nada"
+  - time_start: 27660
+    time_end: 31460
+    original: And they called it lost
+    translated: "Dan esto por perdido"
+  - time_start: 31460
+    time_end: 41020
+    original: But I still feel it in there somewhere
+    translated: Pero aún puedo sentirlo en alguna parte
+  - time_start: 41020
+    time_end: 44390
+    original: But my hands are cold
+    translated: Aun así, mis manos sienten frío
+  - time_start: 44390
+    time_end: 52670
+    original: You said, "Then get out the snow, it's not difficult" (yeah)
+    translated: Me dijiste "entonces aléjate de la nieve,-"
+  - time_start: 52670
+    time_end: 56390
+    original: She said do I believe in angels?
+    translated: Ella me preguntó si es que creo en los ángeles
+  - time_start: 56390
+    time_end: 58920
+    original: (Can't call it right now)
+    translated: (No puedo responderte eso ahora mismo)
+  - time_start: 58920
+    time_end: 63200
+    original: "\"Can't rely on what I can't see\" (Too far to turn back)"
+    translated: "\"No puedo confiar en lo que no puedo ver\" (fuimos demasiado lejos para dar marcha atrás)"
+  - time_start: 63200
+    time_end: 66330
+    original: "(Can't see the night out)"
+    translated: "(no puedo soportar despierto toda la noche)"
+  - time_start: 66330
+    time_end: 70600
+    original: "\"So why can't you tell me something?\" (In this car there's no fighting)"
+    translated: "\"Entonces, ¿por qué no puedes decirme algo- (en este auto no habrá peleas)\""
+  - time_start: 70600
+    time_end: 72370
+    original: (And no cares for missed timing)
+    translated: "(y no importa el tiempo perdido)"
+  - time_start: 72370
+    time_end: 77520
+    original: "\"That doesn't feel like you're lying\" (There's no blood, just psilocybin)"
+    translated: "\"-que no se sienta como si me estuvieras mintiendo?\" (no hay violencia, solo psilocibina)"
+  - time_start: 77520
+    time_end: 80130
+    original: (We peace signing)
+    translated: (ambos haciendo señales de paz)
+  - time_start: 80130
+    time_end: 83750
+    original: But my zipper broke
+    translated: Pero mi zíper se rompió
+  - time_start: 83750
+    time_end: 90310
+    original: And I can't opеn up my pocket
+    translated: Y ahora no puedo abrir mi bolsillo
+  - time_start: 90310
+    time_end: 96810
+    original: I can't open up I know
+    translated: "No puedo abrir(me), lo sé"
+  - time_start: 96810
+    time_end: 100250
+    original: It's all
+    translated: Eso es todo.
+  - time_start: 100250
+    time_end: 103500
+    original: Snow
+    translated: Nieve
+  - time_start: 103500
+    time_end: 106950
+    original: Snow
+    translated: Nieve
+  - time_start: 106950
+    time_end: 109430
+    original: That's all
+    translated: Eso es todo
+  - time_start: 109430
+    time_end: 112430
+    original: " "
+    translated: ""

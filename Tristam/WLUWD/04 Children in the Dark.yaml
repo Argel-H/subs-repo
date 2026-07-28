@@ -1,0 +1,294 @@
+version: 1
+
+project:
+  title: Tristam - Children in the Dark
+  track_name: Children in the Dark
+  artists:
+    - Tristam
+  album_name: Children in the Dark
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/4acd08d2eaaf8cc4c00bbf776a8d5aab/500x500-000000-80-0-0.webp"
+  isrcs: QMBZ92051261
+  song_link: "https://www.deezer.com/track/1101175872"
+  artist_links:
+    - name: Tristam
+      url: "https://www.deezer.com/artist/319572"
+  social_links:
+    - artist_name: Tristam
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/319572"
+        - platform: Genius
+          url: "https://genius.com/artists/Tristam"
+        - platform: Website
+          url: "https://tristam.me/"
+        - platform: Twitter/X
+          url: "https://twitter.com/TristamOfficial"
+        - platform: Facebook
+          url: "https://www.facebook.com/Theofficialtristam"
+        - platform: Instagram
+          url: "https://www.instagram.com/itsmetristam/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/tristam"
+        - platform: Apple Music
+          url: "https://music.apple.com/ca/artist/342658707"
+        - platform: Tidal
+          url: "https://tidal.com/artist/20593116"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UC1l0vzhU4V4ddirN7hPNDTA"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/1101175872"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785224616131
+  updated_at: 1785224616131
+  exported_at: 1785225633071
+
+lyrics:
+  - time_start: 9090
+    time_end: 14720
+    original: "She's just like me, little shady"
+    translated: Es como yo, un poco misteriosa
+  - time_start: 14720
+    time_end: 18870
+    original: "Tired lately, she's a little bit crazy"
+    translated: Ha estado algo agotada, está algo loquita
+  - time_start: 18870
+    time_end: 24170
+    original: "She's just like me, little shady"
+    translated: Es como yo
+  - time_start: 24170
+    time_end: 28750
+    original: "Been tired lately, she's a little bit crazy"
+    translated: Ha estado algo agotada, está algo loquita
+  - time_start: 28750
+    time_end: 30660
+    original: "She's just like me"
+    translated: Es como yo
+  - time_start: 30660
+    time_end: 33200
+    original: Driven by the ancient fire
+    translated: Guiada por el fuego el ancestral
+  - time_start: 33200
+    time_end: 35770
+    original: Riding on the ocean waves
+    translated: Cabalgando en las olas del océano
+  - time_start: 35770
+    time_end: 38130
+    original: Looking for a lighthouse somewhere
+    translated: En busca de un faro que ilumine el horizonte
+  - time_start: 38130
+    time_end: 40200
+    original: "She's just like me"
+    translated: Es como yo
+  - time_start: 40200
+    time_end: 42770
+    original: Turning to the sun like quire
+    translated: Busca inspiración en los rayos de sol
+  - time_start: 42770
+    time_end: 45250
+    original: Looking for the one she craves
+    translated: Buscando a alguien que amar
+  - time_start: 45250
+    time_end: 48220
+    original: Lost in the middle of nowhere
+    translated: Caminando sin rumbo en la nada
+  - time_start: 48220
+    time_end: 53000
+    original: "If you can find my love, tell her I'm alive"
+    translated: Si encuentras a mi amor, dile que estoy aquí
+  - time_start: 53000
+    time_end: 57850
+    original: "I've been looking blind like a child in the dark"
+    translated: Porque le he estado buscando a ciegas, como un niño en la oscuridad
+  - time_start: 57850
+    time_end: 62610
+    original: If you can find my love, tell her we can share my heart
+    translated: Si encuentras a mi amor, dile que podemos compartir mi corazón
+  - time_start: 62610
+    time_end: 67670
+    original: Hold each other blind like children in the dark
+    translated: Abrazándonos a ciegas, como niños en la oscuridad
+  - time_start: 67670
+    time_end: 72110
+    original: "We'll be blind like children in the dark"
+    translated: Estaremos a ciegas, como niños en la oscuridad
+  - time_start: 72110
+    time_end: 74660
+    original: Children in the dark
+    translated: Como niños en la oscuridad
+  - time_start: 74660
+    time_end: 76980
+    original: Children in the dark
+    translated: Como niños en la oscuridad
+  - time_start: 76980
+    time_end: 81790
+    original: "We'll be blind like children in the dark"
+    translated: Estaremos a ciegas, como niños en la oscuridad
+  - time_start: 81790
+    time_end: 84270
+    original: Children in the dark
+    translated: Como niños en la oscuridad
+  - time_start: 84270
+    time_end: 88800
+    original: Children in the dark
+    translated: Como niños en la oscuridad
+  - time_start: 88800
+    time_end: 91130
+    original: Like children in the dark
+    translated: Como niños en la oscuridad
+  - time_start: 91130
+    time_end: 92920
+    original: "When they've wandered out too far"
+    translated: Que se han perdido en el camino
+  - time_start: 92920
+    time_end: 95710
+    original: "We'll wish we never left our home"
+    translated: Arrepintiéndonos de haber dejado nuestro hogar
+  - time_start: 95710
+    time_end: 98280
+    original: Like children in the dark
+    translated: Niños en la oscuridad
+  - time_start: 98280
+    time_end: 100600
+    original: "We'll lay beneath the stars"
+    translated: Nos acostaremos bajo las estrellas
+  - time_start: 100600
+    time_end: 105250
+    original: "At least we'll finally know that if we have to be"
+    translated: Al menos sabremos que cuál sea nuestro destino
+  - time_start: 105250
+    time_end: 107320
+    original: "We don't have to be alone"
+    translated: No tendremos que estar solos
+  - time_start: 107320
+    time_end: 114750
+    original: " "
+    translated: ""
+  - time_start: 114750
+    time_end: 120050
+    original: "She's just like me, little shady"
+    translated: Es como yo, algo misteriosa
+  - time_start: 120050
+    time_end: 124350
+    original: "Tired lately, she's a little bit crazy"
+    translated: Ha estado algo agotada, está algo loquita
+  - time_start: 124350
+    time_end: 129790
+    original: "She's just like me, little shady"
+    translated: Es como yo, un poco misteriosa
+  - time_start: 129790
+    time_end: 134120
+    original: "Tired lately, she's a little bit crazy"
+    translated: Ha estado algo agotada, está algo loquita
+  - time_start: 134120
+    time_end: 136320
+    original: "She's just like me"
+    translated: Es como yo
+  - time_start: 136320
+    time_end: 138730
+    original: Driven by the ancient fire
+    translated: Guiada por el fuego el ancestral
+  - time_start: 138730
+    time_end: 141080
+    original: Riding on the ocean waves
+    translated: Cabalgando en las olas del océano
+  - time_start: 141080
+    time_end: 143940
+    original: Looking for a lighthouse somewhere
+    translated: En busca de un faro que ilumine el horizonte
+  - time_start: 143940
+    time_end: 146100
+    original: "She's just like me"
+    translated: Es como yo
+  - time_start: 146100
+    time_end: 148320
+    original: Turning to the sun like quire
+    translated: Busca inspiración en los rayos de sol
+  - time_start: 148320
+    time_end: 150830
+    original: Looking for the one she craves
+    translated: Buscando a alguien que amar
+  - time_start: 150830
+    time_end: 153690
+    original: Lost in the middle of nowhere
+    translated: Caminando sin rumbo en la nada
+  - time_start: 153690
+    time_end: 158570
+    original: "If you can find my love, tell her I'm alive"
+    translated: Si encuentras a mi amor, dile que estoy aquí
+  - time_start: 158570
+    time_end: 163160
+    original: "I've been looking blind like a child in the dark"
+    translated: Porque le he estado buscando a ciegas, como un niño en la oscuridad
+  - time_start: 163160
+    time_end: 168390
+    original: If you can find my love, tell her we can share my heart
+    translated: Si encuentras a mi amor, dile que podemos compartir mi corazón
+  - time_start: 168390
+    time_end: 172830
+    original: Hold each other blind like children in the dark
+    translated: Abrazándonos a ciegas, como niños en la oscuridad
+  - time_start: 172830
+    time_end: 177870
+    original: "We'll be blind like children in the dark"
+    translated: Estaremos a ciegas, como niños en la oscuridad
+  - time_start: 177870
+    time_end: 180260
+    original: Children in the dark
+    translated: Como niños en la oscuridad
+  - time_start: 180260
+    time_end: 182850
+    original: Children in the dark
+    translated: Como niños en la oscuridad
+  - time_start: 182850
+    time_end: 187330
+    original: "We'll be blind like children in the dark"
+    translated: Estaremos a ciegas, como niños en la oscuridad
+  - time_start: 187330
+    time_end: 189650
+    original: Children in the dark
+    translated: Como niños en la oscuridad
+  - time_start: 189650
+    time_end: 192240
+    original: Children in the dark
+    translated: Como niños en la oscuridad
+  - time_start: 192240
+    time_end: 194600
+    original: "Won't be lost at sea"
+    translated: No estaremos perdidos en el mar
+  - time_start: 194600
+    time_end: 197060
+    original: "We won't feel like we are incomplete"
+    translated: No nos sentiremos como si estuviésemos incompletos
+  - time_start: 197060
+    time_end: 199470
+    original: Finally come to realize our peace
+    translated: Dándonos cuenta de nuestra paz finalmente
+  - time_start: 199470
+    time_end: 202510
+    original: "And maybe that's a little bit naive"
+    translated: Tal vez suene un poco tonto
+  - time_start: 202510
+    time_end: 204180
+    original: Was I led astray
+    translated: ¿Perdí el camino?
+  - time_start: 204180
+    time_end: 206550
+    original: Seeking treasure in a lonesome maze
+    translated: Buscando tesoros en un solitario laberinto
+  - time_start: 206550
+    time_end: 209210
+    original: Thinking love will come along someday
+    translated: Esperando a que el amor llegue algún día
+  - time_start: 209210
+    time_end: 212210
+    original: " "
+    translated: ""

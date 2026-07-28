@@ -1,0 +1,357 @@
+version: 1
+
+project:
+  title: FWLR - Suspicious
+  track_name: Suspicious
+  artists:
+    - FWLR
+    - BRDGS
+  album_name: Suspicious
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/ae2bed2a188de845a8e754df92567768/500x500-000000-80-0-0.webp"
+  isrcs: CA6D21900319
+  song_link: "https://www.deezer.com/track/769373882"
+  artist_links:
+    - name: FWLR
+      url: "https://www.deezer.com/artist/8982886"
+    - name: Brdgs
+      url: "https://www.deezer.com/artist/11930111"
+  social_links:
+    - artist_name: FWLR
+      platforms:
+        - platform: Bandcamp
+          url: "https://fwlrmusic.bandcamp.com/"
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/1bgWqGp78w6C8CNPvD6Qlo"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/8982886"
+        - platform: Website
+          url: "https://www.fwlrmusic.com/"
+        - platform: Twitter/X
+          url: "https://twitter.com/FWLRmusic"
+        - platform: Facebook
+          url: "https://www.facebook.com/FWLRmusic"
+        - platform: Instagram
+          url: "https://www.instagram.com/FWLRmusic/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/FWLRmusic"
+        - platform: Apple Music
+          url: "https://music.apple.com/au/artist/572520183"
+        - platform: Tidal
+          url: "https://tidal.com/artist/7440315"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UCBUnHKn15yw90iJNIfc2B4A"
+    - artist_name: BRDGS
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/11930111"
+        - platform: Twitter/X
+          url: "https://twitter.com/brdgsmsc"
+        - platform: Facebook
+          url: "https://www.facebook.com/brdgs"
+        - platform: Instagram
+          url: "https://www.instagram.com/brdgsmsc/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/brdgsmsc"
+        - platform: Apple Music
+          url: "https://music.apple.com/ca/artist/1204535365"
+        - platform: Tidal
+          url: "https://tidal.com/artist/8510317"
+        - platform: YouTube
+          url: "https://www.youtube.com/@brdgs"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/769373882"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785223752079
+  updated_at: 1785223752079
+  exported_at: 1785223758338
+
+lyrics:
+  - time_start: 0
+    time_end: 0
+    original: I got it so bad
+    translated: "Estoy tan enamorado"
+  - time_start: 0
+    time_end: 0
+    original: I got it bad for you
+    translated: "Estoy enormemente enamorado de ti"
+  - time_start: 0
+    time_end: 0
+    original: You give me good love
+    translated: "Me entregas tanto amor"
+  - time_start: 0
+    time_end: 0
+    original: "You're like a dream come true"
+    translated: "Eres como un sueño hecho realidad"
+  - time_start: 0
+    time_end: 0
+    original: "They say it won't last"
+    translated: "Dicen que no tenemos futuro"
+  - time_start: 0
+    time_end: 0
+    original: "They say you're wild and free"
+    translated: "Te describen como salvaje y libre"
+  - time_start: 0
+    time_end: 0
+    original: I know you never were a one man woman
+    translated: "Sé que eres una mujer sin ataduras en el amor"
+  - time_start: 0
+    time_end: 0
+    original: "I was hoping that you'd give that all up for me"
+    translated: "Deseaba que renunciaras a todo por mí"
+  - time_start: 0
+    time_end: 0
+    original: I get so confused
+    translated: "Me siento tan confundido"
+  - time_start: 0
+    time_end: 0
+    original: "I love it when it's"
+    translated: "Pero amo cuando somos solo tú y yo"
+  - time_start: 0
+    time_end: 0
+    original: Only me and you
+    translated: "solo tú y yo"
+  - time_start: 0
+    time_end: 0
+    original: And all the things we know
+    translated: "Y hacemos todas esas cosas que sabemos que no deberíamos"
+  - time_start: 0
+    time_end: 0
+    original: "We shouldn't do"
+    translated: "No debería desconfiar de ti"
+  - time_start: 0
+    time_end: 0
+    original: This is way too good
+    translated: "Esto es demasiado bueno para ser verdad"
+  - time_start: 0
+    time_end: 0
+    original: "It can't be true"
+    translated: "(No puedo contenerme, no puedo contenerme)"
+  - time_start: 0
+    time_end: 0
+    original: So tell me what your game is
+    translated: "Dime cuál es tu estrategia, a qué juegas, chica"
+  - time_start: 0
+    time_end: 0
+    original: What your game is girl
+    translated: "a qué juegas, chica"
+  - time_start: 0
+    time_end: 0
+    original: "When you touch me feels so good I can't contain it"
+    translated: "Cuando me tocas se siente tan bien que no puedo contenerme (No puedo contenerme)"
+  - time_start: 0
+    time_end: 0
+    original: "When you love me I'm so high so confident"
+    translated: "Tu amor me hace sentir tan bien, lleno de confianza, sí (Lleno de confianza)"
+  - time_start: 0
+    time_end: 0
+    original: "When you say I'm the only one I must admit it"
+    translated: "Cuando dices que soy el único, debo admitir que (Debo admitir que)"
+  - time_start: 0
+    time_end: 0
+    original: I get suspicious
+    translated: "Me invade una sospecha (Oh, una sospecha)"
+  - time_start: 0
+    time_end: 0
+    original: Just a little suspicious
+    translated: "Me invade una sospecha, solo un poco de sospecha."
+  - time_start: 0
+    time_end: 0
+    original: "I shouldn't doubt ya"
+    translated: "(No puedo contenerme, no puedo contenerme)"
+  - time_start: 0
+    time_end: 0
+    original: "I'm all up in my head"
+    translated: "Solo estoy muy confundido"
+  - time_start: 0
+    time_end: 0
+    original: "When I'm without ya"
+    translated: "Cuando no estoy contigo"
+  - time_start: 0
+    time_end: 0
+    original: I start to lose my shit
+    translated: "Empiezo a perder el control"
+  - time_start: 0
+    time_end: 0
+    original: "I've just been hurt before"
+    translated: "Es solo que ya he sido lastimado antes"
+  - time_start: 0
+    time_end: 0
+    original: "A stranger's T-shirt on my bedroom floor"
+    translated: "Con una camiseta de un desconocido en la habitación"
+  - time_start: 0
+    time_end: 0
+    original: Excuse me for being suspicious
+    translated: "Disculpa mis sospechas, es solo que..."
+  - time_start: 0
+    time_end: 0
+    original: "But it's just"
+    translated: "es solo que..."
+  - time_start: 0
+    time_end: 0
+    original: That I get so confused
+    translated: "Me siento tan confundido"
+  - time_start: 0
+    time_end: 0
+    original: "I love it when it's"
+    translated: "Pero amo cuando somos solo tú y yo"
+  - time_start: 0
+    time_end: 0
+    original: Only me and you
+    translated: "solo tú y yo"
+  - time_start: 0
+    time_end: 0
+    original: And all the things we know
+    translated: "Y hacemos todas esas cosas que sabemos que no deberíamos"
+  - time_start: 0
+    time_end: 0
+    original: "We shouldn't do"
+    translated: "que no deberíamos"
+  - time_start: 0
+    time_end: 0
+    original: This is way too good
+    translated: "Esto es demasiado bueno para ser verdad"
+  - time_start: 0
+    time_end: 0
+    original: "It can't be true"
+    translated: "Cuando me tocas se siente tan bien que no puedo contenerme (No puedo contenerme)"
+  - time_start: 0
+    time_end: 0
+    original: So tell me what your game is
+    translated: "Dime cuál es tu estrategia, a qué juegas, chica"
+  - time_start: 0
+    time_end: 0
+    original: What your game is girl
+    translated: "a qué juegas, chica"
+  - time_start: 0
+    time_end: 0
+    original: "When you touch me feels so good I can't contain it"
+    translated: "Cuando me tocas se siente tan bien que no puedo contenerme (No puedo contenerme)"
+  - time_start: 0
+    time_end: 0
+    original: "When you love me I'm so high so confident"
+    translated: "Tu amor me hace sentir tan bien, lleno de confianza, sí (Lleno de confianza)"
+  - time_start: 0
+    time_end: 0
+    original: "When you say I'm the only one I must admit it"
+    translated: "Cuando dices que soy el único, debo admitir que (Debo admitir que)"
+  - time_start: 0
+    time_end: 0
+    original: I get suspicious
+    translated: "Me invade una sospecha"
+  - time_start: 0
+    time_end: 0
+    original: Just a little suspicious
+    translated: "Me invade una sospecha, solo un poco de sospecha."
+  - time_start: 0
+    time_end: 0
+    original: I get suspicious
+    translated: "Me invade una sospecha"
+  - time_start: 0
+    time_end: 0
+    original: I get suspicious
+    translated: "Me invade una sospecha"
+  - time_start: 0
+    time_end: 0
+    original: I get suspicious
+    translated: "Me invade una sospecha"
+  - time_start: 0
+    time_end: 0
+    original: Just a little suspicious
+    translated: "Me invade una sospecha, solo un poco de sospecha"
+  - time_start: 0
+    time_end: 0
+    original: So tell me what your game is
+    translated: "Dime cuál es tu estrategia, a qué juegas, chica"
+  - time_start: 0
+    time_end: 0
+    original: What your game is
+    translated: "cuál es tu estrategia"
+  - time_start: 0
+    time_end: 0
+    original: "Cause I haven't slept for days"
+    translated: "Porque no he dormido por días, no he dormido por días, lo sé"
+  - time_start: 0
+    time_end: 0
+    original: Not slept for days ya
+    translated: "no he dormido por días, lo sé"
+  - time_start: 0
+    time_end: 0
+    original: Baby love is never painless
+    translated: "Cariño, el amor nunca es tan sencillo, tan sencillo, no"
+  - time_start: 0
+    time_end: 0
+    original: Never painless
+    translated: "tan sencillo"
+  - time_start: 0
+    time_end: 0
+    original: No
+    translated: "no"
+  - time_start: 0
+    time_end: 0
+    original: Excuse me for being suspicious
+    translated: "Me invade una sospecha (Me invade una sospecha)"
+  - time_start: 0
+    time_end: 0
+    original: "When you touch me feels so good I can't contain it (I can't contain it)"
+    translated: "Tu amor me hace sentir tan bien, lleno de confianza, sí (Lleno de confianza)"
+  - time_start: 0
+    time_end: 0
+    original: "When you love me I'm so high so confident (so confident)"
+    translated: "Cuando dices que soy el único, debo admitir que (Debo admitir que)"
+  - time_start: 0
+    time_end: 0
+    original: "When you say I'm the only one I must admit it (I must admit it)"
+    translated: "Cuando dices que soy el único, debo admitir que (Debo admitir que)"
+  - time_start: 0
+    time_end: 0
+    original: I get suspicious (suspicious)
+    translated: "Me invade una sospecha (Me invade una sospecha)"
+  - time_start: 0
+    time_end: 0
+    original: Just a little suspicious (ohhhh)
+    translated: "Solo un poco de sospecha (Solo un poco de sospecha)"
+  - time_start: 0
+    time_end: 0
+    original: I get suspicious (suspicious)
+    translated: "Me invade una sospecha (Me invade una sospecha)"
+  - time_start: 0
+    time_end: 0
+    original: I get suspicious (I get suspicious)
+    translated: "Me invade una sospecha, solo un poco de sospecha"
+  - time_start: 0
+    time_end: 0
+    original: I get suspicious (I get suspicious)
+    translated: "Me invade una sospecha, solo un poco de sospecha."
+  - time_start: 0
+    time_end: 0
+    original: Just a little suspicious (ohhhh)
+    translated: "Solo un poco de sospecha (Solo un poco de sospecha)"
+  - time_start: 0
+    time_end: 0
+    original: I get suspicious (suspicious)
+    translated: "Me invade una sospecha (una sospecha)"
+  - time_start: 0
+    time_end: 0
+    original: I get suspicious (so suspicious)
+    translated: "Me invade una sospecha (una sospecha)"
+  - time_start: 0
+    time_end: 0
+    original: I get suspicious (oh)
+    translated: "Me invade una sospecha (Oh, una sospecha)"
+  - time_start: 0
+    time_end: 0
+    original: Just a little suspicious
+    translated: "Solo un poco de sospecha"
+  - time_start: 0
+    time_end: 3000
+    original: I get suspicious
+    translated: "Me invade una sospecha"

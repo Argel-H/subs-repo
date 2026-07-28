@@ -1,0 +1,382 @@
+version: 1
+
+project:
+  title: abbot - Heartbreak
+  track_name: Heartbreak
+  artists:
+    - abbot
+  album_name: Heartbreak
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/3629ef8579931d860e9060444369fdf8/500x500-000000-80-0-0.webp"
+  isrcs: QZFYX2018621
+  song_link: "https://www.deezer.com/track/850207882"
+  artist_links:
+    - name: Abbot
+      url: "https://www.deezer.com/artist/5192717"
+  social_links:
+    - artist_name: abbot
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/0Ro9LZA0sRl1FG66KgsA1u"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/850207882"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785223639953
+  updated_at: 1785223639953
+  exported_at: 1785223646354
+
+lyrics:
+  - time_start: 12730
+    time_end: 14400
+    original: Hate thee
+    translated: "Odiarte"
+  - time_start: 14400
+    time_end: 15770
+    original: I could never
+    translated: "Nunca podría"
+  - time_start: 15770
+    time_end: 16850
+    original: Vaguely
+    translated: "Vagamente"
+  - time_start: 16850
+    time_end: 18830
+    original: I remember
+    translated: "Recuerdo"
+  - time_start: 18830
+    time_end: 21400
+    original: I saw you
+    translated: "Verte"
+  - time_start: 21400
+    time_end: 25550
+    original: Look the other way
+    translated: "Evitar mi mirada"
+  - time_start: 25550
+    time_end: 27110
+    original: Told thee
+    translated: "Te dije"
+  - time_start: 27110
+    time_end: 28470
+    original: Now or never
+    translated: "Ahora o nunca"
+  - time_start: 28470
+    time_end: 30310
+    original: Ignored me
+    translated: "Me ignoraste"
+  - time_start: 30310
+    time_end: 31560
+    original: For the better
+    translated: "Por nuestro bien"
+  - time_start: 31560
+    time_end: 38880
+    original: "It's well reasoned, I won't complain"
+    translated: "Está bien razonado, no me quejaré"
+  - time_start: 38880
+    time_end: 42090
+    original: "I know you're holding some tears"
+    translated: "Sé que estás conteniendo las lágrimas"
+  - time_start: 42090
+    time_end: 45170
+    original: They haunt your new memories
+    translated: "Estas acechan tus nuevos recuerdos"
+  - time_start: 45170
+    time_end: 51600
+    original: "Don't waste your life cause time is great"
+    translated: "No desperdicies tu vida porque el tiempo no vuelve"
+  - time_start: 51600
+    time_end: 54830
+    original: "I'm over years and years"
+    translated: "He pasado años y años"
+  - time_start: 54830
+    time_end: 58010
+    original: "I'm feeling empty"
+    translated: "Sintiéndome vacío"
+  - time_start: 58010
+    time_end: 63610
+    original: "I know you don't but I'm afraid"
+    translated: "Sé que tú no, pero tengo miedo sobre-"
+  - time_start: 63610
+    time_end: 67180
+    original: That when these drugs wear off
+    translated: "- qué pasará cuando estas drogas desaparezcan"
+  - time_start: 67180
+    time_end: 72800
+    original: Would you be there for me babe?
+    translated: "¿Estarás ahí para mí, amor?"
+  - time_start: 72800
+    time_end: 75560
+    original: Me babe?
+    translated: "¿Para mí, corazón?"
+  - time_start: 75560
+    time_end: 76360
+    original: Yeah
+    translated: ""
+  - time_start: 76360
+    time_end: 80550
+    original: And even if you were
+    translated: "E incluso si estuvieras ahí"
+  - time_start: 80550
+    time_end: 84650
+    original: Would you look at me the same?
+    translated: "¿Me mirarías igual?"
+  - time_start: 84650
+    time_end: 88380
+    original: Look at me the same?
+    translated: "¿Me mirarías igual?"
+  - time_start: 88380
+    time_end: 91020
+    original: "I've been feeling"
+    translated: "Me he sentido"
+  - time_start: 91020
+    time_end: 92520
+    original: HD, suffocate me
+    translated: "El HD, me sofoca"
+  - time_start: 92520
+    time_end: 96630
+    original: Hold my neck and never let me go
+    translated: "Ahorcame y nunca me dejes ir"
+  - time_start: 96630
+    time_end: 98780
+    original: This is my punishment
+    translated: "Este es mi castigo"
+  - time_start: 98780
+    time_end: 102530
+    original: So make me learn my lesson and
+    translated: "Asi que hazme aprender mi lección y"
+  - time_start: 102530
+    time_end: 104000
+    original: Hate me
+    translated: "Odiame"
+  - time_start: 104000
+    time_end: 105320
+    original: I deserve it
+    translated: "Me lo merezco"
+  - time_start: 105320
+    time_end: 109230
+    original: "Don't look back it'll only hurt I know"
+    translated: "No mires atrás solo dolerá, lo sé"
+  - time_start: 109230
+    time_end: 111680
+    original: You were my everything
+    translated: "Eras todo para mí"
+  - time_start: 111680
+    time_end: 113970
+    original: My Heartbreak and Depression
+    translated: "Mi desamor y depresión"
+  - time_start: 113970
+    time_end: 123150
+    original: So if you loved me, how was I supposed to know?
+    translated: "Si es que me amabas, ¿cómo se supone que lo sabría?"
+  - time_start: 123150
+    time_end: 128190
+    original: "Now we're fading, losing what we wanted most"
+    translated: "Ahora nos estamos desvaneciendo, perdiendo lo que más queríamos"
+  - time_start: 128190
+    time_end: 131130
+    original: She was scared of the sky falling
+    translated: "Ella tenía miedo de que el cielo se cayera"
+  - time_start: 131130
+    time_end: 135670
+    original: "I'll be right there baby I promise"
+    translated: "Estaré allí mi amor, lo prometo"
+  - time_start: 135670
+    time_end: 136170
+    original: I was blinded
+    translated: "Yo estaba cegado"
+  - time_start: 136170
+    time_end: 137450
+    original: She was bound, but
+    translated: "Ella estaba atada, pero"
+  - time_start: 137450
+    time_end: 138930
+    original: She should be flying
+    translated: "Ella debería estar volando"
+  - time_start: 138930
+    time_end: 140150
+    original: But I weighed her down
+    translated: "Pero yo la detenía"
+  - time_start: 140150
+    time_end: 141740
+    original: But then she called you
+    translated: "Pero ella te llamó"
+  - time_start: 141740
+    time_end: 143900
+    original: Late night, crying on the phone
+    translated: "Por la madrugada, llorando por telefono"
+  - time_start: 143900
+    time_end: 145560
+    original: Telling you that she
+    translated: "Diciendote que"
+  - time_start: 145560
+    time_end: 146570
+    original: Misses you at home
+    translated: "Te extraña en casa"
+  - time_start: 146570
+    time_end: 148510
+    original: So then you grab your keys
+    translated: "Asi que luego agarras tus llaves"
+  - time_start: 148510
+    time_end: 149780
+    original: And step into your car
+    translated: "Y subes a tu auto"
+  - time_start: 149780
+    time_end: 151350
+    original: You better pick up speed
+    translated: "Será major que aceleres"
+  - time_start: 151350
+    time_end: 152910
+    original: "Now that you're on the boulevard"
+    translated: "Ahora que estás en el bulevar"
+  - time_start: 152910
+    time_end: 155930
+    original: "So don't you fuck this up you know that you gotta go faster"
+    translated: "Así que no lo arruines sabes que tienes que ir más rápido"
+  - time_start: 155930
+    time_end: 156710
+    original: "Don't you?"
+    translated: "¿No?"
+  - time_start: 156710
+    time_end: 159170
+    original: "Pick it up, your foot on the floor it don't matter"
+    translated: "Acelera, pie a fondo, no importa nada"
+  - time_start: 159170
+    time_end: 159990
+    original: Focus
+    translated: "Concéntrate"
+  - time_start: 159990
+    time_end: 162790
+    original: "Thought that you made a promise, I hope you're not this dishonest"
+    translated: "Pensé que habías hecho una promesa, espero que no seas tan deshonesto"
+  - time_start: 162790
+    time_end: 164390
+    original: So floor it
+    translated: "Asi que acelera"
+  - time_start: 164390
+    time_end: 165420
+    original: She needs you, I beg you
+    translated: "Ella te necesita, te lo ruego"
+  - time_start: 165420
+    time_end: 173930
+    original: "But in spite of how you feel it's not the end of the world"
+    translated: "Pero a pesar de cómo te sientes, no es el fin del mundo"
+  - time_start: 173930
+    time_end: 179980
+    original: Some say these things are for the best, for better or worse
+    translated: "Algunos dicen que estas cosas son para mejor, para bien o para mal"
+  - time_start: 179980
+    time_end: 186350
+    original: I bet your skin crawls when you hear my name, hear my name
+    translated: "Apuesto a que tu piel se eriza cuando escuchas mi nombre"
+  - time_start: 186350
+    time_end: 188040
+    original: I bet your skin crawls
+    translated: "Apuesto a que tu piel se eriza"
+  - time_start: 188040
+    time_end: 191500
+    original: I bet your ski-skin-
+    translated: "Apuesto a que tu piel-piel-"
+  - time_start: 191500
+    time_end: 192390
+    original: You were right
+    translated: "Tenías razón"
+  - time_start: 192390
+    time_end: 193220
+    original: Calling my bluff
+    translated: "Llamándome mentiroso"
+  - time_start: 193220
+    time_end: 195280
+    original: "I'm not the guy or the man that I thought I was"
+    translated: "No soy el chico o el hombre que pensé que era"
+  - time_start: 195280
+    time_end: 195550
+    original: Weak
+    translated: "Soy débil"
+  - time_start: 195550
+    time_end: 196320
+    original: Drown me in bleach
+    translated: "Sólo ahógame en cloro"
+  - time_start: 196320
+    time_end: 198710
+    original: Rip out my teeth and just give me what I deserve
+    translated: "Arráncame los dientes y dame lo que merezco"
+  - time_start: 198710
+    time_end: 199020
+    original: Wait
+    translated: "Espera"
+  - time_start: 199020
+    time_end: 199590
+    original: What did you mean?
+    translated: "¿Qué quisiste decir?"
+  - time_start: 199590
+    time_end: 201570
+    original: Back when I heard you screaming at the top of your lungs
+    translated: "Cuando te escuché gritar a todo pulmón"
+  - time_start: 201570
+    time_end: 201750
+    original: Held
+    translated: "Ella sostuvo"
+  - time_start: 201750
+    time_end: 202740
+    original: Me on the cheek
+    translated: "Mi mejilla"
+  - time_start: 202740
+    time_end: 205210
+    original: "Tears in your eyes as you tell me I'm not enough"
+    translated: "Y con lágrimas en tus ojos me dices que no soy suficiente"
+  - time_start: 205210
+    time_end: 205450
+    original: Right
+    translated: "Tenías razón"
+  - time_start: 205450
+    time_end: 206100
+    original: Calling my bluff
+    translated: "Llamándome mentiroso"
+  - time_start: 206100
+    time_end: 208280
+    original: "I'm not the guy or the man that I thought I was"
+    translated: "No soy el chico o el hombre que pensé que era"
+  - time_start: 208280
+    time_end: 208360
+    original: Weak
+    translated: "Soy débil"
+  - time_start: 208360
+    time_end: 209180
+    original: Drown me in bleach
+    translated: "Sólo ahógame en cloro"
+  - time_start: 209180
+    time_end: 211240
+    original: Rip out my teeth and just give me what I deserve
+    translated: "Arráncame los dientes y dame lo que merezco"
+  - time_start: 211240
+    time_end: 211580
+    original: Wait
+    translated: "Espera"
+  - time_start: 211580
+    time_end: 212320
+    original: What did you mean?
+    translated: "¿Qué quisiste decir?"
+  - time_start: 212320
+    time_end: 214450
+    original: Back when I heard you screaming at the top of your lungs
+    translated: "Cuando te escuché gritar a todo pulmón"
+  - time_start: 214450
+    time_end: 214960
+    original: Held
+    translated: "Ella sostuvo"
+  - time_start: 214960
+    time_end: 215510
+    original: Me on the cheek
+    translated: "Mi mejilla"
+  - time_start: 215510
+    time_end: 217850
+    original: "Tears in your eyes as you tell me I'm not enough"
+    translated: "Y con lágrimas en tus ojos me dices que no soy suficiente"
+  - time_start: 217850
+    time_end: 220850
+    original: " "
+    translated: ""

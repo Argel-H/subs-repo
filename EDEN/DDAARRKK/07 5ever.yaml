@@ -1,0 +1,240 @@
+version: 1
+
+project:
+  title: EDEN - 5ever
+  track_name: 5ever
+  artists:
+    - EDEN
+  album_name: DDAARRKK
+  cover_url: https://cdn-images.dzcdn.net/images/cover/7c8e7903392f85c937e2f24ffdb9da66/500x500-000000-80-0-0.webp
+  isrcs: NLRD52350446
+  song_link: https://www.deezer.com/track/3299720651
+  artist_links:
+    - name: EDEN
+      url: https://www.deezer.com/artist/14450
+  social_links:
+    - artist_name: EDEN
+      platforms:
+        - platform: Spotify
+          url: https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt
+        - platform: Deezer
+          url: https://www.deezer.com/artist/14450
+        - platform: Website
+          url: http://iameden.eu/
+        - platform: Twitter/X
+          url: https://twitter.com/iameden
+        - platform: Facebook
+          url: https://www.facebook.com/iameden
+        - platform: Instagram
+          url: https://www.instagram.com/iameden/
+        - platform: SoundCloud
+          url: https://soundcloud.com/iameden
+        - platform: Apple Music
+          url: https://music.apple.com/us/artist/1067193301
+        - platform: Tidal
+          url: https://tidal.com/artist/15718519
+        - platform: YouTube
+          url: https://www.youtube.com/channel/UC-ZsN5evqmSVo3_SJyQe9yA
+  streaming_sites:
+    deezer: https://www.deezer.com/track/3299720651
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785221309366
+  updated_at: 1785221309366
+  exported_at: 1785221314454
+
+lyrics:
+  - time_start: 90
+    time_end: 3750
+    original: Uuh uuh uuh uhh
+    translated: Uuh uuh uuh uhh
+  - time_start: 3750
+    time_end: 6940
+    original: Uuh uh uh
+    translated: Uuh uh uh
+  - time_start: 6940
+    time_end: 7800
+    original: Uuh uh
+    translated: Uuh uh uh
+  - time_start: 7800
+    time_end: 11400
+    original: Uuh uuh uuh uhh
+    translated: Uuh uh uh
+  - time_start: 11400
+    time_end: 14550
+    original: Uuh uh uh
+    translated: Uuh uh uh
+  - time_start: 14550
+    time_end: 16650
+    original: Uuh uh
+    translated: Uuh uh uh
+  - time_start: 16650
+    time_end: 18810
+    original: And we looked like a slasher film
+    translated: y es que parecíamos una película de terror
+  - time_start: 18810
+    time_end: 20940
+    original: Playing out of sequence
+    translated: proyectándose como un completo desastre
+  - time_start: 20940
+    time_end: 22660
+    original: Baby it's just feedback
+    translated: y amor, eso es una consecuencia
+  - time_start: 22660
+    time_end: 24750
+    original: Looping up my demons
+    translated: de las batallas con mis demonios
+  - time_start: 24750
+    time_end: 32050
+    original: Told them if I'm gonna die it's you
+    translated: les dije que, si es que moriré, será contigo
+  - time_start: 32050
+    time_end: 35700
+    original: But you were like the breeze when it's one hundred three
+    translated: pero tú eras como la brisa cuando estamos a 40 grados
+  - time_start: 35700
+    time_end: 39560
+    original: Felt like if we don't sleep then tomorrow's just a dream
+    translated: y sentía que si no dormíamos entonces el mañana se volvía un sueño que no llegará
+  - time_start: 39560
+    time_end: 45110
+    original: Oh I hope they don't find us tonight
+    translated: espero que los problemas no nos encuentren esta noche
+  - time_start: 45110
+    time_end: 49400
+    original: If time could stand still
+    translated: si el tiempo se pudiera detener
+  - time_start: 49400
+    time_end: 53660
+    original: If I could change
+    translated: si lo pudiera cambiar
+  - time_start: 53660
+    time_end: 61190
+    original: Maybe I'd have found the words
+    translated: tal vez habría encontrado las palabras
+  - time_start: 61190
+    time_end: 71070
+    original: To tell you to tell you to say
+    translated: para decirte para decirte para decir
+  - time_start: 71070
+    time_end: 78030
+    original: I could have stayed here forever
+    translated: que podría haberme quedado aquí para siempre
+  - time_start: 78030
+    time_end: 80220
+    original: And we look like a slasher film
+    translated: y es que parecíamos una película de terror
+  - time_start: 80220
+    time_end: 82170
+    original: Cut up out of sequence
+    translated: una cinta cortada en desorden
+  - time_start: 82170
+    time_end: 84060
+    original: Running from a crime scene
+    translated: huyendo de una escena del crimen
+  - time_start: 84060
+    time_end: 86250
+    original: Baby I'm still bleeding
+    translated: y cariño, todavía estoy sangrando
+  - time_start: 86250
+    time_end: 90060
+    original: And I can never go back yeah
+    translated: y nunca podré regresar
+  - time_start: 90060
+    time_end: 93020
+    original: I just want you to know that
+    translated: solo quiero que sepas eso
+  - time_start: 93020
+    time_end: 95460
+    original: I've been staring at the ceiling
+    translated: he estado mirando el techo
+  - time_start: 95460
+    time_end: 97380
+    original: Looking for a breach
+    translated: buscando una salida
+  - time_start: 97380
+    time_end: 100970
+    original: Even in the silence I can hear you say
+    translated: incluso en el silencio puedo oírte decir que el final está a tan solo unos segundos[4]
+  - time_start: 100970
+    time_end: 106060
+    original: The end's just seconds away
+    translated: que el final está a tan solo unos segundos
+  - time_start: 106060
+    time_end: 110330
+    original: But If time could stand still
+    translated: pero si el tiempo pudiera detenerse
+  - time_start: 110330
+    time_end: 114840
+    original: If I could change
+    translated: y lo pudiera cambiar
+  - time_start: 114840
+    time_end: 121810
+    original: Maybe I'd have found the words (to tell you)
+    translated: tal vez habría encontrado las palabras para decirte
+  - time_start: 121810
+    time_end: 123790
+    original: To tell me you
+    translated: para decirte
+  - time_start: 123790
+    time_end: 127540
+    original: I feel like I could puke my guts up
+    translated: que siento que podría vomitar mis entrañas
+  - time_start: 127540
+    time_end: 131390
+    original: If they weren't already on the floor
+    translated: si tan solo no estuvieran ya en el suelo
+  - time_start: 131390
+    time_end: 138840
+    original: I feel like I'm losing grip on and on
+    translated: y es que siento que estoy perdiendo el control
+  - time_start: 138840
+    time_end: 142980
+    original: And you can grab my hand as we run off
+    translated: puedes tomar mi mano mientras corremos
+  - time_start: 142980
+    time_end: 146610
+    original: Maybe we'll make it after dawn
+    translated: puede que lo logremos después del amanecer
+  - time_start: 146610
+    time_end: 152060
+    original: But in the sunlight we'll be different (erent)
+    translated: pero en la luz del sol seremos diferentes
+  - time_start: 152060
+    time_end: 155850
+    original: If time could stand still
+    translated: si tan solo el tiempo se pudiera detener
+  - time_start: 155850
+    time_end: 160460
+    original: If I could change
+    translated: si pudiera cambiar
+  - time_start: 160460
+    time_end: 168220
+    original: And maybe I'd have found the words
+    translated: tal vez habría encontrado las palabras
+  - time_start: 168220
+    time_end: 177950
+    original: To tell you to tell you to say
+    translated: para decirte para decirte para decir
+  - time_start: 177950
+    time_end: 190630
+    original: I could have stayed here for
+    translated: que podría haberme quedado aquí para siempre
+  - time_start: 190630
+    time_end: 194330
+    original: Uuh uuh uuh uuh
+    translated:
+  - time_start: 194330
+    time_end: 197340
+    original: Uuh uuh uhh
+    translated: Uuh uuh uhh
+  - time_start: 197340
+    time_end: 200340
+    original:
+    translated:

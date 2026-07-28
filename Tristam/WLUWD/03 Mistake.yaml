@@ -1,0 +1,258 @@
+version: 1
+
+project:
+  title: Tristam - Mistake
+  track_name: Mistake
+  artists:
+    - Tristam
+  album_name: WLUWD
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/4acd08d2eaaf8cc4c00bbf776a8d5aab/500x500-000000-80-0-0.webp"
+  isrcs: QMBZ92051260
+  song_link: "https://www.deezer.com/track/1101175862"
+  artist_links:
+    - name: Tristam
+      url: "https://www.deezer.com/artist/319572"
+  social_links:
+    - artist_name: Tristam
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/319572"
+        - platform: Genius
+          url: "https://genius.com/artists/Tristam"
+        - platform: Website
+          url: "https://tristam.me/"
+        - platform: Twitter/X
+          url: "https://twitter.com/TristamOfficial"
+        - platform: Facebook
+          url: "https://www.facebook.com/Theofficialtristam"
+        - platform: Instagram
+          url: "https://www.instagram.com/itsmetristam/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/tristam"
+        - platform: Apple Music
+          url: "https://music.apple.com/ca/artist/342658707"
+        - platform: Tidal
+          url: "https://tidal.com/artist/20593116"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UC1l0vzhU4V4ddirN7hPNDTA"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/1101175862"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785224563324
+  updated_at: 1785224563324
+  exported_at: 1785225630445
+
+lyrics:
+  - time_start: 8640
+    time_end: 17480
+    original: Whoa, enough, enough
+    translated: Oh, Suficiente, basta.
+  - time_start: 17480
+    time_end: 28340
+    original: Whoa, enough, enough
+    translated: Oh, Suficiente, basta.
+  - time_start: 28340
+    time_end: 30410
+    original: Criticize
+    translated: Me criticas, no puedo escapar del fuego
+  - time_start: 30410
+    time_end: 32570
+    original: "I can't escape the fire"
+    translated: Me criticas, no puedo escapar del fuego
+  - time_start: 32570
+    time_end: 37920
+    original: "Even my best is pale, it's not enough for you"
+    translated: Incluso mi mejor esfuerzo no importa, no es suficiente para ti
+  - time_start: 37920
+    time_end: 39820
+    original: Redefine
+    translated: Me redefiniría, extinguiría el fuego
+  - time_start: 39820
+    time_end: 42140
+    original: I would erase the fire
+    translated: Me redefiniría, extinguiría el fuego
+  - time_start: 42140
+    time_end: 46460
+    original: "Never to face the fact that I've been hurt by you"
+    translated: Para no enfrentar el hecho de ser lastimado por ti
+  - time_start: 46460
+    time_end: 48770
+    original: Every time we fall
+    translated: Cada vez que caemos en un altibajo, ese ciclo se interrumpe y detiene
+  - time_start: 48770
+    time_end: 51190
+    original: Interrupt and it ceases
+    translated: Cada vez que caemos en un altibajo,
+  - time_start: 51190
+    time_end: 54880
+    original: "Floating outside your door, we can dance when it's all-electric"
+    translated: Escapando de la realidad, podemos bailar apasionadamente
+  - time_start: 54880
+    time_end: 58120
+    original: Sparring blind in your fires hectic
+    translated: Pero estamos luchando ciegamente, en tu fuego es frenético
+  - time_start: 58120
+    time_end: 60720
+    original: Everything now has fallen
+    translated: Todo se ha derrumbado todo, es todo lo que querías
+  - time_start: 60720
+    time_end: 63180
+    original: "It's everything that you wanted"
+    translated: Es todo lo que querías
+  - time_start: 63180
+    time_end: 66880
+    original: Everything that you wanted
+    translated: Es todo lo que querías
+  - time_start: 66880
+    time_end: 70500
+    original: You love to tell me when I make a mistake
+    translated: Te encanta decirme cuando cometo un error cuando sabes
+  - time_start: 70500
+    time_end: 71900
+    original: While you know
+    translated: Te encanta decirme cuando cometo un error cuando sabes
+  - time_start: 71900
+    time_end: 76660
+    original: I stumble, trip and fall the more that you blame, you shame
+    translated: Que cuanto más me culpas, más tropiezo, me caigo y te avergüenzas
+  - time_start: 76660
+    time_end: 81330
+    original: Our love is broken like a bone that you break, and it shows
+    translated: Nuestro amor está fracturado como un hueso roto y eso se nota
+  - time_start: 81330
+    time_end: 85960
+    original: To stay so long has been my greatest mistake
+    translated: Que mantenernos juntos tanto tiempo fue mi mayor error.
+  - time_start: 85960
+    time_end: 94320
+    original: Whoa, enough, enough
+    translated: Oh, Suficiente, basta.
+  - time_start: 94320
+    time_end: 105350
+    original: Whoa, enough, enough
+    translated: Oh, Suficiente, basta.
+  - time_start: 105350
+    time_end: 107250
+    original: No disguise
+    translated: La verdad puede ser tan reveladora
+  - time_start: 107250
+    time_end: 109280
+    original: It can be so revealing
+    translated: La verdad puede ser tan reveladora
+  - time_start: 109280
+    time_end: 114770
+    original: "If I betrayed myself, it's not because of you"
+    translated: Si me traicioné a mí mismo, no fue por ti.
+  - time_start: 114770
+    time_end: 116660
+    original: In your eyes
+    translated: En tu mirada, no puedo escapar del sentimiento
+  - time_start: 116660
+    time_end: 119270
+    original: "I can't escape the feeling"
+    translated: En tu mirada, no puedo escapar del sentimiento
+  - time_start: 119270
+    time_end: 123260
+    original: Nowhere to place in time a way to see it through
+    translated: De estar perdido en el tiempo, sin ninguna forma de avanzar
+  - time_start: 123260
+    time_end: 125520
+    original: Every time we fall
+    translated: ese ciclo se interrumpe y detiene
+  - time_start: 125520
+    time_end: 127710
+    original: Interrupt and it ceases
+    translated: Cada vez que caemos en un altibajo, ese ciclo se interrumpe y detiene
+  - time_start: 127710
+    time_end: 131960
+    original: "Floating outside your door, we can dance when it's all-electric"
+    translated: Escapando de la realidad, podemos bailar apasionadamente
+  - time_start: 131960
+    time_end: 135240
+    original: Sparring blind in your fires hectic
+    translated: Pero estamos luchando ciegamente,
+  - time_start: 135240
+    time_end: 137680
+    original: Everything now has fallen
+    translated: Todo se ha derrumbado todo, es todo lo que querías
+  - time_start: 137680
+    time_end: 139950
+    original: "It's everything that you wanted"
+    translated: Todo se ha derrumbado todo, es todo lo que querías
+  - time_start: 139950
+    time_end: 143690
+    original: Everything that you wanted
+    translated: Todo se ha derrumbado todo, es todo lo que
+  - time_start: 143690
+    time_end: 147220
+    original: You love to tell me when I make a mistake
+    translated: Te encanta decirme cuando cometo un error cuando sabes
+  - time_start: 147220
+    time_end: 148580
+    original: While you know
+    translated: Te encanta decirme cuando cometo un error
+  - time_start: 148580
+    time_end: 153530
+    original: I stumble, trip and fall the more that you blame, you shame
+    translated: Que cuanto más me culpas, más tropiezo, me caigo y te avergüenzas
+  - time_start: 153530
+    time_end: 158280
+    original: Our love is broken like a bone that you break, and it shows
+    translated: Nuestro amor está fracturado como un hueso roto y eso se nota
+  - time_start: 158280
+    time_end: 162050
+    original: To stay so long has been my greatest mistake
+    translated: Que mantenernos juntos tanto tiempo fue mi mayor error.
+  - time_start: 162050
+    time_end: 168930
+    original: "Because we've gone too far"
+    translated: Porque hemos llegamos demasiado lejos
+  - time_start: 168930
+    time_end: 174070
+    original: Just enough so we lost who we are
+    translated: Lo suficiente como para perdernos a nosotros mismos
+  - time_start: 174070
+    time_end: 178770
+    original: "I'll remember you by all the scars"
+    translated: Te recordaré por todas las cicatrices
+  - time_start: 178770
+    time_end: 181450
+    original: When I come back to me
+    translated: Cuando vuelva a ser yo mismo
+  - time_start: 181450
+    time_end: 183760
+    original: I will learn
+    translated: Aprenderé, y sabré
+  - time_start: 183760
+    time_end: 185960
+    original: I will know
+    translated: Aprenderé, y sabré
+  - time_start: 185960
+    time_end: 191050
+    original: Nothing hurts from which I cannot grow
+    translated: Que no hay dolor del que no pueda crecer
+  - time_start: 191050
+    time_end: 193060
+    original: Since the pain
+    translated: Ya que el dolor tiene un camino
+  - time_start: 193060
+    time_end: 195720
+    original: Has a way
+    translated: Ya que el dolor tiene un
+  - time_start: 195720
+    time_end: 200790
+    original: "It's deceiving, but I know I'll be okay"
+    translated: Es engañoso, pero sé que estaré bien
+  - time_start: 200790
+    time_end: 203790
+    original: " "
+    translated: ""

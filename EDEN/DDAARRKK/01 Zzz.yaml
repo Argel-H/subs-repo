@@ -1,0 +1,264 @@
+version: 1
+
+project:
+  title: EDEN - Zzz
+  track_name: Zzz
+  artists:
+    - EDEN
+  album_name: DDAARRKK
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/7c8e7903392f85c937e2f24ffdb9da66/500x500-000000-80-0-0.webp"
+  isrcs: NLRD52350412
+  song_link: "https://www.deezer.com/track/3297819281"
+  artist_links:
+    - name: EDEN
+      url: "https://www.deezer.com/artist/14450"
+  social_links:
+    - artist_name: EDEN
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/14450"
+        - platform: Website
+          url: "http://iameden.eu/"
+        - platform: Twitter/X
+          url: "https://twitter.com/iameden"
+        - platform: Facebook
+          url: "https://www.facebook.com/iameden"
+        - platform: Instagram
+          url: "https://www.instagram.com/iameden/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/iameden"
+        - platform: Apple Music
+          url: "https://music.apple.com/us/artist/1067193301"
+        - platform: Tidal
+          url: "https://tidal.com/artist/15718519"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UC-ZsN5evqmSVo3_SJyQe9yA"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/3297819281"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785221193570
+  updated_at: 1785221193570
+  exported_at: 1785221201699
+
+lyrics:
+  - time_start: 590
+    time_end: 5780
+    original: Wow, that sounds really cool and fun, yeah
+    translated: "Wow, esa canción es bastante genial, sip"
+  - time_start: 5780
+    time_end: 7960
+    original: Last dance, are you ready or not?
+    translated: "Última oportunidad, ¿estás lista o no?"
+  - time_start: 7960
+    time_end: 11690
+    original: No chance that we make this out alive
+    translated: "No hay manera de salir de esta con vida"
+  - time_start: 11690
+    time_end: 16230
+    original: I thought we could see a way out in time
+    translated: "Pensé que podríamos solucionarlo con el tiempo"
+  - time_start: 16230
+    time_end: 19070
+    original: "But it got so dark, where'd the light go?"
+    translated: "Pero todo se puso tan oscuro ¿A dónde se fue la luz?"
+  - time_start: 19070
+    time_end: 21660
+    original: Talking so much, save the ozone
+    translated: "Hablábamos un montón, cosas cómo salvar el ambiente"
+  - time_start: 21660
+    time_end: 27360
+    original: Saying nothing except to tell me it's late (yeah)
+    translated: Más que decirme excusas como "ya es tarde"
+  - time_start: 27360
+    time_end: 31040
+    original: So I wish you sweet dreams
+    translated: "Así que, te deseo dulces sueños"
+  - time_start: 31040
+    time_end: 33850
+    original: If you want to sleep on me, yeah
+    translated: "Si quieres dormir sobre mí"
+  - time_start: 33850
+    time_end: 35550
+    original: "No tears in the mornin'"
+    translated: "Adelante, será sin lágrimas por la mañana"
+  - time_start: 35550
+    time_end: 38910
+    original: "It's alright, it's alright"
+    translated: "Está bien, lo aceptaré"
+  - time_start: 38910
+    time_end: 41960
+    original: "It's all just sweet dreams"
+    translated: "Todos son sólo dulces sueños"
+  - time_start: 41960
+    time_end: 44870
+    original: "And you're sleeping on me"
+    translated: "Y tú sólo me sigues ignorando"
+  - time_start: 44870
+    time_end: 47420
+    original: "Even though it's not real"
+    translated: "Incluso cuando no es algo real"
+  - time_start: 47420
+    time_end: 49990
+    original: "It's alright, it's alright"
+    translated: "Está bien, lo aceptaré"
+  - time_start: 49990
+    time_end: 54250
+    original: "And by the time you wake up, I'm the other side of the river"
+    translated: "Estando al otro lado del río"
+  - time_start: 54250
+    time_end: 57610
+    original: "Kept my face dry, don't say you feel diffеrent now"
+    translated: "Y mantenga mi cara sin lágrimas No digas que te sientes diferente ahora"
+  - time_start: 57610
+    time_end: 60730
+    original: "It's your loss, your loss, your loss"
+    translated: "Es tu pérdida, tu pérdida, tu pérdida"
+  - time_start: 60730
+    time_end: 61310
+    original: "If you're lost"
+    translated: "Si estás perdida"
+  - time_start: 61310
+    time_end: 65480
+    original: By the timе you wake up, wonder how it got so distant
+    translated: "Y cuando te despiertes Cuando te despiertes"
+  - time_start: 65480
+    time_end: 68990
+    original: Summertime skies feel different without me now
+    translated: "Y los cielos del verano se sientan diferentes sin mí ahora"
+  - time_start: 68990
+    time_end: 71800
+    original: "It's your loss, your loss, your loss"
+    translated: "Es tu pérdida, tu pérdida, tu pérdida"
+  - time_start: 71800
+    time_end: 74890
+    original: "It's your loss, your loss, your loss"
+    translated: "Es tu pérdida, tu pérdida, tu pérdida"
+  - time_start: 74890
+    time_end: 80530
+    original: "It's your loss, your loss, your loss (yeah)"
+    translated: "Es tu pérdida, tu pérdida, tu pérdida (así es)"
+  - time_start: 80530
+    time_end: 86030
+    original: "It's your loss, your loss, your loss, loss"
+    translated: "Es tu pérdida, tu pérdida, tu pérdida (Pérdida)"
+  - time_start: 86030
+    time_end: 88090
+    original: "You don't ask, you don't wanna find out"
+    translated: "No preguntes lo que no quieres averiguar"
+  - time_start: 88090
+    time_end: 91360
+    original: "You're so sad when you don't get what you want"
+    translated: "Porque te pones tan triste cuando no obtienes lo que quieres"
+  - time_start: 91360
+    time_end: 96440
+    original: So tired of trying to change your mind, uh
+    translated: "Estoy tan exhausto de intentar cambiar tu mente"
+  - time_start: 96440
+    time_end: 99300
+    original: Comme ci, comme ça, feelings come and go
+    translated: "Y con indiferencia Los sentimientos van y vienen"
+  - time_start: 99300
+    time_end: 102400
+    original: Take what you want, feeling no remorse
+    translated: "Toma lo que quieras Sin remordimiento"
+  - time_start: 102400
+    time_end: 107130
+    original: Head on my chest, still so comfortable
+    translated: "Reposa tu cabeza sobre mi pecho Siéntete cómoda"
+  - time_start: 107130
+    time_end: 110780
+    original: So I wish you sweet dreams
+    translated: "Así que, te deseo dulces sueños"
+  - time_start: 110780
+    time_end: 113560
+    original: If you want to sleep on me, yeah
+    translated: "Si quieres dormir sobre mí"
+  - time_start: 113560
+    time_end: 116030
+    original: "No tears in the mornin'"
+    translated: "Adelante, será sin lágrimas por la mañana"
+  - time_start: 116030
+    time_end: 118610
+    original: "It's alright, it's alright"
+    translated: "Está bien, lo aceptaré"
+  - time_start: 118610
+    time_end: 121830
+    original: "It's all just sweet dreams"
+    translated: "Todos son sólo dulces sueños"
+  - time_start: 121830
+    time_end: 124890
+    original: "And you're sleeping on me"
+    translated: "Y tú sólo me estás ignorando"
+  - time_start: 124890
+    time_end: 126980
+    original: "Even though it's not real"
+    translated: "Incluso cuando no es real"
+  - time_start: 126980
+    time_end: 130250
+    original: "It's alright, it's alright"
+    translated: "Está bien, lo aceptaré"
+  - time_start: 130250
+    time_end: 133140
+    original: "(It's alright, it's alright)"
+    translated: "Está bien, lo aceptaré"
+  - time_start: 133140
+    time_end: 135910
+    original: "(It's alright, it's alright)"
+    translated: "Lo aceptaré, está bien"
+  - time_start: 135910
+    time_end: 141760
+    original: "(It's alright, it's alright)"
+    translated: "Está bien, lo aceptaré"
+  - time_start: 141760
+    time_end: 145600
+    original: "And by the time you wake up, I'm the other side of the river"
+    translated: "Estando al lado  opuesto del río"
+  - time_start: 145600
+    time_end: 148780
+    original: "Kept my face dry, don't say you feel different now"
+    translated: "Y mantenga mi cara seca sin lágrimas No digas que te sientes diferente ahora"
+  - time_start: 148780
+    time_end: 151970
+    original: "It's your loss, your loss, your loss"
+    translated: "Es tu pérdida, tu pérdida, tu pérdida"
+  - time_start: 151970
+    time_end: 153090
+    original: "If you're lost"
+    translated: "Si estás perdida"
+  - time_start: 153090
+    time_end: 156250
+    original: By the time you wake up, wonder how it got so distant
+    translated: "Y cuando te despiertes Cuando te despiertes"
+  - time_start: 156250
+    time_end: 160690
+    original: Summertime skies feel different without me now
+    translated: "Y los cielos del verano se sientan diferentes sin mí ahora"
+  - time_start: 160690
+    time_end: 163430
+    original: "It's your loss, your loss, your loss"
+    translated: "Es tu pérdida, tu pérdida, tu pérdida"
+  - time_start: 163430
+    time_end: 166750
+    original: "It's your loss, your loss, your loss"
+    translated: "Es tu pérdida, tu pérdida, tu pérdida"
+  - time_start: 166750
+    time_end: 172260
+    original: "It's your loss, your loss, your loss (yeah)"
+    translated: "Es tu pérdida, tu pérdida, tu pérdida Así es"
+  - time_start: 172260
+    time_end: 178010
+    original: "It's your loss, your loss, your loss, loss"
+    translated: "Es tu pérdida, tu pérdida, tu pérdida Pérdida"
+  - time_start: 178010
+    time_end: 181010
+    original: " "
+    translated: ""

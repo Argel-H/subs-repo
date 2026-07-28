@@ -1,0 +1,214 @@
+version: 1
+
+project:
+  title: Tristam - With Love Until We Die
+  track_name: With Love Until We Die
+  artists:
+    - Tristam
+  album_name: WLUWD
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/4acd08d2eaaf8cc4c00bbf776a8d5aab/500x500-000000-80-0-0.webp"
+  isrcs: QMBZ92051269
+  song_link: "https://www.deezer.com/track/1101175952"
+  artist_links:
+    - name: Tristam
+      url: "https://www.deezer.com/artist/319572"
+  social_links:
+    - artist_name: Tristam
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/319572"
+        - platform: Genius
+          url: "https://genius.com/artists/Tristam"
+        - platform: Website
+          url: "https://tristam.me/"
+        - platform: Twitter/X
+          url: "https://twitter.com/TristamOfficial"
+        - platform: Facebook
+          url: "https://www.facebook.com/Theofficialtristam"
+        - platform: Instagram
+          url: "https://www.instagram.com/itsmetristam/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/tristam"
+        - platform: Apple Music
+          url: "https://music.apple.com/ca/artist/342658707"
+        - platform: Tidal
+          url: "https://tidal.com/artist/20593116"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UC1l0vzhU4V4ddirN7hPNDTA"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/1101175952"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785225093294
+  updated_at: 1785225093294
+  exported_at: 1785225652787
+
+lyrics:
+  - time_start: 30360
+    time_end: 32930
+    original: "And while we're here"
+    translated: Mientras estemos en este mundo
+  - time_start: 32930
+    time_end: 35150
+    original: "Let's celebrate our life"
+    translated: Celebremos nuestra vida
+  - time_start: 35150
+    time_end: 37540
+    original: "Let's treat each other nice"
+    translated: Seamos amables los unos a los otros
+  - time_start: 37540
+    time_end: 39720
+    original: "Let's spread the wealth around"
+    translated: Compartamos nuestra riqueza
+  - time_start: 39720
+    time_end: 41970
+    original: Not bring each other down
+    translated: Sin herir a los demás
+  - time_start: 41970
+    time_end: 44480
+    original: "It's enough to live a life"
+    translated: Es suficiente con apreciar la vida
+  - time_start: 44480
+    time_end: 46600
+    original: We love and then we die
+    translated: Amemos y muramos en paz
+  - time_start: 46600
+    time_end: 48840
+    original: "And while we're young"
+    translated: Y mientras somos jóvenes
+  - time_start: 48840
+    time_end: 51300
+    original: "Let's run around the town"
+    translated: Corramos por la ciudad
+  - time_start: 51300
+    time_end: 53570
+    original: "Let's learn and feel around"
+    translated: Aprendamos y experimentemos
+  - time_start: 53570
+    time_end: 55760
+    original: "Let's fall and break a bone"
+    translated: Caigámonos y rompámonos un hueso
+  - time_start: 55760
+    time_end: 57970
+    original: "It's OK to be alone"
+    translated: Está bien estar solo
+  - time_start: 57970
+    time_end: 60470
+    original: "It's OK to make mistakes"
+    translated: Está perfecto cometer errores
+  - time_start: 60470
+    time_end: 62890
+    original: "They're ripples in our wake"
+    translated: Son huellas de nuestro pasado
+  - time_start: 62890
+    time_end: 66690
+    original: " "
+    translated: ""
+  - time_start: 66690
+    time_end: 94230
+    original: " "
+    translated: ""
+  - time_start: 94230
+    time_end: 97000
+    original: "And when we've grown"
+    translated: Cuando hayamos crecido
+  - time_start: 97000
+    time_end: 99230
+    original: Some children of our own
+    translated: Y tengamos nuestros propios hijos
+  - time_start: 99230
+    time_end: 101400
+    original: "Not to do as they're told"
+    translated: No hay que imponerles nuestras ideas
+  - time_start: 101400
+    time_end: 103720
+    original: And not for us to hold
+    translated: No los criamos para obedecer
+  - time_start: 103720
+    time_end: 106030
+    original: We guide them in their stride
+    translated: Solo los guiamos en su camino
+  - time_start: 106030
+    time_end: 108240
+    original: We let them shape their lives
+    translated: Les dejamos moldear sus vidas
+  - time_start: 108240
+    time_end: 110640
+    original: With love until we die
+    translated: Siempre con amor hasta la muerte.
+  - time_start: 110640
+    time_end: 113010
+    original: "'Cause when we're old"
+    translated: Y cuando seamos mayores
+  - time_start: 113010
+    time_end: 115260
+    original: "We'll laugh and reminisce"
+    translated: Nos reiremos y recordaremos con nostalgia
+  - time_start: 115260
+    time_end: 117680
+    original: The scars and what we miss
+    translated: De las cicatrices y lo que hemos dejado atrás
+  - time_start: 117680
+    time_end: 119760
+    original: Our hair will fall or fade
+    translated: Nuestro cabello se caerá o se volverá gris
+  - time_start: 119760
+    time_end: 122090
+    original: "Let's not be made of jade"
+    translated: No permitamos que eso nos amargue
+  - time_start: 122090
+    time_end: 124570
+    original: "It's enough to live a life"
+    translated: Es suficiente con apreciar la vida
+  - time_start: 124570
+    time_end: 128580
+    original: With love and then to die
+    translated: Amemos y muramos en paz
+  - time_start: 128580
+    time_end: 161850
+    original: " "
+    translated: ""
+  - time_start: 161850
+    time_end: 164080
+    original: While you dance
+    translated: Mientras bailas
+  - time_start: 164080
+    time_end: 168640
+    original: "Just remember that you'll never be alone"
+    translated: Ten en cuenta que nunca estarás solo
+  - time_start: 168640
+    time_end: 173220
+    original: "That you'll never fade, you'll only carry on"
+    translated: Que siempre te acompañarán tus recuerdos y experiencias
+  - time_start: 173220
+    time_end: 180020
+    original: You can let it go, it never made your way
+    translated: No te aferres a lo que no sucedió, eso nunca fue para ti.
+  - time_start: 180020
+    time_end: 182580
+    original: "And while you're here"
+    translated: Mientras estemos en este
+  - time_start: 182580
+    time_end: 186970
+    original: "Don't forget to help your neighbor when they're low"
+    translated: No te olvides de ayudar a los demás cuando lo necesiten
+  - time_start: 186970
+    time_end: 191340
+    original: Why not live to love and humble as you grow
+    translated: ¿Por qué no vivir con amor y humildad mientras crecemos?
+  - time_start: 191340
+    time_end: 194840
+    original: "So when you finally go, they'll cherish what you made"
+    translated: Así que cuando finalmente te vayas, ellos valorarán lo que hiciste.
+  - time_start: 194840
+    time_end: 197840
+    original: " "
+    translated: ""

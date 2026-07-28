@@ -1,0 +1,184 @@
+version: 1
+
+project:
+  title: Tristam - Ruthless
+  track_name: Ruthless
+  artists:
+    - Tristam
+  album_name: WLUWD
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/4acd08d2eaaf8cc4c00bbf776a8d5aab/500x500-000000-80-0-0.webp"
+  isrcs: QMBZ92051259
+  origin_language: English
+  translation_language: Spanish
+  song_link: "https://www.deezer.com/track/1101175852"
+  artist_links:
+    - name: Tristam
+      url: "https://www.deezer.com/artist/319572"
+  social_links:
+    - artist_name: Tristam
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/319572"
+        - platform: Genius
+          url: "https://genius.com/artists/Tristam"
+        - platform: Website
+          url: "https://tristam.me/"
+        - platform: Twitter/X
+          url: "https://twitter.com/TristamOfficial"
+        - platform: Facebook
+          url: "https://www.facebook.com/Theofficialtristam"
+        - platform: Instagram
+          url: "https://www.instagram.com/itsmetristam/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/tristam"
+        - platform: Apple Music
+          url: "https://music.apple.com/ca/artist/342658707"
+        - platform: Tidal
+          url: "https://tidal.com/artist/20593116"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UC1l0vzhU4V4ddirN7hPNDTA"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/1101175852"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785224512623
+  updated_at: 1785224531611
+  exported_at: 1785225627307
+
+lyrics:
+  - time_start: 13180
+    time_end: 16650
+    original: We had each other
+    translated: Nos teníamos el uno al otro
+  - time_start: 16650
+    time_end: 20310
+    original: Floating and tethered
+    translated: Siendo libres estando atados
+  - time_start: 20310
+    time_end: 23830
+    original: You saw me broken
+    translated: Viste mi herida
+  - time_start: 23830
+    time_end: 27610
+    original: You cut me open
+    translated: La abriste para sanarla
+  - time_start: 27610
+    time_end: 31470
+    original: "It's like I don't even care at all"
+    translated: Fue como si eso no me importara en lo absoluto
+  - time_start: 31470
+    time_end: 35190
+    original: Thinking retrospectively
+    translated: Reflexionando sobre el pasado
+  - time_start: 35190
+    time_end: 38390
+    original: I was narrowed in on a tear
+    translated: Estaba tan enfocado en mi dolor
+  - time_start: 38390
+    time_end: 41790
+    original: As I was ripping the velveteen
+    translated: Mientras rasgaba el velvetón
+  - time_start: 41790
+    time_end: 48820
+    original: "Trust me, I know it's real the pain you say that you feel"
+    translated: Créeme que, puedo entender, el dolor que dices sentir
+  - time_start: 48820
+    time_end: 56130
+    original: "Trust me, I know it's true, I can be ruthless to you"
+    translated: Créeme que, sé que es verdad, a veces puedo ser duro contigo
+  - time_start: 56130
+    time_end: 63380
+    original: "Oh, but I promise that it's only love that I feel"
+    translated: Pero te prometo que esto lo hago por amor
+  - time_start: 63380
+    time_end: 68740
+    original: "I wish I had some clue, why I'm so ruthless to you"
+    translated: Desearía tener alguna pista por qué soy tan cruel contigo
+  - time_start: 68740
+    time_end: 71090
+    original: " "
+    translated: ""
+  - time_start: 71090
+    time_end: 84250
+    original: " "
+    translated: ""
+  - time_start: 84250
+    time_end: 87840
+    original: Out in the open
+    translated: Con las emociones al descubierto
+  - time_start: 87840
+    time_end: 91500
+    original: "Loud when it's spoken"
+    translated: Me expreso en voz alta
+  - time_start: 91500
+    time_end: 94890
+    original: Even when I peak
+    translated: Incluso en mis mejores momentos
+  - time_start: 94890
+    time_end: 98920
+    original: "I'm hopeless and I'm weak"
+    translated: Me siento desesperanzado y débil
+  - time_start: 98920
+    time_end: 102580
+    original: "It's like I don't even care at all"
+    translated: Es como si eso no me importara en lo absoluto
+  - time_start: 102580
+    time_end: 106050
+    original: Thinking retrospectively
+    translated: Reflexionando sobre el pasado
+  - time_start: 106050
+    time_end: 109320
+    original: I was narrowed in on a tear
+    translated: Estaba tan enfocado en mi dolor
+  - time_start: 109320
+    time_end: 112910
+    original: As I was ripping the velveteen
+    translated: Mientras rasgaba el velvetón
+  - time_start: 112910
+    time_end: 120220
+    original: "Trust me, I know it's real the pain you say that you feel"
+    translated: Créeme que, puedo entender, el dolor que dices sentir
+  - time_start: 120220
+    time_end: 127390
+    original: "Trust me, I know it's true, I can be ruthless to you"
+    translated: Créeme que, sé que es verdad, a veces puedo ser duro contigo
+  - time_start: 127390
+    time_end: 134370
+    original: "Oh, but I promise that it's only love that I feel"
+    translated: Pero te prometo que esto lo hago por amor
+  - time_start: 134370
+    time_end: 141510
+    original: "I wish I had some clue, why I'm so ruthless to you"
+    translated: Desearía tener alguna pista por qué soy tan cruel contigo
+  - time_start: 141510
+    time_end: 155550
+    original: " "
+    translated: ""
+  - time_start: 155550
+    time_end: 162440
+    original: Maybe a change in season with the falling leaves
+    translated: Quizás sea un cambio de estación con las hojas cayendo
+  - time_start: 162440
+    time_end: 169710
+    original: Maybe a calming breeze will whisper through
+    translated: Tal vez una brisa me calmará
+  - time_start: 169710
+    time_end: 178650
+    original: I wanna find the reason where I got this feeling
+    translated: Quiero encontrar la razón por la que tengo este sentimiento
+  - time_start: 178650
+    time_end: 182270
+    original: "Why I'm ruthless to you"
+    translated: Por qué soy tan cruel contigo.
+  - time_start: 182270
+    time_end: 185270
+    original: " "
+    translated: ""

@@ -1,0 +1,270 @@
+version: 1
+
+project:
+  title: Tristam - Over the Edge
+  track_name: Over the Edge
+  artists:
+    - Tristam
+  album_name: WLUWD
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/4acd08d2eaaf8cc4c00bbf776a8d5aab/500x500-000000-80-0-0.webp"
+  isrcs: QMBZ92051264
+  song_link: "https://www.deezer.com/track/1101175902"
+  artist_links:
+    - name: Tristam
+      url: "https://www.deezer.com/artist/319572"
+  social_links:
+    - artist_name: Tristam
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/319572"
+        - platform: Genius
+          url: "https://genius.com/artists/Tristam"
+        - platform: Website
+          url: "https://tristam.me/"
+        - platform: Twitter/X
+          url: "https://twitter.com/TristamOfficial"
+        - platform: Facebook
+          url: "https://www.facebook.com/Theofficialtristam"
+        - platform: Instagram
+          url: "https://www.instagram.com/itsmetristam/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/tristam"
+        - platform: Apple Music
+          url: "https://music.apple.com/ca/artist/342658707"
+        - platform: Tidal
+          url: "https://tidal.com/artist/20593116"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UC1l0vzhU4V4ddirN7hPNDTA"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/1101175902"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1785224718117
+  updated_at: 1785224718117
+  exported_at: 1785225637728
+
+lyrics:
+  - time_start: 20240
+    time_end: 25150
+    original: "I could give it all if you'd take me"
+    translated: (Lo daría todo si me llevaras)
+  - time_start: 25150
+    time_end: 30110
+    original: To when I was a kid in the backseat
+    translated: A cuando era niño en el asiento trasero
+  - time_start: 30110
+    time_end: 33720
+    original: Driven down a road in the country
+    translated: Conducido por una carretera en el campo (a lo lejos, a lo lejos, a lo lejos)
+  - time_start: 33720
+    time_end: 34900
+    original: "I'd want to grow"
+    translated: Quería crecer
+  - time_start: 34900
+    time_end: 40040
+    original: So I could take a ride in the front seat
+    translated: Para pasear en el asiento delantero
+  - time_start: 40040
+    time_end: 44960
+    original: Never knew that time would escape me
+    translated: Nunca supe que el tiempo me escaparía
+  - time_start: 44960
+    time_end: 48420
+    original: I could give all just to break free
+    translated: Lo daría todo solo para liberarme
+  - time_start: 48420
+    time_end: 53380
+    original: I want to know if I could find the door and the jail key
+    translated: Quiero saber, si podría liberarme de esta cárcel (a lo lejos, a lo lejos, a lolejos)
+  - time_start: 53380
+    time_end: 55080
+    original: Then I could grow
+    translated: Así podría crecer
+  - time_start: 55080
+    time_end: 58680
+    original: Outside of the walls that contain me
+    translated: Fuera de los muros que me contienen
+  - time_start: 58680
+    time_end: 59600
+    original: "That's why"
+    translated: Por eso que, ahora mismo, tengo que escapar
+  - time_start: 59600
+    time_end: 61720
+    original: Right now, I gotta go
+    translated: Por eso que, ahora mismo, tengo que escapar
+  - time_start: 61720
+    time_end: 64560
+    original: Driving so fast yet im moving so slow
+    translated: Conduciendo tan deprisa, pero moviéndome demasiado lento
+  - time_start: 64560
+    time_end: 66760
+    original: "Too late I'm getting old"
+    translated: Demasiado tarde, estoy envejeciendo
+  - time_start: 66760
+    time_end: 69920
+    original: "Cliffsides coming I'll be driving over the edge"
+    translated: Con acantilados de frente, estaré conduciendo sobre el borde
+  - time_start: 69920
+    time_end: 75000
+    original: I want to be somebody
+    translated: No quiero ser un don nadie
+  - time_start: 75000
+    time_end: 77600
+    original: I want to hold someone
+    translated: Quiero que alguien me acompañe
+  - time_start: 77600
+    time_end: 82120
+    original: "When I grow, when I'm free"
+    translated: Cuando envejezca, cuando sea libre
+  - time_start: 82120
+    time_end: 87500
+    original: "When the scars that fill my body prove that I'm me"
+    translated: Cuando las cicatrices que llenan mi cuerpo prueben que soy yo
+  - time_start: 87500
+    time_end: 93120
+    original: "In my withdrawal, when I'm weak at my knees"
+    translated: Y en mi retirada, cuando no tenga fuerza en las rodillas (a lo lejos, a lo lejos, a lo lejos)
+  - time_start: 93120
+    time_end: 97120
+    original: "If wise I'll know, that probably I'll be fine"
+    translated: Si soy cuidadoso, sabré que probablemente estaré bien
+  - time_start: 97120
+    time_end: 99400
+    original: You hear it all the time
+    translated: Eso lo escuchas a menudo
+  - time_start: 99400
+    time_end: 104370
+    original: Think of what you take for granted
+    translated: Piensa en lo que dabas por hecho
+  - time_start: 104370
+    time_end: 108030
+    original: Think of what you got that you wanted
+    translated: Reflexiona sobre lo que deseabas y ahora conseguiste
+  - time_start: 108030
+    time_end: 110630
+    original: "'Cause when it goes and you cant replace it"
+    translated: Porque cuando se vaya y no puedas reemplazarlo
+  - time_start: 110630
+    time_end: 113040
+    original: "You know it's precious, not to waste it"
+    translated: Sabrás que es muy valioso, y no debes desperdiciarlo
+  - time_start: 113040
+    time_end: 118010
+    original: Be grateful, you gotta be grateful
+    translated: Sé agradecido, tienes que agradecer lo que tienes
+  - time_start: 118010
+    time_end: 119040
+    original: "That's why"
+    translated: Por eso que, ahora mismo, tengo que escapar
+  - time_start: 119040
+    time_end: 121120
+    original: Right now, I gotta go
+    translated: Por eso que, ahora mismo, tengo que escapar
+  - time_start: 121120
+    time_end: 123760
+    original: "Driving so fast yet I'm moving so slow"
+    translated: Conduciendo tan deprisa, pero moviéndome demasiado lento
+  - time_start: 123760
+    time_end: 125970
+    original: "Too late I'm getting old"
+    translated: Demasiado tarde, estoy envejeciendo
+  - time_start: 125970
+    time_end: 129370
+    original: "Cliffsides coming I'll be driving over the edge"
+    translated: Con el acantilado de frente, estaré conduciendo sobre el borde
+  - time_start: 129370
+    time_end: 134400
+    original: I want to be somebody
+    translated: Quiero ser alguien.
+  - time_start: 134400
+    time_end: 136920
+    original: I want to hold someone
+    translated: No quiero ser un don nadie
+  - time_start: 136920
+    time_end: 141480
+    original: "When I grow, when I'm free"
+    translated: Cuando envejezca, cuando sea libre
+  - time_start: 141480
+    time_end: 146760
+    original: "And the scars that fill my body prove that I'm me"
+    translated: Cuando las cicatrices que llenan mi cuerpo prueben que soy yo
+  - time_start: 146760
+    time_end: 152560
+    original: "In my withdrawal, when I'm weak at my knees"
+    translated: Y en mi retirada, cuando no tenga fuerza en las rodillas (a lo lejos, a lo lejos, a lo lejos)
+  - time_start: 152560
+    time_end: 154520
+    original: "If wise I'll know"
+    translated: Si soy cuidadoso, sabré que probablemente estaré bien
+  - time_start: 154520
+    time_end: 156620
+    original: "That probably I'll be fine"
+    translated: Si soy cuidadoso,
+  - time_start: 156620
+    time_end: 159260
+    original: You hear it all the time
+    translated: Eso lo escuchas a menudo
+  - time_start: 159260
+    time_end: 161600
+    original: "How life's been movin fast"
+    translated: El cómo la vida se mueve deprisa
+  - time_start: 161600
+    time_end: 163760
+    original: "That it's just passing by"
+    translated: El tiempo solo pasa y pasa
+  - time_start: 163760
+    time_end: 166710
+    original: Running reds, and beaming bright
+    translated: Saltando semáforos brillando intensamente
+  - time_start: 166710
+    time_end: 168760
+    original: "Time don't give a damn"
+    translated: El tiempo no le importa nada
+  - time_start: 168760
+    time_end: 172050
+    original: "If we're broke and fading white"
+    translated: Si estamos destrozados mientras desaparecemos en el olvido
+  - time_start: 172050
+    time_end: 177260
+    original: I never knew, that life could move so fast
+    translated: Nunca pensé que la vida podía moverse tan rápido
+  - time_start: 177260
+    time_end: 178430
+    original: "That's why"
+    translated: Por eso que, ahora mismo, tengo que escapar
+  - time_start: 178430
+    time_end: 180600
+    original: Right now, I gotta go
+    translated: Por eso que, ahora mismo, tengo que escapar
+  - time_start: 180600
+    time_end: 183340
+    original: "Driving so fast yet I'm moving so slow"
+    translated: Conduciendo tan deprisa, pero moviéndome demasiado lento
+  - time_start: 183340
+    time_end: 185480
+    original: "Too late I'm getting old"
+    translated: Demasiado tarde, estoy envejeciendo
+  - time_start: 185480
+    time_end: 188760
+    original: "Cliffsides coming I'll be driving over the edge"
+    translated: Con el acantilado de frente, estaré conduciendo sobre el borde
+  - time_start: 188760
+    time_end: 193680
+    original: I want to hold someone
+    translated: Quiero que alguien me acompañe
+  - time_start: 193680
+    time_end: 195940
+    original: I want to be somebody
+    translated: No quiero ser un don nadie (a lo lejos, a lo lejos, a lo lejos)
+  - time_start: 195940
+    time_end: 198940
+    original: " "
+    translated: ""
