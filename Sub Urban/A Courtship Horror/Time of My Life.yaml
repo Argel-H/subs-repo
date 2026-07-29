@@ -12,6 +12,9 @@ project:
   translation_language: Spanish
   song_link: "https://song.link/d/4101046601"
   audio_url: "https://file.garden/alCSwLnuWEQGo0Me/If%20Nevermore%20(Anhedonia)%20(2025)/Time%20of%20My%20Life.flac"
+  wallpaper_artist_name: Artem Demura
+  wallpaper_source: ArtStation
+  wallpaper_url: "https://www.artstation.com/artwork/dK6a2Q"
   artist_links:
     - name: Sub Urban
       url: "https://www.deezer.com/artist/7815200"
@@ -39,8 +42,8 @@ project:
 
 metadata:
   created_at: 1785342572844
-  updated_at: 1785342686338
-  exported_at: 1785342701171
+  updated_at: 1785343275825
+  exported_at: 1785343282217
 
 lyrics:
   - time_start: 0
