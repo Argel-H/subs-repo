@@ -1,0 +1,200 @@
+version: 1
+
+project:
+  title: Sub Urban - Time of My Life
+  track_name: Time of My Life
+  artists:
+    - Sub Urban
+  album_name: A Courtship Horror
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/63870a616762c3ac725d7b55c8f9ddb8/500x500-000000-80-0-0.webp"
+  isrcs: QT6662624536
+  origin_language: English
+  translation_language: Spanish
+  song_link: "https://song.link/d/4101046601"
+  audio_url: "https://file.garden/alCSwLnuWEQGo0Me/If%20Nevermore%20(Anhedonia)%20(2025)/Time%20of%20My%20Life.flac"
+  artist_links:
+    - name: Sub Urban
+      url: "https://www.deezer.com/artist/7815200"
+  social_links:
+    - artist_name: Sub Urban
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/5Lu9cJbg2psjM9PbYYZBIQ"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/279945841"
+        - platform: Genius
+          url: "https://genius.com/artists/Sub-urban"
+        - platform: Apple Music
+          url: "https://music.apple.com/gb/artist/429426385"
+        - platform: Tidal
+          url: "https://tidal.com/artist/5873127"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/4101046601"
+    appleMusic: null
+    spotify: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: "https://listen.tidal.com/track/535143249"
+
+metadata:
+  created_at: 1785342572844
+  updated_at: 1785342686338
+  exported_at: 1785342701171
+
+lyrics:
+  - time_start: 0
+    time_end: 1300
+    original: ""
+    translated: ""
+    locked: false
+  - time_start: 1300
+    time_end: 3800
+    original: "I don't wanna be here"
+    translated: No quiero estar aquí
+    locked: true
+  - time_start: 3800
+    time_end: 6100
+    original: "I don't wanna know you"
+    translated: No quiero saber de ti
+    locked: true
+  - time_start: 6100
+    time_end: 11000
+    original: "I don't wanna-"
+    translated: No quiero-
+    locked: true
+  - time_start: 11000
+    time_end: 13600
+    original: "I don't wanna see you again"
+    translated: No quiero verte otra vez
+    locked: true
+  - time_start: 13600
+    time_end: 16800
+    original: "I don't wanna make you-"
+    translated: No quiero obligarte
+    locked: false
+  - time_start: 16800
+    time_end: 19500
+    original: I had the time of my life with you
+    translated: Viví lo mejor de mi vida contigo
+    locked: true
+  - time_start: 19500
+    time_end: 20300
+    original: ""
+    translated: ""
+    locked: false
+  - time_start: 20300
+    time_end: 23500
+    original: "(I don't wanna be here) I want you to take me there again"
+    translated: (No quiero estar aquí) Quiero que me lleves de nuevo allí
+    locked: false
+  - time_start: 23500
+    time_end: 25500
+    original: "(I don't wanna know you)"
+    translated: (No quiero saber de ti)
+    locked: false
+  - time_start: 25500
+    time_end: 26700
+    original: "(I don't wanna)"
+    translated: (No quiero)
+    locked: false
+  - time_start: 26700
+    time_end: 30300
+    original: I had the time of my life with you
+    translated: Viví lo mejor de mi vida contigo
+    locked: false
+  - time_start: 30300
+    time_end: 31500
+    original: "(I don't wanna see you again)"
+    translated: (No quiero verte otra vez)
+    locked: false
+  - time_start: 31500
+    time_end: 33500
+    original: But I know how it ends
+    translated: Pero sé cómo termina
+    locked: false
+  - time_start: 33500
+    time_end: 38000
+    original: "(I don't wanna make you)"
+    translated: (No quiero obligarte)
+    locked: false
+  - time_start: 38000
+    time_end: 39800
+    original: ""
+    translated: ""
+    locked: false
+  - time_start: 39800
+    time_end: 43700
+    original: "It's my water damaged heart"
+    translated: Es que mi corazón está inundado
+    locked: false
+  - time_start: 43700
+    time_end: 46100
+    original: Take me apart
+    translated: Desármame
+    locked: true
+  - time_start: 46100
+    time_end: 49100
+    original: No rip me apart
+    translated: No, mejor hazme pedazos
+    locked: true
+  - time_start: 49100
+    time_end: 52000
+    original: Were we always meant to
+    translated: ¿Acaso siempre estuvimos destinados a-
+    locked: false
+  - time_start: 52000
+    time_end: 52500
+    original: ""
+    translated: ""
+    locked: false
+  - time_start: 52500
+    time_end: 59300
+    original: (With you) I want you to take me there again
+    translated: (Contigo) Quiero que me lleves de nuevo allí
+    locked: false
+  - time_start: 59300
+    time_end: 63500
+    original: I had the time of my life with you
+    translated: Viví lo mejor de mi vida contigo
+    locked: false
+  - time_start: 63500
+    time_end: 70500
+    original: But I know how it ends
+    translated: Pero sé cómo termina
+    locked: false
+  - time_start: 70500
+    time_end: 72800
+    original: ""
+    translated: ""
+    locked: false
+  - time_start: 72800
+    time_end: 75200
+    original: "I don't wanna be here"
+    translated: No quiero estar aquí
+    locked: false
+  - time_start: 75200
+    time_end: 77700
+    original: "I don't wanna know you"
+    translated: No quiero saber de ti
+    locked: false
+  - time_start: 77700
+    time_end: 82200
+    original: "I don't wanna-"
+    translated: No quiero-
+    locked: false
+  - time_start: 82200
+    time_end: 85000
+    original: "I don't wanna see you again"
+    translated: No quiero verte otra vez
+    locked: false
+  - time_start: 85000
+    time_end: 88000
+    original: "I don't wanna make you-"
+    translated: No quiero obligarte
+    locked: false
+  - time_start: 88000
+    time_end: 91000
+    original: I had the time of my life
+    translated: Viví lo mejor de mi vida
+    locked: false

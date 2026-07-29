@@ -1,0 +1,325 @@
+version: 1
+
+project:
+  title: twenty one pilots - The Contract
+  track_name: The Contract
+  artists:
+    - twenty one pilots
+  album_name: Breach
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/5cda6b0fe2397e15aef9d48d909e16d9/500x500-000000-80-0-0.webp"
+  isrcs: USAT22503458
+  origin_language: English
+  translation_language: Spanish
+  song_link: "https://www.deezer.com/track/3410672871"
+  audio_url: "https://file.garden/alCSwLnuWEQGo0Me/The%20Contract.mp3"
+  wallpaper_artist_name: huleeb
+  wallpaper_source: ArtStation
+  wallpaper_url: "https://www.artstation.com/artwork/0lE1b4"
+  artist_links:
+    - name: Twenty One Pilots
+      url: "https://www.deezer.com/artist/647650"
+    - name: Twenty One Pilots
+      url: "https://www.deezer.com/artist/647650"
+  social_links:
+    - artist_name: twenty one pilots
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/647650"
+        - platform: Genius
+          url: "https://genius.com/artists/Twenty-one-pilots"
+        - platform: Website
+          url: "https://www.twentyonepilots.com/"
+        - platform: Apple Music
+          url: "https://music.apple.com/us/artist/349736311"
+        - platform: Twitter/X
+          url: "https://twitter.com/twentyonepilots"
+        - platform: Facebook
+          url: "https://www.facebook.com/twentyonepilots"
+        - platform: Instagram
+          url: "https://www.instagram.com/twentyonepilots/"
+        - platform: TikTok
+          url: "https://www.tiktok.com/@twentyonepilots"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/twentyonepilots"
+        - platform: Amazon Music
+          url: "https://music.amazon.com/artists/B0033LXVEU"
+        - platform: Tidal
+          url: "https://tidal.com/artist/4664877"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UCBQZwaNPFfJ1gZ1fLZpAEGw"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/3410672871"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1783661274730
+  updated_at: 1785342834197
+  exported_at: 1785342838874
+
+lyrics:
+  - time_start: 0
+    time_end: 16300
+    original: " "
+    translated: ""
+  - time_start: 16300
+    time_end: 19790
+    original: I check the doors, check the windows, and pull the blinds
+    translated: Reviso las puertas, ventanas y cierro las persianas
+    locked: true
+  - time_start: 19790
+    time_end: 23340
+    original: I check the clock, wondering what he’ll pull this time
+    translated: Miro el reloj, preguntandome qué hará esta vez
+  - time_start: 23340
+    time_end: 26940
+    original: I have a feeling that necromancer’s outside
+    translated: Presiento que el nigromante está afuera
+    locked: true
+  - time_start: 26940
+    time_end: 29760
+    original: And I’m just trying to stay quiet
+    translated: Y solo intento estar en silencio
+  - time_start: 29760
+    time_end: 30240
+    original: " "
+    translated: ""
+  - time_start: 30240
+    time_end: 33720
+    original: "I don’t sleep much, that's crazy, how’d you know that?"
+    translated: No duermo mucho, qué locura, ¿cómo lo sabes?
+  - time_start: 33720
+    time_end: 38620
+    original: "Keep myself up, that's maybe how you know that"
+    translated: Me mantengo despierto, quizás así es como lo sabes
+  - time_start: 38620
+    time_end: 44360
+    original: Promises and contracts I used to keep
+    translated: Promesas y contratos que solía cumplír
+    locked: true
+  - time_start: 44360
+    time_end: 47920
+    original: "I don’t sleep much, that's crazy, how’d you know that?"
+    translated: No duermo mucho, qué locura, ¿cómo lo sabes?
+  - time_start: 47920
+    time_end: 52830
+    original: Keep myself up, that’s maybe how you know that
+    translated: Me mantengo despierto, quizás así es como lo sabes
+  - time_start: 52830
+    time_end: 58970
+    original: My hallucination I used to see
+    translated: Esa alucinación mía que solía ver
+  - time_start: 58970
+    time_end: 60440
+    original: " "
+    translated: ""
+  - time_start: 60440
+    time_end: 62650
+    original: Wake up and I find out, did a change up
+    translated: Despierto y me doy cuenta, cambió algo
+  - time_start: 62650
+    time_end: 63890
+    original: Wait - Did it change up?
+    translated: Espera - ¿que cambió?
+  - time_start: 63890
+    time_end: 64810
+    original: Is it light out yet?
+    translated: ¿Ya hay luz fuera?
+  - time_start: 64810
+    time_end: 65640
+    original: Better find out. Bet
+    translated: Mejor averiguarlo. Claro
+  - time_start: 65640
+    time_end: 66600
+    original: Imma walk around the edge of the room
+    translated: Voy a caminar por la orilla del cuarto
+  - time_start: 66600
+    time_end: 68290
+    original: And the bed where I hide my face
+    translated: Y de la cama donde suelo esconder mi cara
+  - time_start: 68290
+    time_end: 69320
+    original: Pace around
+    translated: Yendo de un lado a otro
+  - time_start: 69320
+    time_end: 70120
+    original: Better try to breathe
+    translated: Mejor intento respirar
+  - time_start: 70120
+    time_end: 72130
+    original: Pace around, Pace around
+    translated: Deambulando de un lado a otro, de un lado a otro
+  - time_start: 72130
+    time_end: 73060
+    original: " "
+    translated: ""
+  - time_start: 73060
+    time_end: 76690
+    original: I check the doors, check the windows, and pull the blinds
+    translated: Reviso las puertas, ventanas y cierro las persianas
+  - time_start: 76690
+    time_end: 80250
+    original: I check the clock, wondering what he’ll pull this time
+    translated: Miro el reloj, preguntandome qué hará esta vez
+  - time_start: 80250
+    time_end: 83820
+    original: I have a feeling that necromancer’s outside
+    translated: Presiento que el nigromante está afuera
+  - time_start: 83820
+    time_end: 86650
+    original: And I’m just trying to stay quiet
+    translated: Y solo intento no hacer ruido
+  - time_start: 86650
+    time_end: 87050
+    original: " "
+    translated: ""
+  - time_start: 87050
+    time_end: 90650
+    original: "I don’t sleep much, that's crazy, how’d you know that?"
+    translated: No duermo mucho, qué locura, ¿cómo lo sabes?
+  - time_start: 90650
+    time_end: 95330
+    original: "Keep myself up, that's maybe how you know that"
+    translated: Me mantengo despierto, quizás así es como lo sabes
+  - time_start: 95330
+    time_end: 101270
+    original: Promises and contracts I used to keep
+    translated: Promesas y contratos que solía cumplir
+  - time_start: 101270
+    time_end: 104870
+    original: "I don’t sleep much, that's crazy, how’d you know that?"
+    translated: No duermo mucho, qué locura, ¿cómo lo sabes?
+  - time_start: 104870
+    time_end: 110030
+    original: Keep myself up, that’s maybe how you know that
+    translated: Despierto me mantengo, quizás así es como lo sabes
+  - time_start: 110030
+    time_end: 115560
+    original: My hallucination I used to see
+    translated: Esa alucinación mía que solía ver
+  - time_start: 115560
+    time_end: 121060
+    original: " "
+    translated: ""
+  - time_start: 121060
+    time_end: 122410
+    original: (I used to see)
+    translated: (Que solía ver)
+  - time_start: 122410
+    time_end: 132310
+    original: (Sleep I found)
+    translated: (Cerrar los ojos logré)
+  - time_start: 132310
+    time_end: 135790
+    original: I wanna get out there
+    translated: Quiero salir de aquí
+  - time_start: 135790
+    time_end: 139430
+    original: But I don’t try
+    translated: Pero no intento
+  - time_start: 139430
+    time_end: 143030
+    original: I wanna get out there
+    translated: Quiero escapar de aquí
+  - time_start: 143030
+    time_end: 144830
+    original: But I don’t try
+    translated: Pero no lo intento
+  - time_start: 144830
+    time_end: 147560
+    original: " "
+    translated: ""
+  - time_start: 147560
+    time_end: 151230
+    original: I check the clock, wondering what he’ll pull this time
+    translated: Miro el reloj, preguntandome qué hará esta vez
+  - time_start: 151230
+    time_end: 154800
+    original: I have a feeling that necromancer’s outside
+    translated: Presiento que el nigromante está afuera
+  - time_start: 154800
+    time_end: 157950
+    original: And I’m just trying to stay quiet
+    translated: Y solo intento estar en silencio
+  - time_start: 157950
+    time_end: 165290
+    original: " "
+    translated: ""
+  - time_start: 165290
+    time_end: 168830
+    original: "I don’t sleep much, that's crazy, how’d you know that?"
+    translated: No duermo mucho, qué locura, ¿cómo lo sabes?
+  - time_start: 168830
+    time_end: 174010
+    original: "Keep myself up, that's maybe how you know that"
+    translated: Me mantengo despierto, quizás así es como lo sabes
+  - time_start: 174010
+    time_end: 179560
+    original: Promises and contracts I used to keep
+    translated: Promesas y contratos que solía cumplir
+  - time_start: 179560
+    time_end: 183070
+    original: "I don’t sleep much, that's crazy, how’d you know that?"
+    translated: No duermo mucho, qué locura, ¿cómo lo sabes?
+  - time_start: 183070
+    time_end: 188310
+    original: Keep myself up, that’s maybe how you know that
+    translated: Me mantengo despierto, quizás así es como lo sabes
+  - time_start: 188310
+    time_end: 193630
+    original: My hallucination I used to see
+    translated: Esa alucinación mía que solía ver
+  - time_start: 193630
+    time_end: 202470
+    original: " "
+    translated: ""
+  - time_start: 202470
+    time_end: 208360
+    original: My hallucination I used to see
+    translated: Esa alucinación mía que solía ver
+  - time_start: 208360
+    time_end: 208380
+    original: " "
+    translated: ""
+  - time_start: 208380
+    time_end: 210520
+    original: I used to see
+    translated: La solía ver
+  - time_start: 210520
+    time_end: 212370
+    original: It felt so real
+    translated: Se sentía real
+  - time_start: 212370
+    time_end: 214050
+    original: But now I plead
+    translated: Pero ahora te lo imploro
+  - time_start: 214050
+    time_end: 215880
+    original: Just take the deal
+    translated: Solo toma el trato
+  - time_start: 215880
+    time_end: 217680
+    original: I promised you
+    translated: Te prometí
+  - time_start: 217680
+    time_end: 219200
+    original: A contract
+    translated: Un contrato
+  - time_start: 219200
+    time_end: 221180
+    original: I promised you
+    translated: Te lo prometí
+  - time_start: 221180
+    time_end: 223740
+    original: A contract
+    translated: Un contrato
+  - time_start: 223740
+    time_end: 226740
+    original: " "
+    translated: ""
