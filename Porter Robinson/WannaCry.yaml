@@ -1,0 +1,281 @@
+version: 1
+
+project:
+  title: Porter Robinson - WannaCry
+  track_name: WannaCry
+  artists:
+    - Porter Robinson
+    - Ninajirachi
+  album_name: WannaCry
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/ef9348fff6f81bd56abdf08e81180597/500x500-000000-80-0-0.webp"
+  song_link: "https://song.link/d/4142574891"
+  audio_url: "https://file.garden/alCSwLnuWEQGo0Me/01%20-%20WannaCry.flac"
+  artist_links:
+    - name: Ninajirachi
+      url: "https://www.deezer.com/artist/12053242"
+  social_links:
+    - artist_name: Porter Robinson
+      platforms:
+        - platform: Twitter/X
+          url: "https://music.yandex.com/artist/554967"
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/332244311"
+        - platform: Website
+          url: "https://www.porterrobinson.com/"
+        - platform: Apple Music
+          url: "https://music.apple.com/us/artist/282330711"
+        - platform: Facebook
+          url: "https://www.facebook.com/107343989324200"
+        - platform: Instagram
+          url: "https://www.instagram.com/porterrobinson/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/porter-robinson"
+        - platform: Amazon Music
+          url: "https://music.amazon.com/artists/B001APLS00"
+        - platform: Tidal
+          url: "https://tidal.com/artist/14037999"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UCKKKYE55BVswHgKihx5YXew"
+    - artist_name: Ninajirachi
+      platforms:
+        - platform: Bandcamp
+          url: "https://ninajirachi.bandcamp.com/"
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/12053242"
+        - platform: Genius
+          url: "https://genius.com/artists/Ninajirachi"
+        - platform: Website
+          url: "https://www.ninajirachi.com/"
+        - platform: Apple Music
+          url: "https://music.apple.com/au/artist/1210938233"
+        - platform: Twitter/X
+          url: "https://twitter.com/ninajirachi"
+        - platform: Facebook
+          url: "https://www.facebook.com/ninajirachi"
+        - platform: Instagram
+          url: "https://www.instagram.com/ninajirachi/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/ninajirachi"
+        - platform: Tidal
+          url: "https://tidal.com/artist/55958368"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UCcwCiUrlKs8dThVvGDcXkKg"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/4142574891"
+    appleMusic: null
+    spotify: null
+    youtube: null
+    amazonMusic: "https://music.amazon.com/albums/B0H881T8VQ?trackAsin=B0H87R1VNC"
+    soundcloud: null
+    tidal: "https://listen.tidal.com/track/541500182"
+
+metadata:
+  created_at: 1785593482876
+  updated_at: 1785601213286
+  exported_at: 1785602712894
+
+lyrics:
+  - time_start: 0
+    time_end: 20760
+    original: ...
+    translated: ...
+    locked: false
+  - time_start: 20760
+    time_end: 24080
+    original: "I've been everywhere, through every undefended door"
+    translated: He estado en todas partes, crucé cada puerta sin proteger (っ⊙_⊙)っ
+    locked: false
+  - time_start: 24080
+    time_end: 27600
+    original: "You'll know that I was there, you'll see the writing on the wall"
+    translated: Sabrás que estuve ahí, lo verás escrito en la pared (⁠ ⁠•̀⁠_⁠o⁠)
+    locked: false
+  - time_start: 27600
+    time_end: 31130
+    original: I took it too far, and I could never get enough
+    translated: Fui demasiado lejos y nunca tuve suficiente (⁠>⁠_⁠<⁠)
+    locked: false
+  - time_start: 31130
+    time_end: 34860
+    original: "I did a good job, and now I'm finally out of—"
+    translated: Hice las cosas bien y al final se me acabó la— (⁠꒪⁠ ⁠o⁠ ⁠꒪⁠;⁠)
+    locked: false
+  - time_start: 34860
+    time_end: 38170
+    original: "I've been everywhere, through every undefended door"
+    translated: He estado en todas partes, crucé cada puerta sin proteger (っ⊙_⊙)っ
+    locked: false
+  - time_start: 38170
+    time_end: 41670
+    original: "You'll know that I was there, you'll see the writing on the wall"
+    translated: Sabrás que estuve ahí, lo verás escrito en la pared ✍︎( • ̀ω•́  )
+    locked: false
+  - time_start: 41670
+    time_end: 45330
+    original: I took it too far, and I could never get enough
+    translated: Fui demasiado lejos y nunca tuve suficiente (⁠>⁠_⁠<⁠)
+    locked: false
+  - time_start: 45330
+    time_end: 54880
+    original: "I did a good job, and now I'm finally out of luck"
+    translated: Hice las cosas bien y al final se me acabó la suerte (⁠╥⁠﹏⁠╥⁠)
+    locked: false
+  - time_start: 54880
+    time_end: 64240
+    original: finally out of luck
+    translated: al final se me acabó la suerte (⁠ ⁠᷄⁠﹏⁠ ⁠᷅⁠)
+    locked: false
+  - time_start: 64240
+    time_end: 71320
+    original: "I've got a charm, I wanna put it on your heart, yeah (Finally out of luck)"
+    translated: Tengo un hechizo y quiero ponérselo a tu corazón, sí (⁠⊃⁠｡⁠•⁠́⁠‿⁠•⁠̀⁠｡⁠)⁠⊃ (Al final se me acabó la suerte)
+    locked: false
+  - time_start: 71320
+    time_end: 78270
+    original: I wanna cry, I wanna multiply more times, yeah (Finally out of luck)
+    translated: Quiero llorar, quiero propagarme aún más, sí (⁠;⁠;⁠;⁠;⁠⊙⁠﹏⁠⊙⁠) (Al final se me acabó la suerte)
+    locked: false
+  - time_start: 78270
+    time_end: 85280
+    original: "I've got a charm, I wanna put it on your heart, yeah (Finally out of luck)"
+    translated: Tengo un hechizo y quiero ponérselo a tu corazón, sí (⁠⊃⁠｡⁠•⁠́⁠‿⁠•⁠̀⁠｡⁠)⁠⊃ (Al final se me acabó la suerte)
+    locked: false
+  - time_start: 85280
+    time_end: 90590
+    original: I wanna cry, I wanna multiply more times, yeah
+    translated: Quiero llorar, quiero propagarme aún más, sí (⁠╥⁠_⁠╥⁠) (⁠ ⁠•̀⁠ω⁠•⁠́⁠ ⁠)⁠✧
+    locked: false
+  - time_start: 90590
+    time_end: 105150
+    original: ...
+    translated: ...
+    locked: false
+  - time_start: 105150
+    time_end: 108310
+    original: "And it's a message, I know what you are"
+    translated: Y es un mensaje, sé lo que eres (⁠ ⁠•̀⁠ ⁠⌂⁠ ⁠•̀⁠ ⁠)
+    locked: false
+  - time_start: 108310
+    time_end: 112210
+    original: "I've already been there, and I'm already gone"
+    translated: Ya estuve ahí y ya me fui ᕕ( ᐛ )ᕗ
+    locked: false
+  - time_start: 112210
+    time_end: 115330
+    original: "And it's a lesson, you bottle it up"
+    translated: Y es una lección de que te reprimes dentro (⁠ ⁠•̀⁠_⁠•⁠́⁠ ⁠)
+    locked: false
+  - time_start: 115330
+    time_end: 119020
+    original: "I'm selling your skin out, and I'm giving you up"
+    translated: Te estoy delatando y renunciando a ti (⁠ ⁠ಠ⁠_⁠ಠ⁠)
+    locked: false
+  - time_start: 119020
+    time_end: 120850
+    original: "I'm givin' it up"
+    translated: Te estoy dejando (⁠︶⁠_⁠︶⁠)
+    locked: false
+  - time_start: 120850
+    time_end: 126360
+    original: ...
+    translated: ...
+    locked: false
+  - time_start: 126360
+    time_end: 129960
+    original: "You say you wanna cry, I'll write the words for you"
+    translated: Dices que quieres llorar, escribiré las palabras por ti (⁠-⁠_⁠-⁠)✍︎
+    locked: false
+  - time_start: 129960
+    time_end: 133540
+    original: "You're running out of time, but I can tell you what to do"
+    translated: Se te acaba el tiempo, pero puedo decirte qué hacer (⁠⊙⁠_⁠⊙⁠;⁠)
+    locked: false
+  - time_start: 133540
+    time_end: 137040
+    original: "I'm such a good friend, I know you didn't get enough"
+    translated: Soy tan buen amigo, sé que no tuviste suficiente (⁠ ⁠•̀⁠ ⁠-⁠ ⁠•̀⁠ ⁠)
+    locked: false
+  - time_start: 137040
+    time_end: 138820
+    original: You say you want me (Dead)
+    translated: Dices que me quieres (Muerto (⁠ ⁠x⁠_⁠x⁠ ⁠)⁠)
+    locked: false
+  - time_start: 138820
+    time_end: 145840
+    original: "But I'll be with you and lock you up"
+    translated: Pero estaré contigo y te encerraré (⁠-⁠_⁠-⁠;⁠)⁠🔒
+    locked: false
+  - time_start: 145840
+    time_end: 153360
+    original: "But I'll be with you and lock you up"
+    translated: Pero estaré contigo y te encerraré (⁠-⁠_⁠-⁠;⁠)⁠🔒
+    locked: false
+  - time_start: 153360
+    time_end: 156020
+    original: ...
+    translated: ...
+    locked: false
+  - time_start: 156020
+    time_end: 163050
+    original: "I've got a charm, I wanna put it on your heart, yeah (Finally out of luck)"
+    translated: Tengo un hechizo y quiero ponérselo a tu corazón, sí (⁠⊃⁠｡⁠•⁠́⁠‿⁠•⁠̀⁠｡⁠)⁠⊃ (Al final se me acabó la suerte)
+    locked: false
+  - time_start: 163050
+    time_end: 170070
+    original: I wanna cry, I wanna multiply more times, yeah (Finally out of luck)
+    translated: Quiero llorar, quiero propagarme aún más, sí (⁠;⁠;⁠;⁠;⁠⊙⁠﹏⁠⊙⁠) (Al final se me acabó la suerte)
+    locked: false
+  - time_start: 170070
+    time_end: 177230
+    original: "I've got a charm, I wanna put it on your heart, yeah (Finally out of luck)"
+    translated: Tengo un hechizo y quiero ponérselo a tu corazón, sí (⁠⊃⁠｡⁠•⁠́⁠‿⁠•⁠̀⁠｡⁠)⁠⊃ (Al final se me acabó la suerte)
+    locked: false
+  - time_start: 177230
+    time_end: 181840
+    original: I wanna cry, I wanna multiply more ti-i-i-i—
+    translated: Quiero llorar, quiero propagarme más ve-e-e-ces—
+    locked: false
+  - time_start: 181840
+    time_end: 188910
+    original: Finally out of luck
+    translated: Al final se me acabó la suerte (⁠╥⁠﹏⁠╥⁠)
+    locked: false
+  - time_start: 188910
+    time_end: 197000
+    original: (Finally out of luck)
+    translated: (Al final se me acabó la suerte) (⁠ ⁠᷄⁠﹏⁠ ⁠᷅⁠)
+    locked: false
+  - time_start: 197000
+    time_end: 200110
+    original: "And it's a message, I know what you are"
+    translated: Y es un mensaje, sé lo que eres (⁠ ⁠•̀⁠ ⁠⌂⁠ ⁠•̀⁠ ⁠)
+    locked: false
+  - time_start: 200110
+    time_end: 204080
+    original: "I've already been there, and I'm already gone"
+    translated: Ya estuve ahí y ya me fui ᕕ( ᐛ )ᕗ
+    locked: false
+  - time_start: 204080
+    time_end: 207240
+    original: "And it's a lesson, you bottle it up"
+    translated: Y es una lección que reprimes dentro (⁠ ⁠•̀⁠_⁠•⁠́⁠ ⁠)
+    locked: false
+  - time_start: 207240
+    time_end: 211410
+    original: "I'm selling your skin out, and I'm giving you up"
+    translated: Te estoy delatando y renunciando a ti (⁠ ⁠ಠ⁠_⁠ಠ⁠)
+    locked: false
+  - time_start: 211410
+    time_end: 214300
+    original: "And it's a message, I know what you are"
+    translated: Y es un mensaje, sé lo que eres (⁠ ⁠•̀⁠ ⁠⌂⁠ ⁠•̀⁠ ⁠)
+    locked: false
+  - time_start: 214300
+    time_end: 217300
+    original: "I've already been there, and I'm already gone"
+    translated: Yo ya estuve ahí pero ya me fui ᕕ( ᐛ )ᕗ
+    locked: false
