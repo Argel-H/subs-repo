@@ -30,3 +30,6 @@ jobs:
           publish_dir: ./dist
           publish_branch: data
           force_orphan: true
+
+      - name: purge jsdelivr cache
+        run: curl -s -X POST "https://purge.jsdelivr.net/gh/Argel-H/subs-repo"
