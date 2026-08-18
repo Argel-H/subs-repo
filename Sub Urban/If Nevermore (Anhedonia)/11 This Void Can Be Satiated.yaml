@@ -1,0 +1,168 @@
+version: 1
+
+project:
+  title: Sub Urban - This Void Can Be Satiated
+  track_name: This Void Can Be Satiated
+  artists:
+    - Sub Urban
+  album_name: If Nevermore (Anhedonia)
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/9a230fe190e3aaddb4cb9d0090e08c57/500x500-000000-80-0-0.webp"
+  origin_language: English
+  translation_language: Spanish
+  song_link: "https://song.link/d/3274028281"
+  audio_url: "b64:aHR0cHM6Ly9maWxlLmdhcmRlbi9hbENTd0xudVdFUUdvME1lL0lmJTIwTmV2ZXJtb3JlJTIwKEFuaGVkb25pYSklMjAoMjAyNSkvMTElMjAtJTIwVGhpcyUyMFZvaWQlMjBDYW4lMjBCZSUyMFNhdGlhdGVkLmZsYWM="
+  artist_links:
+    - name: Sub Urban
+      url: "https://www.deezer.com/artist/7815200"
+  social_links:
+    - artist_name: Sub Urban
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/5Lu9cJbg2psjM9PbYYZBIQ"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/279945841"
+        - platform: Genius
+          url: "https://genius.com/artists/Sub-urban"
+        - platform: Apple Music
+          url: "https://music.apple.com/gb/artist/429426385"
+        - platform: Tidal
+          url: "https://tidal.com/artist/5873127"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/3274028281"
+    appleMusic: null
+    spotify: null
+    youtube: null
+    amazonMusic: "https://music.amazon.com/albums/B0F15MTJ48?trackAsin=B0F15KZSQD"
+    soundcloud: null
+    tidal: "https://listen.tidal.com/track/423372782"
+
+metadata:
+  created_at: 1783692536979
+  updated_at: 1786984687966
+  exported_at: 1787025443734
+
+lyrics:
+  - time_start: 32730
+    time_end: 36940
+    original: I guess it wasn't me if I took one too many
+    translated: Supongo que no era yo si me pasé de la raya
+    comment: Pasarse de la raya con el alcohol.
+  - time_start: 36940
+    time_end: 40570
+    original: You do not remind me of her
+    translated: Tú no me recuerdas a ella
+  - time_start: 40570
+    time_end: 44450
+    original: And if I can't delete all these lesser memories
+    translated: Y si no logro borrar estos vagos recuerdos
+  - time_start: 44450
+    time_end: 55290
+    original: Will you stew inside me forever?
+    translated: ¿Arderás dentro de mí por siempre?
+  - time_start: 55290
+    time_end: 59080
+    original: Never returned to your apartment roof, we pitched a tent atop
+    translated: Nunca volví a la azotea de tu apartamento, donde acampamos
+  - time_start: 59080
+    time_end: 65730
+    original: To sip your red wine, smoke those Chinese cigarettes you bite to pop
+    translated: A beber de tu vino tinto, fumando cigarrillos chinos que muerdes para darles sabor
+  - time_start: 65730
+    time_end: 70260
+    original: I cannot stop
+    translated: No puedo parar
+  - time_start: 70260
+    time_end: 73800
+    original: How many boys and girls did you experiment with after?
+    translated: ¿Con cuántos chicos y chicas experimentaste después?
+  - time_start: 73800
+    time_end: 81070
+    original: I graffitied your walls, was my signature buried in overlap?
+    translated: Grafiteé tus paredes, ¿se habrá enterrado mi firma bajo las demás?
+  - time_start: 81070
+    time_end: 86280
+    original: This will not last
+    translated: Esto no durará
+  - time_start: 86280
+    time_end: 90210
+    original: I guess it wasn't me if I took one too many
+    translated: Supongo que no era yo si me pasé de la raya
+    comment: Pasarse de la raya con el alcohol.
+  - time_start: 90210
+    time_end: 93970
+    original: You do not remind me of her
+    translated: Tú no me recuerdas a ella
+  - time_start: 93970
+    time_end: 97800
+    original: And if I can't delete all these lesser memories
+    translated: Y si no puedo borrar estos vagos recuerdos
+  - time_start: 97800
+    time_end: 116050
+    original: Will you stew inside me forever?
+    translated: ¿Arderás dentro de mí por siempre?
+  - time_start: 116050
+    time_end: 118140
+    original: Test my company, you won't forget
+    translated: Prueba mi compañía, no olvidarás
+  - time_start: 118140
+    time_end: 120250
+    original: That part of me that's in your chest
+    translated: Esa parte de mí que está en tu pecho
+  - time_start: 120250
+    time_end: 122070
+    original: My love is free, no consequence
+    translated: Mi amor es libre, sin consecuencias
+  - time_start: 122070
+    time_end: 123970
+    original: An instrument to be undressed
+    translated: Un instrumento al que desvestir
+  - time_start: 123970
+    time_end: 125840
+    original: And if I'd laid with one more girl
+    translated: Y si me hubiera acostado con una chica más
+  - time_start: 125840
+    time_end: 127770
+    original: Would I have cellophaned a boy?
+    translated: ¿Habría resguardado a aquel chico en celofán?
+    comment: "Es algo mas como \"tendría de resultado un chico en celofán\", el celofán se usa para envolver alimentos, me da a entender que se percibe como una especie de un alimento para la chica que quiere olvidar? Por otra parte, cubrirse en celofán el mismo es una especie de manera de decir que se está escondiendo/protegiendo en un caparazón."
+  - time_start: 127770
+    time_end: 129780
+    original: Him ever longing for abyss
+    translated: Dejándolo siempre anhelando el abismo
+  - time_start: 129780
+    time_end: 132280
+    original: To come and steal me from this joy
+    translated: Para que venga a robarme esta alegría
+  - time_start: 132280
+    time_end: 136130
+    original: I guess it wasn't me if I took one too many
+    translated: Supongo que no era yo si me pasé de la raya
+    comment: Pasarse de la raya con el alcohol.
+  - time_start: 136130
+    time_end: 139830
+    original: You do not remind me of her
+    translated: Tú no me recuerdas a ella
+  - time_start: 139830
+    time_end: 143780
+    original: And if I can't delete all these lesser memories
+    translated: Y si no puedo borrar estos vagos recuerdos
+  - time_start: 143780
+    time_end: 149370
+    original: Will you stew inside me forever?
+    translated: ¿Arderás dentro de mí por siempre?
+  - time_start: 149370
+    time_end: 153220
+    original: Forever?
+    translated: ¿Por siempre?
+  - time_start: 153220
+    time_end: 157170
+    original: Forever?
+    translated: ¿Por siempre?
+  - time_start: 157170
+    time_end: 161730
+    original: Forever?
+    translated: ¿Por siempre?
+  - time_start: 161730
+    time_end: 164730
+    original: " "
+    translated: ""
