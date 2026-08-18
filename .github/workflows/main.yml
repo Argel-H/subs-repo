@@ -18,7 +18,7 @@ jobs:
       - name: node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       - name: generate
         run: node build-data.js
@@ -32,4 +32,11 @@ jobs:
           force_orphan: true
 
       - name: purge jsdelivr cache
-        run: curl -s -X POST "https://purge.jsdelivr.net/gh/Argel-H/subs-repo"
+        run: |
+          find dist -type f -name "*.json" | sed 's|^dist/||' | while read -r file; do
+            curl -s "https://purge.jsdelivr.net/gh/Argel-H/subs-repo@data/$file"
+          done
+
+          find . -type f \( -name "*.yml" -o -name "*.yaml" \) -not -path "./dist/*" -not -path "*/node_modules/*" -not -path "./.git/*" | sed 's|^\./||' | while read -r file; do
+            curl -s "https://purge.jsdelivr.net/gh/Argel-H/subs-repo@main/$file"
+          done
