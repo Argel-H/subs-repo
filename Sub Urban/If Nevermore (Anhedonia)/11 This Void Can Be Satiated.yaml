@@ -38,8 +38,8 @@ project:
 
 metadata:
   created_at: 1783692536979
-  updated_at: 1786984687966
-  exported_at: 1787025443734
+  updated_at: 1787065399379
+  exported_at: 1787065410741
 
 lyrics:
   - time_start: 32730
@@ -75,6 +75,7 @@ lyrics:
     time_end: 73800
     original: How many boys and girls did you experiment with after?
     translated: ¿Con cuántos chicos y chicas experimentaste después?
+    comment: Su ex pareja fue Renata Ri, la cual es bi sexual con preferencia hacia las mujeres. Estuvieron juntos desde 2022 hasta 2025.
   - time_start: 73800
     time_end: 81070
     original: I graffitied your walls, was my signature buried in overlap?
@@ -124,7 +125,7 @@ lyrics:
     time_end: 127770
     original: Would I have cellophaned a boy?
     translated: ¿Habría resguardado a aquel chico en celofán?
-    comment: "Es algo mas como \"tendría de resultado un chico en celofán\", el celofán se usa para envolver alimentos, me da a entender que se percibe como una especie de un alimento para la chica que quiere olvidar? Por otra parte, cubrirse en celofán el mismo es una especie de manera de decir que se está escondiendo/protegiendo en un caparazón."
+    comment: "Es algo mas como \"tendría de resultado un chico en celofán?\", el celofán se usa para envolver alimentos, me da a entender que se percibe como una especie de un alimento para la chica que quiere olvidar? No habla directamente de el mismo, pero interpreto que está hablando de el mismo en tercera persona. Por otra parte, cubrirse en celofán el mismo es una especie de manera de decir que se está escondiendo/protegiendo en un caparazón además de sentirse más como un objeto al que usan más que como una persona."
   - time_start: 127770
     time_end: 129780
     original: Him ever longing for abyss

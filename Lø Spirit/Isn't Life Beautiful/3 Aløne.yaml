@@ -1,0 +1,254 @@
+version: 1
+
+project:
+  title: Lø Spirit - Aløne
+  track_name: Aløne
+  artists:
+    - Lø Spirit
+  album_name: Isn't Life Beautiful
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/20215530da3337e0cfb17426ea1d04dd/500x500-000000-80-0-0.webp"
+  isrcs: QMFMF2523991
+  origin_language: English
+  translation_language: Spanish
+  song_link: "https://www.deezer.com/track/3593286952"
+  audio_url: "b64:aHR0cHM6Ly9maWxlLmdhcmRlbi9hbENTd0xudVdFUUdvME1lLzAxJTIwLSUyMEFsJUMzJUI4bmUuZmxhYw=="
+  artist_links:
+    - name: LØ Spirit
+      url: "https://www.deezer.com/artist/156382652"
+    - name: LØ Spirit
+      url: "https://www.deezer.com/artist/156382652"
+  social_links:
+    - artist_name: Lø Spirit
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/156382652"
+        - platform: Genius
+          url: "https://genius.com/artists/L-spirit"
+        - platform: Twitter/X
+          url: "https://twitter.com/iamLoSpirit"
+        - platform: Instagram
+          url: "https://www.instagram.com/lo.spirit/"
+        - platform: Tidal
+          url: "https://tidal.com/artist/30044375"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/3593286952"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1784059756569
+  updated_at: 1784064879935
+  exported_at: 1787065496537
+
+lyrics:
+  - time_start: 11090
+    time_end: 14650
+    original: Going through the motions
+    translated: Viviendo por inercia
+    locked: false
+  - time_start: 14650
+    time_end: 16800
+    original: Baby ain't you bored
+    translated: Dime, ¿no te aburres?
+    locked: false
+  - time_start: 16800
+    time_end: 20230
+    original: Stepping on emotions
+    translated: Pisando sentimientos
+    locked: false
+  - time_start: 20230
+    time_end: 22940
+    original: That ain't there no more?
+    translated: ¿es que ya no existen más?
+    locked: false
+  - time_start: 22940
+    time_end: 28490
+    original: We used to shine the brightest, now we're both invisible
+    translated: Solíamos brillar con fuerza, hoy somos invisibles
+    locked: false
+  - time_start: 28490
+    time_end: 33450
+    original: A broken heart is one thing but this ain't fixable
+    translated: Un corazón roto duele, pero esto no tiene arreglo
+    locked: false
+  - time_start: 33450
+    time_end: 34340
+    original: (Listen)
+    translated: (Escucha)
+    locked: false
+  - time_start: 34340
+    time_end: 36830
+    original: Even with you by my side
+    translated: Incluso contigo a mi lado
+    locked: false
+  - time_start: 36830
+    time_end: 40590
+    original: Every time I close my eyes, I
+    translated: Cada vez que cierro los ojos, yo
+    locked: false
+  - time_start: 40590
+    time_end: 45550
+    original: I wake up alone
+    translated: Me despierto solo
+    locked: false
+  - time_start: 45550
+    time_end: 48360
+    original: And I don't wanna spend this life
+    translated: Y no quiero pasar esta vida
+    locked: false
+  - time_start: 48360
+    time_end: 52370
+    original: Dreaming of you and I, when I
+    translated: "Soñando con un \"tu y yo\", si al final"
+    locked: false
+  - time_start: 52370
+    time_end: 54930
+    original: I wake up alone
+    translated: Me despertaré solo
+    locked: false
+  - time_start: 54930
+    time_end: 66410
+    original: I wake up
+    translated: Me despierto
+    locked: false
+  - time_start: 66410
+    time_end: 67920
+    original: I wake up
+    translated: Me despierto
+    locked: false
+  - time_start: 67920
+    time_end: 71350
+    original: You can see me talking (see me talking, yeah)
+    translated: Me ves hablarte (me ves hablarte, sí)
+    locked: false
+  - time_start: 71350
+    time_end: 73370
+    original: But you don't hear shit
+    translated: Pero no escuchas una mierda
+    locked: false
+  - time_start: 73370
+    time_end: 76920
+    original: And every time I walk in
+    translated: Y cada vez que me ves llegar
+    locked: false
+  - time_start: 76920
+    time_end: 79730
+    original: I feel the tension hit
+    translated: Siento la tensión golpear
+    locked: false
+  - time_start: 79730
+    time_end: 85340
+    original: We used to shine the brightest but we watched the lights go out
+    translated: Solíamos brillar con fuerza, pero vimos la luz apagarse
+    locked: false
+  - time_start: 85340
+    time_end: 90620
+    original: Climbing over mountains, breaking bonds just to shout
+    translated: Escalando montañas, rompiendo lazos solo para gritar
+    locked: false
+  - time_start: 90620
+    time_end: 93670
+    original: Even with you by my side
+    translated: Incluso contigo a mi lado
+    locked: false
+  - time_start: 93670
+    time_end: 97220
+    original: Every time I close my eyes, I
+    translated: Cada vez que cierro los ojos, yo
+    locked: false
+  - time_start: 97220
+    time_end: 102230
+    original: I wake up alone
+    translated: Me despierto solo
+    locked: false
+  - time_start: 102230
+    time_end: 105140
+    original: And I don't wanna spend this life
+    translated: Y no quiero pasar esta vida
+    locked: false
+  - time_start: 105140
+    time_end: 108980
+    original: Dreaming of you and I, when I
+    translated: Soñando con nosotros juntos, si al final
+    locked: false
+  - time_start: 108980
+    time_end: 111660
+    original: I wake up alone
+    translated: Me despierto solo
+    locked: false
+  - time_start: 111660
+    time_end: 117800
+    original: I wake up
+    translated: Me despiertaré
+    locked: false
+  - time_start: 117800
+    time_end: 123250
+    original: I wake up alone
+    translated: Me despierto solo
+    locked: false
+  - time_start: 123250
+    time_end: 134600
+    original: Now wake the fuck up
+    translated: ¡Despierta de una puta vez!
+    locked: false
+  - time_start: 134600
+    time_end: 136950
+    original: This ain't love
+    translated: Esto no es amor
+    locked: false
+  - time_start: 136950
+    time_end: 147870
+    original: " "
+    translated: ""
+    locked: false
+  - time_start: 147870
+    time_end: 150790
+    original: Even with you by my side
+    translated: Incluso contigo a mi lado
+    locked: false
+  - time_start: 150790
+    time_end: 154190
+    original: Every time I close my eyes, I
+    translated: Cada vez que cierro los ojos, yo
+    locked: false
+  - time_start: 154190
+    time_end: 159100
+    original: I wake up alone
+    translated: Me despierto solo
+    locked: false
+  - time_start: 159100
+    time_end: 162040
+    original: And I don't wanna spend my life
+    translated: Y no quiero pasar mi vida
+    locked: false
+  - time_start: 162040
+    time_end: 167280
+    original: Dreaming of you and I, when I
+    translated: Soñando con nosotros, si al final
+    locked: false
+  - time_start: 167280
+    time_end: 170260
+    original: I wake up alone
+    translated: Me despierto solo
+    locked: false
+  - time_start: 170260
+    time_end: 170870
+    original: I wake up
+    translated: Me despierto
+    locked: false
+  - time_start: 170870
+    time_end: 172020
+    original: (Hi Dada)
+    translated: (Hola, papi)
+    locked: false
+  - time_start: 172020
+    time_end: 172020
+    original: " "
+    translated: ""
+    locked: false
