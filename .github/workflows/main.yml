@@ -34,9 +34,13 @@ jobs:
       - name: purge jsdelivr cache
         run: |
           find dist -type f -name "*.json" | sed 's|^dist/||' | while read -r file; do
-            curl -s "https://purge.jsdelivr.net/gh/Argel-H/subs-repo@data/$file"
+            encoded_file="${file// /%20}"
+            curl -s "https://purge.jsdelivr.net/gh/Argel-H/subs-repo@data/$encoded_file" || true
+            echo ""
           done
 
           find . -type f \( -name "*.yml" -o -name "*.yaml" \) -not -path "./dist/*" -not -path "*/node_modules/*" -not -path "./.git/*" | sed 's|^\./||' | while read -r file; do
-            curl -s "https://purge.jsdelivr.net/gh/Argel-H/subs-repo@main/$file"
+            encoded_file="${file// /%20}"
+            curl -s "https://purge.jsdelivr.net/gh/Argel-H/subs-repo@main/$encoded_file" || true
+            echo ""
           done
