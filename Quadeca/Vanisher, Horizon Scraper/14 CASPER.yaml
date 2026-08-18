@@ -1,0 +1,434 @@
+version: 1
+
+project:
+  title: Quadeca - CASPER
+  track_name: CASPER
+  artists:
+    - Quadeca
+    - Maruja
+  album_name: Vanisher, Horizon Scraper
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/525527d17c70fce7cff7697a12b545e9/500x500-000000-80-0-0.webp"
+  isrcs: QZAKB2515788
+  song_link: "https://www.deezer.com/track/3451485871"
+  audio_url: "b64:aHR0cHM6Ly9maWxlLmdhcmRlbi9hbENTd0xudVdFUUdvME1lLzE0JTIwLSUyMENBU1BFUiUyMCh3aXRoJTIwTWFydWphKS5mbGFj"
+  artist_links:
+    - name: Quadeca
+      url: "https://www.deezer.com/artist/9925092"
+    - name: Maruja
+      url: "https://www.deezer.com/artist/4016311"
+  social_links:
+    - artist_name: Quadeca
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/9925092"
+        - platform: Website
+          url: "https://quadeca.com/"
+        - platform: Apple Music
+          url: "https://music.apple.com/us/artist/993872780"
+        - platform: Twitter/X
+          url: "https://twitter.com/Quadeca"
+        - platform: Instagram
+          url: "https://www.instagram.com/quadeca/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/quadecax8"
+        - platform: Amazon Music
+          url: "https://music.amazon.com/artists/B01C7A638I"
+        - platform: Tidal
+          url: "https://tidal.com/artist/7630094"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UCtkINlF2LAt0cpd2ySc8mgw"
+    - artist_name: Maruja
+      platforms:
+        - platform: Bandcamp
+          url: "https://marujaofficial.bandcamp.com/"
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/242816921"
+        - platform: Genius
+          url: "https://genius.com/artists/Maruja-uk"
+        - platform: Website
+          url: "https://marujaofficial.co.uk/"
+        - platform: Twitter/X
+          url: "https://twitter.com/Maruja_Band"
+        - platform: Facebook
+          url: "https://www.facebook.com/Marujaband"
+        - platform: Instagram
+          url: "https://www.instagram.com/marujaofficial/"
+        - platform: Apple Music
+          url: "https://music.apple.com/gb/artist/188299143"
+        - platform: Tidal
+          url: "https://tidal.com/artist/4828104"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/maruja7281"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/3451485871"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1786440509581
+  updated_at: 1787056466015
+  exported_at: 1787056537149
+
+lyrics:
+  - time_start: 27560
+    time_end: 34040
+    original: I wanna go somewhere
+    translated: Quiero ir a algún lugar
+    locked: true
+  - time_start: 34040
+    time_end: 40090
+    original: Why can't we just go somewhere?
+    translated: ¿Por qué no podemos simplemente marcharnos?
+    locked: true
+  - time_start: 40090
+    time_end: 44190
+    original: Can we go somewhere that waits?
+    translated: ¿Podemos ir a un lugar que nos espere?
+    locked: true
+  - time_start: 44190
+    time_end: 49530
+    original: That won't move away from us? (From us, from us)
+    translated: ¿Que no escape de nosotros? (De nosotros, de nosotros)
+    locked: true
+  - time_start: 49530
+    time_end: 59110
+    original: Oh, there's a vulnerable feelin'
+    translated: Oh, hay una sensación tan vulnerable
+    locked: true
+  - time_start: 59110
+    time_end: 71470
+    original: Oh, whoa, that's a place that ain't leavin', leavin'
+    translated: Y de ese lugar no hay salida, no hay salida
+    locked: true
+  - time_start: 71470
+    time_end: 74700
+    original: The answers I found
+    translated: Las respuestas que encontré
+    locked: true
+  - time_start: 74700
+    time_end: 76480
+    original: Overexposed
+    translated: Quedaron al descubierto
+    locked: true
+  - time_start: 76480
+    time_end: 79300
+    original: You were born with a lot to correct
+    translated: Naciste con mucho que enmendar
+    locked: true
+  - time_start: 79300
+    time_end: 83050
+    original: You were born with a puzzle to solve
+    translated: Naciste con un acertijo por resolver
+    locked: true
+  - time_start: 83050
+    time_end: 85900
+    original: You're not high, you just became a child
+    translated: No estás alucinando, solo volviste a ser un niño
+    locked: true
+  - time_start: 85900
+    time_end: 91120
+    original: Returned to a path, hidin' in overgrown grass
+    translated: Devuelto al camino, que estaba oculto en la hierba alta
+    locked: true
+  - time_start: 91120
+    time_end: 93400
+    original: If you didn't chase it
+    translated: Si no lo hubieras perseguido
+    locked: true
+  - time_start: 93400
+    time_end: 95810
+    original: It woulda stayed still
+    translated: Se habría quedado quieto
+    locked: true
+  - time_start: 95810
+    time_end: 98430
+    original: The horizon is a prey-like animal
+    translated: El horizonte es un animal que juega a ser la presa
+    locked: true
+  - time_start: 98430
+    time_end: 101800
+    original: That preys on men who pray like animals
+    translated: Pero devora a los hombres que rezan como bestias
+    locked: true
+  - time_start: 101800
+    time_end: 105140
+    original: And now it takes form, and takes flight
+    translated: Y es ahora cuando cobra vida, y rompe a volar
+    locked: true
+  - time_start: 105140
+    time_end: 108460
+    original: It can take you anywhere you like
+    translated: Puede llevarte a donde quieras ir
+    locked: true
+  - time_start: 108460
+    time_end: 111000
+    original: Open your hand and your palm
+    translated: Solo abre tu mano, extiende la palma
+    locked: true
+  - time_start: 111000
+    time_end: 113520
+    original: Drown out the countdown to the alarm
+    translated: Silencia la cuenta regresiva de la alarma
+    locked: true
+  - time_start: 113520
+    time_end: 116920
+    original: The line curves into a path through clouds
+    translated: La línea se curva en un sendero entre las nubes
+    locked: true
+  - time_start: 116920
+    time_end: 119760
+    original: The tail wrapped in waves, its mouth covered in sky
+    translated: Su cola envuelta en olas, su boca llena de cielo
+    locked: true
+  - time_start: 119760
+    time_end: 123820
+    original: I prayed one last time, but I didn't know
+    translated: Recé una última vez, sin saber
+    locked: true
+  - time_start: 123820
+    time_end: 125960
+    original: It can smell fear on your breath
+    translated: Que esa cosa podía oler el miedo en mi aliento
+    locked: true
+  - time_start: 125960
+    time_end: 128500
+    original: And the sweat in the hands of a man
+    translated: Y el sudor en las manos de los hombres
+    locked: true
+  - time_start: 128500
+    time_end: 130700
+    original: Who has never forgiven himself
+    translated: Que jamás han logrado perdonarse
+    locked: true
+  - time_start: 130700
+    time_end: 134860
+    original: And the answers I so desperately crave
+    translated: Y las respuestas que busco con tanto desespero
+    locked: true
+  - time_start: 134860
+    time_end: 137490
+    original: Will cover me in the shape of a cave
+    translated: Me envolverán tomando la forma de una cueva
+    locked: true
+  - time_start: 137490
+    time_end: 140300
+    original: Removin' a stone from a roof held together
+    translated: Que al quitar una piedra de un techo sostenido
+    locked: true
+  - time_start: 140300
+    time_end: 143350
+    original: With nothin' but tension, I could end the world
+    translated: Por un frágil equilibrio, yo podría acabar con el mundo
+    locked: true
+  - time_start: 143350
+    time_end: 148150
+    original: With one slip from the other side of the ceilin'
+    translated: Con un solo resbalón al otro lado del techo
+    locked: true
+  - time_start: 148150
+    time_end: 150540
+    original: I accept your answer
+    translated: Acepto tu respuesta
+    locked: true
+  - time_start: 150540
+    time_end: 154540
+    original: I was just a pretender
+    translated: Yo no era más que un impostor
+    locked: true
+  - time_start: 154540
+    time_end: 157750
+    original: Who learned how to surrender
+    translated: Que al final aprendió a rendirse
+    locked: true
+  - time_start: 157750
+    time_end: 159990
+    original: At least I know somethin' you won't
+    translated: Al menos sé algo que tú nunca sabrás
+    locked: true
+  - time_start: 159990
+    time_end: 163850
+    original: In the bigger picture, where I extend beyond the frame
+    translated: En el panorama completo, donde me salgo del encuadre
+    locked: true
+  - time_start: 163850
+    time_end: 167020
+    original: Your world will end at home
+    translated: Tu mundo terminará en casa
+    locked: true
+  - time_start: 167020
+    time_end: 170180
+    original: And to you, that will be good enough
+    translated: Y para ti, con eso bastará
+    locked: true
+  - time_start: 170180
+    time_end: 172930
+    original: My world ends so much worse
+    translated: Mi mundo acaba de un modo mucho peor
+    locked: true
+  - time_start: 172930
+    time_end: 176130
+    original: And so much harder
+    translated: Y con mucha más crudeza
+    locked: true
+  - time_start: 176130
+    time_end: 179250
+    original: To me, that is better
+    translated: Pero para mí, eso es mejor
+    locked: true
+  - time_start: 179250
+    time_end: 181960
+    original: To it, we're the same
+    translated: Para el FINAL, somos iguales
+    locked: true
+  - time_start: 181960
+    time_end: 185380
+    original: And to everyone
+    translated: Y para todos los demás
+    locked: true
+  - time_start: 185380
+    time_end: 186400
+    original: To everyone
+    translated: Para todos
+    locked: true
+  - time_start: 186400
+    time_end: 242500
+    original: " "
+    translated: ""
+    locked: true
+  - time_start: 242500
+    time_end: 245690
+    original: The captain stands alone, arms to the sky
+    translated: El capitán se alza solo, con los brazos al cielo
+    locked: true
+  - time_start: 245690
+    time_end: 248420
+    original: The symphony of loneliness, unheard upon its own
+    translated: Hay una sinfonía de soledad que nadie más escucha
+    locked: true
+  - time_start: 248420
+    time_end: 251320
+    original: He cracks a bottle, it's the only friend he knows
+    translated: Destapa una botella, el único amigo que conoce
+    locked: true
+  - time_start: 251320
+    time_end: 254180
+    original: Years of no expression left him bitter, comatose
+    translated: Años de silencio lo dejaron amargado, adormecido
+    locked: true
+  - time_start: 254180
+    time_end: 257590
+    original: The rain is torrential, he gives a toothless grin
+    translated: Bajo la lluvia torrencial, asoma una sonrisa sin dientes
+    locked: true
+  - time_start: 257590
+    time_end: 260300
+    original: About to meet the devil, projections from within
+    translated: Está a punto de encarar al diablo, son reflejos de su propio ser
+    locked: true
+  - time_start: 260300
+    time_end: 263200
+    original: Lightin' strikes the ocean, illuminatin' fears
+    translated: Un relámpago golpea el mar, iluminando sus miedos
+    locked: true
+  - time_start: 263200
+    time_end: 266560
+    original: The depth reflects his mind, his time is gettin' near
+    translated: El abismo refleja su mente, sabe que su hora se acerca
+    locked: true
+  - time_start: 266560
+    time_end: 269840
+    original: Countin' every moment, wish away the minutes
+    translated: Contando cada instante, queriendo borrar los minutos
+    locked: true
+  - time_start: 269840
+    time_end: 272460
+    original: Waves as big as mountains, strung out to his limits
+    translated: Olas gigantes como montañas, llevando su cuerpo al límite
+    locked: true
+  - time_start: 272460
+    time_end: 275330
+    original: The blankness of oblivion, reality sinks in
+    translated: El vacío del olvido, la dura realidad lo golpea
+    locked: true
+  - time_start: 275330
+    time_end: 278560
+    original: Consumed by the roar of fear, a thousand voices grin
+    translated: Consumido por el rugido del miedo, mil voces se burlan
+    locked: true
+  - time_start: 278560
+    time_end: 281250
+    original: Heart poundin', he finishes the bottle
+    translated: Con el corazón a golpes, se termina la botella
+    locked: true
+  - time_start: 281250
+    time_end: 284290
+    original: Climbs up to the sail, clutchin', wishin' for tomorrow
+    translated: Trepa por la vela, aferrado, suplicando por un mañana
+    locked: true
+  - time_start: 284290
+    time_end: 287370
+    original: While all his crew were taken, lost to the ocean
+    translated: Mientras toda su tripulación fue arrastrada, perdida en el mar
+    locked: true
+  - time_start: 287370
+    time_end: 290660
+    original: The ghost of his friends begin to haunt him, spirit broken
+    translated: Los fantasmas de sus amigos lo acechan, con el espíritu roto
+    locked: true
+  - time_start: 290660
+    time_end: 293570
+    original: Vanish like the stars on a dark, misty night
+    translated: Se apagan como estrellas en una noche de niebla
+    locked: true
+  - time_start: 293570
+    time_end: 296370
+    original: Evil housed the wind as it barks in his mind
+    translated: La maldad habitaba el viento, aullando dentro de su mente
+    locked: true
+  - time_start: 296370
+    time_end: 299320
+    original: The thunder splittin' eardrums, like the sound of metal snappin'
+    translated: El trueno le rompe los oídos, como el crujir del metal
+    locked: true
+  - time_start: 299320
+    time_end: 302220
+    original: Because fate is gettin' closer, faith was always lackin'
+    translated: Porque el destino ya lo alcanza, y la fe siempre le faltó
+    locked: true
+  - time_start: 302220
+    time_end: 305260
+    original: Time is of the essence, embrace or let it go
+    translated: El tiempo se trata de esencia, abrázalo o déjalo ir
+    locked: true
+  - time_start: 305260
+    time_end: 308450
+    original: A solace inside courage, intuition always known
+    translated: Hay un alivio en la valentía, su intuición siempre lo supo
+    locked: true
+  - time_start: 308450
+    time_end: 311580
+    original: But the darkness so consumin', the only life he's shown
+    translated: Pero la oscuridad lo devora tanto, es la única vida que conoció
+    locked: true
+  - time_start: 311580
+    time_end: 314450
+    original: Is that heaven's open wide, it's hell on earth he knows
+    translated: Y aunque el cielo se abra de par en par, es el infierno en la tierra lo único que sabe reconocer
+    locked: true
+  - time_start: 314450
+    time_end: 317450
+    original: " "
+    translated: ""
+    locked: true
+
+notes:
+  - "Según una entrevista en [THE LINE of BEST FIT](https://www.thelineofbestfit.com/features/interviews/quadeca-navigating-inner-wilderness#:~:text=Tracks%20like%20avant%2Dpop%20highlight%20%E2%80%9CMonday%E2%80%9D%20platform%20delicate,a%20snow%20globe%20or%20something%2C%E2%80%9D%20he%20laughs.), la canción es una banda sonora con poesía hablada. La letra de esta canción debe de tratarse como poesía."
+  - ""
