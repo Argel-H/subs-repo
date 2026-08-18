@@ -9,7 +9,7 @@ project:
   album_name: WannaCry
   cover_url: "https://cdn-images.dzcdn.net/images/cover/ef9348fff6f81bd56abdf08e81180597/500x500-000000-80-0-0.webp"
   song_link: "https://song.link/d/4142574891"
-  audio_url: "https://file.garden/alCSwLnuWEQGo0Me/01%20-%20WannaCry.flac"
+  audio_url: "b64:aHR0cHM6Ly9maWxlLmdhcmRlbi9hbENTd0xudVdFUUdvME1lLzAxJTIwLSUyMFdhbm5hQ3J5LmZsYWM="
   artist_links:
     - name: Ninajirachi
       url: "https://www.deezer.com/artist/12053242"
