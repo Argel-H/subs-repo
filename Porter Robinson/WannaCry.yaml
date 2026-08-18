@@ -1,7 +1,6 @@
 version: 1
 
 project:
-  title: Porter Robinson - WannaCry
   track_name: WannaCry
   artists:
     - Porter Robinson

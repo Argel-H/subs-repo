@@ -1,7 +1,6 @@
 version: 1
 
 project:
-  title: AJR - The Dumb Song
   track_name: The Dumb Song
   artists:
     - AJR
