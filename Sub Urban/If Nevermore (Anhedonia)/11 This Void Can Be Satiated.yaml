@@ -10,6 +10,9 @@ project:
   translation_language: Spanish
   song_link: "https://song.link/d/3274028281"
   audio_url: "b64:aHR0cHM6Ly9maWxlLmdhcmRlbi9hbENTd0xudVdFUUdvME1lL0lmJTIwTmV2ZXJtb3JlJTIwKEFuaGVkb25pYSklMjAoMjAyNSkvMTElMjAtJTIwVGhpcyUyMFZvaWQlMjBDYW4lMjBCZSUyMFNhdGlhdGVkLmZsYWM="
+  wallpaper_artist_name: Oskar Woinski
+  wallpaper_source: ArtStation
+  wallpaper_url: "https://www.artstation.com/artwork/58Eb1E"
   artist_links:
     - name: Sub Urban
       url: "https://www.deezer.com/artist/7815200"
@@ -37,15 +40,14 @@ project:
 
 metadata:
   created_at: 1783692536979
-  updated_at: 1787065399379
-  exported_at: 1787065410741
+  updated_at: 1787293223317
+  exported_at: 1787293227579
 
 lyrics:
   - time_start: 32730
     time_end: 36940
     original: I guess it wasn't me if I took one too many
-    translated: Supongo que no era yo si me pasé de la raya
-    comment: Pasarse de la raya con el alcohol.
+    translated: Supongo que no era yo si tomé un poco demás
   - time_start: 36940
     time_end: 40570
     original: You do not remind me of her
@@ -86,8 +88,7 @@ lyrics:
   - time_start: 86280
     time_end: 90210
     original: I guess it wasn't me if I took one too many
-    translated: Supongo que no era yo si me pasé de la raya
-    comment: Pasarse de la raya con el alcohol.
+    translated: Supongo que no era yo si tomé un poco demás
   - time_start: 90210
     time_end: 93970
     original: You do not remind me of her
@@ -132,12 +133,11 @@ lyrics:
   - time_start: 129780
     time_end: 132280
     original: To come and steal me from this joy
-    translated: Para que venga a robarme esta alegría
+    translated: Para que vengas a robarme esta alegría
   - time_start: 132280
     time_end: 136130
     original: I guess it wasn't me if I took one too many
-    translated: Supongo que no era yo si me pasé de la raya
-    comment: Pasarse de la raya con el alcohol.
+    translated: Supongo que no era yo si tomé un poco demás
   - time_start: 136130
     time_end: 139830
     original: You do not remind me of her
