@@ -11,6 +11,9 @@ project:
   translation_language: Spanish
   song_link: "https://www.deezer.com/track/3593286952"
   audio_url: "b64:aHR0cHM6Ly9maWxlLmdhcmRlbi9hbENTd0xudVdFUUdvME1lLzAxJTIwLSUyMEFsJUMzJUI4bmUuZmxhYw=="
+  wallpaper_artist_name: Alexey Egorov
+  wallpaper_source: ArtStation
+  wallpaper_url: "http://artstation.com/artwork/DvGBYA"
   artist_links:
     - name: LØ Spirit
       url: "https://www.deezer.com/artist/156382652"
@@ -42,8 +45,8 @@ project:
 
 metadata:
   created_at: 1784059756569
-  updated_at: 1784064879935
-  exported_at: 1787065496537
+  updated_at: 1787316706563
+  exported_at: 1787316718092
 
 lyrics:
   - time_start: 11090
@@ -94,7 +97,7 @@ lyrics:
   - time_start: 40590
     time_end: 45550
     original: I wake up alone
-    translated: Me despierto solo
+    translated: Me despierto a solas
     locked: false
   - time_start: 45550
     time_end: 48360
@@ -109,7 +112,7 @@ lyrics:
   - time_start: 52370
     time_end: 54930
     original: I wake up alone
-    translated: Me despertaré solo
+    translated: Me despertaré a solas
     locked: false
   - time_start: 54930
     time_end: 66410
@@ -164,7 +167,7 @@ lyrics:
   - time_start: 97220
     time_end: 102230
     original: I wake up alone
-    translated: Me despierto solo
+    translated: Me despierto a solas
     locked: false
   - time_start: 102230
     time_end: 105140
@@ -179,7 +182,7 @@ lyrics:
   - time_start: 108980
     time_end: 111660
     original: I wake up alone
-    translated: Me despierto solo
+    translated: Me despierto a solas
     locked: false
   - time_start: 111660
     time_end: 117800
@@ -189,7 +192,7 @@ lyrics:
   - time_start: 117800
     time_end: 123250
     original: I wake up alone
-    translated: Me despierto solo
+    translated: Me despierto a solas
     locked: false
   - time_start: 123250
     time_end: 134600
@@ -219,7 +222,7 @@ lyrics:
   - time_start: 154190
     time_end: 159100
     original: I wake up alone
-    translated: Me despierto solo
+    translated: Me despierto a solas
     locked: false
   - time_start: 159100
     time_end: 162040
@@ -234,7 +237,7 @@ lyrics:
   - time_start: 167280
     time_end: 170260
     original: I wake up alone
-    translated: Me despierto solo
+    translated: Me despierto a solas
     locked: false
   - time_start: 170260
     time_end: 170870
