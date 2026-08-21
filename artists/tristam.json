@@ -1,0 +1,77 @@
+{
+  "artist": "Tristam",
+  "totalTracks": 10,
+  "totalSingles": 0,
+  "totalAlbumTracks": 10,
+  "totalFileSize": 85653,
+  "singles": [],
+  "albums": [
+    {
+      "name": "WLUWD",
+      "trackCount": 10,
+      "totalFileSize": 85653,
+      "tracks": [
+        {
+          "title": "01 Black Beauty",
+          "fileSize": 6749,
+          "createdAt": 1785224488364,
+          "updatedAt": 1785224488364
+        },
+        {
+          "title": "02 Ruthless",
+          "fileSize": 6203,
+          "createdAt": 1785224512623,
+          "updatedAt": 1785224531611
+        },
+        {
+          "title": "03 Mistake",
+          "fileSize": 9202,
+          "createdAt": 1785224563324,
+          "updatedAt": 1785224563324
+        },
+        {
+          "title": "04 Children in the Dark",
+          "fileSize": 10159,
+          "createdAt": 1785224616131,
+          "updatedAt": 1785224616131
+        },
+        {
+          "title": "07 Over the Edge",
+          "fileSize": 9757,
+          "createdAt": 1785224718117,
+          "updatedAt": 1785224718117
+        },
+        {
+          "title": "08 Take a Chance",
+          "fileSize": 7803,
+          "createdAt": 1785224738898,
+          "updatedAt": 1785224738898
+        },
+        {
+          "title": "09 Different",
+          "fileSize": 10136,
+          "createdAt": 1785224761109,
+          "updatedAt": 1785224761109
+        },
+        {
+          "title": "10 Violence",
+          "fileSize": 8635,
+          "createdAt": 1785224798715,
+          "updatedAt": 1785224798715
+        },
+        {
+          "title": "11 Can You Feel the Love",
+          "fileSize": 10059,
+          "createdAt": 1785225069519,
+          "updatedAt": 1785225069519
+        },
+        {
+          "title": "12 With Love Until We Die",
+          "fileSize": 6950,
+          "createdAt": 1785225093294,
+          "updatedAt": 1785225093294
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "artist": "FWLR",
+  "totalTracks": 1,
+  "totalSingles": 1,
+  "totalAlbumTracks": 0,
+  "totalFileSize": 12023,
+  "singles": [
+    {
+      "title": "Suspicious",
+      "fileSize": 12023,
+      "createdAt": 1785223752079,
+      "updatedAt": 1785223752079
+    }
+  ],
+  "albums": []
+}

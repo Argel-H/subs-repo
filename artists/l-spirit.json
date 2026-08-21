@@ -1,0 +1,23 @@
+{
+  "artist": "Lø Spirit",
+  "totalTracks": 1,
+  "totalSingles": 0,
+  "totalAlbumTracks": 1,
+  "totalFileSize": 7438,
+  "singles": [],
+  "albums": [
+    {
+      "name": "Isn't Life Beautiful",
+      "trackCount": 1,
+      "totalFileSize": 7438,
+      "tracks": [
+        {
+          "title": "03 Aløne",
+          "fileSize": 7438,
+          "createdAt": 1784059756569,
+          "updatedAt": 1787316706563
+        }
+      ]
+    }
+  ]
+}

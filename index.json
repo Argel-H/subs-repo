@@ -1,0 +1,145 @@
+[
+  {
+    "name": "AJR",
+    "slug": "ajr",
+    "file": "artists/ajr.json",
+    "totalTracks": 1,
+    "totalSingles": 1,
+    "totalAlbums": 0,
+    "totalFileSize": 9082,
+    "createdAt": 1785223670224,
+    "updatedAt": 1785223670224
+  },
+  {
+    "name": "EDEN",
+    "slug": "eden",
+    "file": "artists/eden.json",
+    "totalTracks": 4,
+    "totalSingles": 0,
+    "totalAlbums": 1,
+    "totalFileSize": 32763,
+    "createdAt": 1785221193570,
+    "updatedAt": 1785222799181
+  },
+  {
+    "name": "FWLR",
+    "slug": "fwlr",
+    "file": "artists/fwlr.json",
+    "totalTracks": 1,
+    "totalSingles": 1,
+    "totalAlbums": 0,
+    "totalFileSize": 12023,
+    "createdAt": 1785223752079,
+    "updatedAt": 1785223752079
+  },
+  {
+    "name": "Lø Spirit",
+    "slug": "l-spirit",
+    "file": "artists/l-spirit.json",
+    "totalTracks": 1,
+    "totalSingles": 0,
+    "totalAlbums": 1,
+    "totalFileSize": 7438,
+    "createdAt": 1784059756569,
+    "updatedAt": 1787316706563
+  },
+  {
+    "name": "Mickey Valen",
+    "slug": "mickey-valen",
+    "file": "artists/mickey-valen.json",
+    "totalTracks": 1,
+    "totalSingles": 1,
+    "totalAlbums": 0,
+    "totalFileSize": 8877,
+    "createdAt": 1784026425058,
+    "updatedAt": 1785219378737
+  },
+  {
+    "name": "Porter Robinson",
+    "slug": "porter-robinson",
+    "file": "artists/porter-robinson.json",
+    "totalTracks": 1,
+    "totalSingles": 1,
+    "totalAlbums": 0,
+    "totalFileSize": 11355,
+    "createdAt": 1785593482876,
+    "updatedAt": 1785601213286
+  },
+  {
+    "name": "Quadeca",
+    "slug": "quadeca",
+    "file": "artists/quadeca.json",
+    "totalTracks": 1,
+    "totalSingles": 0,
+    "totalAlbums": 1,
+    "totalFileSize": 15364,
+    "createdAt": 1786440509581,
+    "updatedAt": 1787056666408
+  },
+  {
+    "name": "San Holo",
+    "slug": "san-holo",
+    "file": "artists/san-holo.json",
+    "totalTracks": 1,
+    "totalSingles": 1,
+    "totalAlbums": 0,
+    "totalFileSize": 4924,
+    "createdAt": 1785223795400,
+    "updatedAt": 1785223795400
+  },
+  {
+    "name": "Sub Urban",
+    "slug": "sub-urban",
+    "file": "artists/sub-urban.json",
+    "totalTracks": 2,
+    "totalSingles": 0,
+    "totalAlbums": 2,
+    "totalFileSize": 12418,
+    "createdAt": 1783692536979,
+    "updatedAt": 1787293223317
+  },
+  {
+    "name": "Tristam",
+    "slug": "tristam",
+    "file": "artists/tristam.json",
+    "totalTracks": 10,
+    "totalSingles": 0,
+    "totalAlbums": 1,
+    "totalFileSize": 85653,
+    "createdAt": 1785224488364,
+    "updatedAt": 1785225093294
+  },
+  {
+    "name": "Twenty One Pilots",
+    "slug": "twenty-one-pilots",
+    "file": "artists/twenty-one-pilots.json",
+    "totalTracks": 1,
+    "totalSingles": 0,
+    "totalAlbums": 1,
+    "totalFileSize": 10836,
+    "createdAt": 1783661274730,
+    "updatedAt": 1785342834197
+  },
+  {
+    "name": "Vorsa",
+    "slug": "vorsa",
+    "file": "artists/vorsa.json",
+    "totalTracks": 1,
+    "totalSingles": 1,
+    "totalAlbums": 0,
+    "totalFileSize": 7095,
+    "createdAt": 1785223832987,
+    "updatedAt": 1785223832987
+  },
+  {
+    "name": "abbot",
+    "slug": "abbot",
+    "file": "artists/abbot.json",
+    "totalTracks": 1,
+    "totalSingles": 1,
+    "totalAlbums": 0,
+    "totalFileSize": 11996,
+    "createdAt": 1785223639953,
+    "updatedAt": 1785223639953
+  }
+]
