@@ -45,8 +45,8 @@ project:
 
 metadata:
   created_at: 1784059756569
-  updated_at: 1787316706563
-  exported_at: 1787316718092
+  updated_at: 1788155794784
+  exported_at: 1788155808592
 
 lyrics:
   - time_start: 11090
@@ -152,7 +152,7 @@ lyrics:
   - time_start: 85340
     time_end: 90620
     original: Climbing over mountains, breaking bonds just to shout
-    translated: Escalando montañas, rompiendo lazos solo para gritar
+    translated: Escalando montañas, rompiéndonos los huesos solo para gritar
     locked: false
   - time_start: 90620
     time_end: 93670
