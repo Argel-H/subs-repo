@@ -1,0 +1,400 @@
+version: 1
+
+project:
+  track_name: Smoke & Mirrors
+  artists:
+    - Sub Urban
+  album_name: A Courtship Horror
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/3cabfd96c4187c1aece9a0f2831137c3/500x500-000000-80-0-0.webp"
+  origin_language: English
+  translation_language: Spanish
+  song_link: "https://file.garden/alCSwLnuWEQGo0Me/ACH/04%20-%20Smoke%20%26%20Mirrors.flac"
+  wallpaper_artist_name: huleeb
+  wallpaper_source: ArtStation
+  wallpaper_url: "https://www.artstation.com/artwork/kwlZ92"
+  social_links:
+    - artist_name: Sub Urban
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/5Lu9cJbg2psjM9PbYYZBIQ"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/279945841"
+        - platform: Genius
+          url: "https://genius.com/artists/Sub-urban"
+        - platform: Apple Music
+          url: "https://music.apple.com/gb/artist/429426385"
+        - platform: Tidal
+          url: "https://tidal.com/artist/5873127"
+  streaming_sites:
+    deezer: null
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1788505271689
+  updated_at: 1788510245717
+  exported_at: 1788510254263
+
+lyrics:
+  - time_start: 1000
+    time_end: 2000
+    original: You were mine
+    translated: Eras mía
+    locked: false
+  - time_start: 2000
+    time_end: 4000
+    original: And now you’re not
+    translated: Y ya no estás
+    locked: false
+  - time_start: 4000
+    time_end: 5900
+    original: I think I
+    translated: Creo que
+    locked: false
+  - time_start: 5900
+    time_end: 8000
+    original: Just made you up
+    translated: Solo te imaginé
+    locked: false
+    comment: "La traducción literal es \"Te inventé\", bajo este contexto donde se está manipulando la realidad encaja el que se la haya imaginado, se la \"inventó en su cabeza\""
+  - time_start: 8000
+    time_end: 9800
+    original: This last year
+    translated: Este último año
+    locked: false
+  - time_start: 9800
+    time_end: 12000
+    original: Has felt so wrong
+    translated: Se sintió tan mal
+    locked: false
+  - time_start: 12000
+    time_end: 14800
+    original: So wrong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 14800
+    time_end: 15600
+    original: They all laughed
+    translated: Todos se burlaron
+    locked: false
+  - time_start: 15600
+    time_end: 16700
+    original: When I said
+    translated: Cuando dije
+    locked: false
+  - time_start: 16700
+    time_end: 18000
+    original: How she doesn’t look like you
+    translated: Que ella no se parece a ti
+    locked: false
+  - time_start: 18000
+    time_end: 19100
+    original: But pretend
+    translated: Pero fingen
+    locked: false
+  - time_start: 19100
+    time_end: 20000
+    original: When her head turns
+    translated: Cuando ella gira la cabeza
+    locked: false
+  - time_start: 20000
+    time_end: 22000
+    original: Her locks a scarlet hue
+    translated: Mostrando tonalidad escarlata
+    locked: false
+  - time_start: 22000
+    time_end: 23900
+    original: Counterfeit from the root
+    translated: Una falsificación de raíz
+    locked: false
+  - time_start: 23900
+    time_end: 25600
+    original: And she’s running from her truth
+    translated: Está huyendo de su verdad
+    locked: false
+  - time_start: 25600
+    time_end: 26600
+    original: Just like me
+    translated: Como yo
+    locked: false
+  - time_start: 26600
+    time_end: 27500
+    original: Just like you
+    translated: Como tú
+    locked: false
+  - time_start: 27500
+    time_end: 30200
+    original: In this smoke and mirror room
+    translated: En esta habitación de humo y espejos
+    locked: false
+  - time_start: 30200
+    time_end: 31800
+    original: You were mine
+    translated: Eras mía
+    locked: false
+  - time_start: 31800
+    time_end: 33800
+    original: And now you’re not
+    translated: Y ya no estás
+    locked: false
+  - time_start: 33800
+    time_end: 35000
+    original: I think I
+    translated: Creo que
+    locked: false
+  - time_start: 35000
+    time_end: 37000
+    original: Just made you up
+    translated: Solo te imaginé
+    locked: false
+    comment: "La traducción literal es \"Te inventé\", bajo este contexto donde se está manipulando la realidad encaja el que se la haya imaginado, se la \"inventó en su cabeza\""
+  - time_start: 37000
+    time_end: 39000
+    original: This last year
+    translated: Este último año
+    locked: false
+  - time_start: 39000
+    time_end: 41000
+    original: Has felt so wrong
+    translated: Ha ido tan mal
+    locked: false
+  - time_start: 41000
+    time_end: 43700
+    original: So wrong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 43700
+    time_end: 45500
+    original: Did you get what you wanted
+    translated: ¿Conseguiste lo que buscabas
+    locked: false
+  - time_start: 45500
+    time_end: 47000
+    original: This whole entire time
+    translated: Todo este tiempo?
+    locked: false
+  - time_start: 47000
+    time_end: 48000
+    original: A halo
+    translated: Una aureola
+    locked: false
+  - time_start: 48000
+    time_end: 49000
+    original: Of your own
+    translated: Que te pertenezca
+    locked: false
+  - time_start: 49000
+    time_end: 50800
+    original: When you never wanted mine
+    translated: Cuando nunca quisiste la mía
+    locked: false
+  - time_start: 50800
+    time_end: 52500
+    original: Counterfeit from the root
+    translated: Una mentirosa desde las raíces
+    locked: false
+  - time_start: 52500
+    time_end: 54500
+    original: And we’re rotting from the truth
+    translated: Y la verdad nos empieza a pudrir al fin
+    locked: false
+  - time_start: 54500
+    time_end: 55500
+    original: You’re like me
+    translated: Eres como yo
+    locked: false
+  - time_start: 55500
+    time_end: 56200
+    original: I’m like you
+    translated: Soy como tú
+    locked: false
+  - time_start: 56200
+    time_end: 58300
+    original: In this smoke and mirror room
+    translated: En esta habitación de humo y espejos
+    locked: false
+  - time_start: 58300
+    time_end: 60800
+    original: Clear the fog from your re
+    translated: Limpia la niebla de tu
+    locked: false
+  - time_start: 60800
+    time_end: 62100
+    original: flection’s
+    translated: Reflejo
+    locked: false
+  - time_start: 62100
+    time_end: 65000
+    original: Not the you you see
+    translated: El yo que ves no es real
+    locked: false
+  - time_start: 65000
+    time_end: 67000
+    original: My illusionist
+    translated: Mi ilusionista
+    locked: false
+  - time_start: 67000
+    time_end: 69000
+    original: Don’t breathe the mist
+    translated: No respires la niebla
+    locked: false
+  - time_start: 69000
+    time_end: 73000
+    original: I’ll see with my own eyes again
+    translated: O mis ojos verán la verdad otra vez
+    locked: false
+  - time_start: 73000
+    time_end: 74500
+    original: You were mine
+    translated: Eras mía
+    locked: false
+  - time_start: 74500
+    time_end: 76500
+    original: And now you’re not
+    translated: Y ya no estás
+    locked: false
+  - time_start: 76500
+    time_end: 77800
+    original: I think I
+    translated: Creo que
+    locked: false
+  - time_start: 77800
+    time_end: 80000
+    original: Just made you up
+    translated: Solo te imaginé
+    locked: false
+    comment: "La traducción literal es \"Te inventé\", bajo este contexto donde se está manipulando la realidad encaja el que se la haya imaginado, se la \"inventó en su cabeza\""
+  - time_start: 80000
+    time_end: 81800
+    original: This last year
+    translated: Este último año
+    locked: false
+  - time_start: 81800
+    time_end: 84000
+    original: Has felt so wrong
+    translated: Ha sido tan fatal
+    locked: false
+  - time_start: 84000
+    time_end: 87000
+    original: So wrong
+    translated: Tan fata-a-a-al
+    locked: false
+  - time_start: 87000
+    time_end: 88800
+    original: I don’t like
+    translated: No me gusta
+    locked: false
+  - time_start: 88800
+    time_end: 90800
+    original: What you’ve become
+    translated: En lo que te has convertido
+    locked: false
+  - time_start: 90800
+    time_end: 94000
+    original: Were you ever mine at all
+    translated: ¿Fuiste mía alguna vez?
+    locked: false
+  - time_start: 94000
+    time_end: 95900
+    original: Everything
+    translated: Todo
+    locked: false
+  - time_start: 95900
+    time_end: 98000
+    original: Just feels so wrong
+    translated: Se siente tan mal
+    locked: false
+  - time_start: 98000
+    time_end: 101000
+    original: So wrong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 101000
+    time_end: 102000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 102000
+    time_end: 104000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 104000
+    time_end: 105000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 105000
+    time_end: 107000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 107000
+    time_end: 108000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 108000
+    time_end: 110000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 110000
+    time_end: 111000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 111000
+    time_end: 113000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 113000
+    time_end: 115000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 115000
+    time_end: 116000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 116000
+    time_end: 118000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 118000
+    time_end: 119000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 119000
+    time_end: 121000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 121000
+    time_end: 122000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 122000
+    time_end: 124000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 124000
+    time_end: 125000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
+  - time_start: 125000
+    time_end: 128000
+    original: So wro-o-o-ong
+    translated: Tan ma-a-a-al
+    locked: false
