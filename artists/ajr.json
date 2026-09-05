@@ -1,0 +1,16 @@
+{
+  "artist": "AJR",
+  "totalTracks": 1,
+  "totalSingles": 1,
+  "totalAlbumTracks": 0,
+  "totalFileSize": 9082,
+  "singles": [
+    {
+      "title": "The Dumb Song",
+      "fileSize": 9082,
+      "createdAt": 1785223670224,
+      "updatedAt": 1785223670224
+    }
+  ],
+  "albums": []
+}
