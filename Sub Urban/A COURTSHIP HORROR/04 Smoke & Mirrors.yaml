@@ -4,14 +4,16 @@ project:
   track_name: Smoke & Mirrors
   artists:
     - Sub Urban
-  album_name: A Courtship Horror
+  album_name: A COURTSHIP HORROR
   cover_url: "https://cdn-images.dzcdn.net/images/cover/3cabfd96c4187c1aece9a0f2831137c3/500x500-000000-80-0-0.webp"
+  isrcs: QT6662628822
   origin_language: English
   translation_language: Spanish
-  song_link: "https://file.garden/alCSwLnuWEQGo0Me/ACH/04%20-%20Smoke%20%26%20Mirrors.flac"
-  wallpaper_artist_name: huleeb
-  wallpaper_source: ArtStation
-  wallpaper_url: "https://www.artstation.com/artwork/kwlZ92"
+  song_link: "https://www.deezer.com/track/4097197671"
+  audio_url: "b64:aHR0cHM6Ly9maWxlLmdhcmRlbi9hbENTd0xudVdFUUdvME1lL0FDSC8wNCUyMC0lMjBTbW9rZSUyMCUyNiUyME1pcnJvcnMuZmxhYw=="
+  artist_links:
+    - name: Sub Urban
+      url: "https://www.deezer.com/artist/7815200"
   social_links:
     - artist_name: Sub Urban
       platforms:
@@ -26,7 +28,7 @@ project:
         - platform: Tidal
           url: "https://tidal.com/artist/5873127"
   streaming_sites:
-    deezer: null
+    deezer: "https://www.deezer.com/track/4097197671"
     spotify: null
     appleMusic: null
     youtube: null
