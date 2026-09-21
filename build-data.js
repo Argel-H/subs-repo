@@ -19,13 +19,30 @@ const IGNORE_LIST = new Set([
 
 ///////////////////////////////////////////////////////////////
 
+const TRANSLITERATION = {
+  'ø': 'o',
+  'æ': 'ae',
+  'œ': 'oe',
+  'ß': 'ss',
+  'ð': 'd',
+  'þ': 'th',
+  'ł': 'l',
+  'đ': 'd',
+  'ħ': 'h',
+  'ı': 'i',
+  'ŋ': 'n',
+  'ſ': 's'
+};
+
 function slugify(text) {
   return text
     .toString()
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
     .toLowerCase()
     .trim()
     .replace(/\s+/g, '-')
-    .replace(/[^\w\-]+/g, '')
+    .replace(/[^\w\-]/g, (char) => TRANSLITERATION[char] || '')
     .replace(/\-\-+/g, '-');
 }
 
