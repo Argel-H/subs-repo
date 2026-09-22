@@ -1,0 +1,23 @@
+{
+  "artist": "XYLØ",
+  "totalTracks": 1,
+  "totalSingles": 0,
+  "totalAlbumTracks": 1,
+  "totalFileSize": 12544,
+  "singles": [],
+  "albums": [
+    {
+      "name": "yes & no",
+      "trackCount": 1,
+      "totalFileSize": 12544,
+      "tracks": [
+        {
+          "title": "02 ride or die",
+          "fileSize": 12544,
+          "createdAt": 1789926475473,
+          "updatedAt": 1789979077449
+        }
+      ]
+    }
+  ]
+}

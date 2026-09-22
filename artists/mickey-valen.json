@@ -1,0 +1,16 @@
+{
+  "artist": "Mickey Valen",
+  "totalTracks": 1,
+  "totalSingles": 1,
+  "totalAlbumTracks": 0,
+  "totalFileSize": 8877,
+  "singles": [
+    {
+      "title": "Meet Me",
+      "fileSize": 8877,
+      "createdAt": 1784026425058,
+      "updatedAt": 1785219378737
+    }
+  ],
+  "albums": []
+}
