@@ -1,0 +1,260 @@
+version: 1
+
+project:
+  track_name: Prey
+  artists:
+    - The Neighbourhood
+  album_name: Wiped Out!
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/20c662d4e0f3a15d5cd8ebecb69c8181/500x500-000000-80-0-0.webp"
+  isrcs: USSM11506743
+  song_link: "https://www.deezer.com/track/110956526"
+  audio_url: "b64:aHR0cHM6Ly9maWxlLmdhcmRlbi9hbENTd0xudVdFUUdvME1lL1dpcGVkJTIwT3V0ISUyMCgyMDE1KS8wMiUyMC0lMjBQcmV5LmZsYWM="
+  artist_links:
+    - name: The Neighbourhood
+      url: "https://www.deezer.com/artist/296861"
+  social_links:
+    - artist_name: The Neighbourhood
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/261505921"
+        - platform: Genius
+          url: "https://genius.com/artists/The-neighbourhood"
+        - platform: Website
+          url: "http://thenbhd.com/"
+        - platform: Twitter/X
+          url: "https://twitter.com/thenbhd"
+        - platform: Facebook
+          url: "https://www.facebook.com/TheNeighbourhood"
+        - platform: Instagram
+          url: "https://www.instagram.com/thenbhd/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/theneighbourhood"
+        - platform: Amazon Music
+          url: "https://music.amazon.com/artists/B00G9FR1C0"
+        - platform: Apple Music
+          url: "https://music.apple.com/gb/artist/219350813"
+        - platform: Tidal
+          url: "https://tidal.com/artist/3642059"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UCDAXusYwRJpiSP2CHnXnVnw"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/110956526"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1791004662591
+  updated_at: 1791042874607
+  exported_at: 1791075760569
+
+lyrics:
+  - time_start: 24680
+    time_end: 28880
+    original: As long as you notice
+    translated: Mientras sientas lo mismo
+  - time_start: 28880
+    time_end: 36000
+    original: I'm hoping that you'll keep your heart open
+    translated: Espero que mantengas tu corazón abierto
+  - time_start: 36000
+    time_end: 41000
+    original: I'll keep mine open too (I'll keep mine open too)
+    translated: Yo lo mantendré abierto también (yo lo mantendré abierto también)
+  - time_start: 41000
+    time_end: 45260
+    original: If you don't ask, I won't tell
+    translated: Si no preguntas, no diré nada
+  - time_start: 45260
+    time_end: 49530
+    original: Just know that, just know that
+    translated: Solo debes saber, solo debes saber
+  - time_start: 49530
+    time_end: 58260
+    original: It all hurts, it all hurts just the same
+    translated: Que todo duele, todo duele por igual
+  - time_start: 58260
+    time_end: 63320
+    original: Something is wrong, I can't explain
+    translated: Algo anda mal, no sé el qué
+  - time_start: 63320
+    time_end: 66450
+    original: Everything changed when the birds came
+    translated: Todo cambió cuando llegaron las aves
+  - time_start: 66450
+    time_end: 71760
+    original: You never know what they might do
+    translated: Nunca sabes lo que pueden hacer
+  - time_start: 71760
+    time_end: 74890
+    original: If they catch you too early
+    translated: Si te atrapan demasiado pronto
+  - time_start: 74890
+    time_end: 83170
+    original: We need to fly ourselves before someone else tells us how
+    translated: Debemos volar por nosotros mismos antes de que alguien nos diga cómo
+  - time_start: 83170
+    time_end: 91260
+    original: Something is off, I feel like prey, I feel like praying
+    translated: Algo anda mal, me siento una presa, solo me queda rogar
+  - time_start: 91260
+    time_end: 95170
+    original: As long as you notice
+    translated: Siempre que aún sientas lo mismo
+  - time_start: 95170
+    time_end: 102460
+    original: I'm hopin' that you'll keep your heart open
+    translated: Deseo que mantengas tu corazón abierto
+  - time_start: 102460
+    time_end: 108220
+    original: I'll keep mine open too (I'll keep mine open too)
+    translated: Dejaré abierto el mío también (dejaré abierto el mío también)
+  - time_start: 108220
+    time_end: 113710
+    original: So, so I'll probably take you aside
+    translated: Así que tal vez te lleve a algún lado
+  - time_start: 113710
+    time_end: 116450
+    original: Tell you what's on my mind
+    translated: Y te cuente lo que está en mi mente
+  - time_start: 116450
+    time_end: 120240
+    original: But you, you'll just keep it inside
+    translated: Pero tú, tú te lo guardarás todo lo tuyo
+  - time_start: 120240
+    time_end: 124880
+    original: Probably tell me that you're alright
+    translated: Seguro me dirás que estás bien
+  - time_start: 124880
+    time_end: 130050
+    original: Something is wrong, I can't explain
+    translated: Algo anda mal, no sé explicar
+  - time_start: 130050
+    time_end: 133190
+    original: Everything changed when the birds came
+    translated: Todo cambió cuando llegaron los pájaros
+  - time_start: 133190
+    time_end: 138220
+    original: You never know what they might do
+    translated: Nunca sabes lo que pueden hacer
+  - time_start: 138220
+    time_end: 141580
+    original: If they catch you too early
+    translated: Si te atrapan demasiado pronto
+  - time_start: 141580
+    time_end: 149730
+    original: We need to fly ourselves before someone else tells us how
+    translated: Debemos volar por nosotros mismos antes de que alguien nos diga cómo
+  - time_start: 149730
+    time_end: 158380
+    original: Something is off, I feel like prey, I feel like praying
+    translated: Algo no está bien, me siento una presa, dan ganas de rezar
+  - time_start: 158380
+    time_end: 164650
+    original: (If I run) if I run away I'll never know
+    translated: (Si huyo) si salgo huyendo nunca sabré
+  - time_start: 164650
+    time_end: 167930
+    original: (What you want)
+    translated: (Lo que quieres)
+  - time_start: 167930
+    time_end: 170770
+    original: And if you go then I'll never grow
+    translated: Y si te vas, jamás creceré
+  - time_start: 170770
+    time_end: 174170
+    original: (I'm undone)
+    translated: (Me desmorono)
+  - time_start: 174170
+    time_end: 176950
+    original: Let me slip, let me slide
+    translated: Déjame caer, déjame resbalar
+  - time_start: 176950
+    time_end: 183260
+    original: (If you run) I'll look for you to fly
+    translated: (Si huyes) esperaré verte volar
+  - time_start: 183260
+    time_end: 188160
+    original: Something is off, I can't explain
+    translated: Algo no está bien, no lo sé explicar
+  - time_start: 188160
+    time_end: 191450
+    original: You know what I mean, don't you?
+    translated: Sabes a lo que me refiero, ¿verdad?
+  - time_start: 191450
+    time_end: 198060
+    original: Something I saw or something I did that made me like this
+    translated: Algo que vi o algo que hice que me volvió así
+  - time_start: 198060
+    time_end: 199920
+    original: Could you help me?
+    translated: ¿Podrías ayudarme?
+  - time_start: 199920
+    time_end: 208090
+    original: We need to fly ourselves before someone else tells us how
+    translated: Debemos volar por nosotros mismos antes de que alguien nos diga cómo
+  - time_start: 208090
+    time_end: 216230
+    original: Something is off, I feel like prey, I feel like praying
+    translated: Algo anda mal, me siento una presa, solo me queda rogar
+  - time_start: 216230
+    time_end: 224750
+    original: Something is off, I feel like prey, I feel like praying
+    translated: Algo anda mal, me siento una presa, solo me queda rogar
+  - time_start: 224750
+    time_end: 230340
+    original: So, so I'll probably take you aside
+    translated: Así que tal vez te lleve a algún lado
+  - time_start: 230340
+    time_end: 232880
+    original: Tell you what's on my mind
+    translated: Y te cuente lo que hay en mi mente
+  - time_start: 232880
+    time_end: 236730
+    original: But you, you'll just keep it inside
+    translated: Pero tú, tú te lo guardarás todo lo tuyo
+  - time_start: 236730
+    time_end: 241420
+    original: Probably tell me that you're alright
+    translated: Probablemente me dirás que estás bien
+  - time_start: 241420
+    time_end: 247440
+    original: So, so I'll probably take you aside
+    translated: Así que tal vez te aparte a un lado
+  - time_start: 247440
+    time_end: 249400
+    original: Tell you what's on my mind
+    translated: Y te cuente lo que hay en mi mente
+  - time_start: 249400
+    time_end: 253480
+    original: But you, you'll just keep it inside
+    translated: Pero tú, tú te lo guardarás todo
+  - time_start: 253480
+    time_end: 256680
+    original: Probably tell me that you're alright
+    translated: De seguro me dirás que estás bien
+  - time_start: 256680
+    time_end: 260920
+    original: I don't wanna fight
+    translated: No quiero luchar
+  - time_start: 260920
+    time_end: 265130
+    original: I don't wanna fight
+    translated: No quiero pelear
+  - time_start: 265130
+    time_end: 269220
+    original: I don't wanna fight
+    translated: No quiero luchar
+  - time_start: 269220
+    time_end: 271110
+    original: I don't wanna fight
+    translated: No quiero pelear
+  - time_start: 271110
+    time_end: 274110
+    original: " "
+    translated: ""
