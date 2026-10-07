@@ -1,0 +1,304 @@
+version: 1
+
+project:
+  track_name: You Get Me So High
+  artists:
+    - The Neighbourhood
+  album_name: Hard To Imagine The Neighbourhood Ever Changing
+  cover_url: "https://cdn-images.dzcdn.net/images/cover/a9d9bda18a953e9ae74e2af5d3d45610/500x500-000000-80-0-0.webp"
+  isrcs: USSM11707131
+  song_link: "https://www.deezer.com/track/576475812"
+  audio_url: "b64:aHR0cHM6Ly9maWxlLmdhcmRlbi9hbENTd0xudVdFUUdvME1lL0hhcmQlMjBUbyUyMEltYWdpbmUlMjBUaGUlMjBOZWlnaGJvdXJob29kJTIwRXZlciUyMENoYW5naW5nJTIwKDIwMTgpLzA5JTIwLSUyMFlvdSUyMEdldCUyME1lJTIwU28lMjBIaWdoLmZsYWM="
+  artist_links:
+    - name: The Neighbourhood
+      url: "https://www.deezer.com/artist/296861"
+  social_links:
+    - artist_name: The Neighbourhood
+      platforms:
+        - platform: Spotify
+          url: "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        - platform: Deezer
+          url: "https://www.deezer.com/artist/261505921"
+        - platform: Genius
+          url: "https://genius.com/artists/The-neighbourhood"
+        - platform: Website
+          url: "http://thenbhd.com/"
+        - platform: Twitter/X
+          url: "https://twitter.com/thenbhd"
+        - platform: Facebook
+          url: "https://www.facebook.com/TheNeighbourhood"
+        - platform: Instagram
+          url: "https://www.instagram.com/thenbhd/"
+        - platform: SoundCloud
+          url: "https://soundcloud.com/theneighbourhood"
+        - platform: Amazon Music
+          url: "https://music.amazon.com/artists/B00G9FR1C0"
+        - platform: Apple Music
+          url: "https://music.apple.com/gb/artist/219350813"
+        - platform: Tidal
+          url: "https://tidal.com/artist/3642059"
+        - platform: YouTube
+          url: "https://www.youtube.com/channel/UCDAXusYwRJpiSP2CHnXnVnw"
+  streaming_sites:
+    deezer: "https://www.deezer.com/track/576475812"
+    spotify: null
+    appleMusic: null
+    youtube: null
+    amazonMusic: null
+    soundcloud: null
+    tidal: null
+
+metadata:
+  created_at: 1791220611984
+  updated_at: 1791409336214
+  exported_at: 1791409344189
+
+lyrics:
+  - time_start: 11370
+    time_end: 13110
+    original: Hope you don't regret it
+    translated: Espero que no te arrepientas
+    locked: false
+  - time_start: 13110
+    time_end: 16840
+    original: I pushed a lot back but I can't forget it
+    translated: Reprimí muchas cosas, pero no puedo olvidarlo
+    locked: false
+  - time_start: 16840
+    time_end: 18720
+    original: We never got the credit
+    translated: Nunca nos dieron el reconocimiento
+    locked: false
+  - time_start: 18720
+    time_end: 22330
+    original: Nobody seemed to hear us, but we said it
+    translated: Nadie parecía escucharnos, pero lo dijimos
+    locked: false
+  - time_start: 22330
+    time_end: 24110
+    original: Neither of us planned it
+    translated: Ninguno de los dos lo planeó
+    locked: false
+  - time_start: 24110
+    time_end: 27640
+    original: And for a long time I took it all for granted
+    translated: Y por mucho tiempo di todo por sentado
+    locked: false
+  - time_start: 27640
+    time_end: 29480
+    original: I really thought we had it
+    translated: De verdad pensé que lo habíamos conseguido
+    locked: false
+  - time_start: 29480
+    time_end: 33500
+    original: But at the time it was more than I could manage, so
+    translated: Pero en su momento fue más de lo que pude manejar, así que
+    locked: false
+  - time_start: 33500
+    time_end: 39080
+    original: If we can leave it all behind us
+    translated: Si podemos dejarlo todo atrás
+    locked: false
+  - time_start: 39080
+    time_end: 42480
+    original: And meet in-between
+    translated: Y encontrarnos a mitad de camino
+    locked: false
+  - time_start: 42480
+    time_end: 44850
+    original: It would get me so
+    translated: Me harías tocar
+    locked: false
+  - time_start: 44850
+    time_end: 46840
+    original: High all the time
+    translated: El cielo todo el tiempo
+    locked: false
+    comment: "Según la información de Genius, \"high\" no se refiere a drogarse como tal, sino que sentirse exitoso; pero no el tipo de éxito de tener un hit, o dinero; el tipo de **éxito de poder estar rodeado de la gente que mas.**"
+  - time_start: 46840
+    time_end: 48390
+    original: High all the time
+    translated: El cielo todo el tiempo
+    locked: false
+    comment: "Según la información de Genius, \"high\" no se refiere a drogarse como tal, sino que sentirse exitoso; pero no el tipo de éxito de tener un hit, o dinero; el tipo de **éxito de poder estar rodeado de la gente que mas.**"
+  - time_start: 48390
+    time_end: 52340
+    original: I wanna be high all the time
+    translated: Quiero tocar el cielo todo el tiempo
+    locked: false
+  - time_start: 52340
+    time_end: 55110
+    original: Would you come with me?
+    translated: ¿Vendrías conmigo?
+    locked: false
+  - time_start: 55110
+    time_end: 56790
+    original: Wish I didn't doubt it
+    translated: Ojalá no lo hubiera dudado
+    locked: false
+  - time_start: 56790
+    time_end: 60350
+    original: I wish I never ever told you all about it
+    translated: Desearía nunca haberte contado nada al respecto
+    locked: false
+  - time_start: 60350
+    time_end: 62520
+    original: But I just had to let you know
+    translated: Pero solo tenía que hacértelo saber
+    locked: false
+  - time_start: 62520
+    time_end: 66020
+    original: I never meant to hurt you though
+    translated: Mi intención nunca fue lástimarte
+    locked: false
+  - time_start: 66020
+    time_end: 67750
+    original: I had all my motives
+    translated: Tenía mis razones
+    locked: false
+  - time_start: 67750
+    time_end: 71380
+    original: I didn't know they wouldn't mix with your emotions
+    translated: No sabía que chocarían con tus sentimientos
+    locked: false
+  - time_start: 71380
+    time_end: 73550
+    original: I just had to reach my goals
+    translated: Solo deseaba alcanzar mis metas
+    locked: false
+    comment: ambición vs lealtad
+  - time_start: 73550
+    time_end: 77180
+    original: Never knew I needed you though, so
+    translated: Nunca pensé en lo cuánto te necesitaba, así que
+    locked: false
+    comment: "[Musixmatch](https://www.musixmatch.com/lyrics/The-Neighbourhood/You-Get-Me-So-High#:~:text=Never%20knew%20I%20needed%20you%20though%2C%20so) es una fuente verificada de letras; una vez la letra esté bloqueada es porque el artista subió la letra original; por eso utilicé estas letras. En Musixmatch dice **\"I needed you\"**, en otras fuentes comunitarias dicen <u>\"I meet you\"</u>."
+  - time_start: 77180
+    time_end: 82840
+    original: If we can agree to disagree, yeah
+    translated: Si podemos aceptar nuestras diferencias, sí
+    locked: false
+  - time_start: 82840
+    time_end: 86140
+    original: Then keep on reaching
+    translated: Y seguir intentándolo
+    locked: false
+  - time_start: 86140
+    time_end: 88490
+    original: It would get you so
+    translated: Te haría tocar
+    locked: false
+  - time_start: 88490
+    time_end: 90690
+    original: High all the time
+    translated: El cielo todo el tiempo
+    locked: false
+    comment: "Según la información de Genius, \"high\" no se refiere a drogarse como tal, sino que sentirse exitoso; pero no el tipo de éxito de tener un hit, o dinero; el tipo de **éxito de poder estar rodeado de la gente que mas.**"
+  - time_start: 90690
+    time_end: 91950
+    original: High all the time
+    translated: El cielo todo el tiempo
+    locked: false
+    comment: "Según la información de Genius, \"high\" no se refiere a drogarse como tal, sino que sentirse exitoso; pero no el tipo de éxito de tener un hit, o dinero; el tipo de **éxito de poder estar rodeado de la gente que mas.**"
+  - time_start: 91950
+    time_end: 95940
+    original: I wanna be high all the time
+    translated: Quiero tocar el cielo todo el tiempo
+    locked: false
+  - time_start: 95940
+    time_end: 99310
+    original: Would you come with me?
+    translated: ¿Vendrías conmigo?
+    locked: false
+  - time_start: 99310
+    time_end: 101430
+    original: High all the time
+    translated: El cielo todo el tiempo
+    locked: false
+    comment: "Según la información de Genius, \"high\" no se refiere a drogarse como tal, sino que sentirse exitoso; pero no el tipo de éxito de tener un hit, o dinero; el tipo de **éxito de poder estar rodeado de la gente que mas.**"
+  - time_start: 101430
+    time_end: 102860
+    original: High all the time
+    translated: El cielo todo el tiempo
+    locked: false
+    comment: "Según la información de Genius, \"high\" no se refiere a drogarse como tal, sino que sentirse exitoso; pero no el tipo de éxito de tener un hit, o dinero; el tipo de **éxito de poder estar rodeado de la gente que mas.**"
+  - time_start: 102860
+    time_end: 106850
+    original: I wanna be high all the time
+    translated: Quiero tocar el cielo todo el tiempo
+    locked: false
+  - time_start: 106850
+    time_end: 109650
+    original: Would you come with me?
+    translated: ¿Vendrías conmigo?
+    locked: false
+  - time_start: 109650
+    time_end: 111400
+    original: Used to stick together
+    translated: Solíamos ser inseparables
+    locked: false
+  - time_start: 111400
+    time_end: 116920
+    original: You're my best friend, I'll love you forever
+    translated: Eres mi mejor amigo, te querré por siempre
+    locked: false
+  - time_start: 116920
+    time_end: 120660
+    original: " "
+    translated: " "
+    locked: false
+  - time_start: 120660
+    time_end: 122200
+    original: We could be the greatest
+    translated: Podríamos llegar a lo más alto
+    locked: false
+  - time_start: 122200
+    time_end: 127140
+    original: It doesn't matter if we're never rich or famous
+    translated: No importa si nunca somos ricos o famosos
+    locked: false
+  - time_start: 127140
+    time_end: 132090
+    original: " "
+    translated: " "
+    locked: false
+  - time_start: 132090
+    time_end: 134170
+    original: High all the time
+    translated: El cielo todo el tiempo
+    locked: false
+    comment: "Según la información de Genius, \"high\" no se refiere a drogarse como tal, sino que sentirse exitoso; pero no el tipo de éxito de tener un hit, o dinero; el tipo de **éxito de poder estar rodeado de la gente que mas.**"
+  - time_start: 134170
+    time_end: 135580
+    original: High all the time
+    translated: El cielo todo el tiempo
+    locked: false
+    comment: "Según la información de Genius, \"high\" no se refiere a drogarse como tal, sino que sentirse exitoso; pero no el tipo de éxito de tener un hit, o dinero; el tipo de **éxito de poder estar rodeado de la gente que mas.**"
+  - time_start: 135580
+    time_end: 139570
+    original: I wanna be high all the time
+    translated: Quiero tocar el cielo todo el tiempo
+    locked: false
+  - time_start: 139570
+    time_end: 142820
+    original: Would you come with me?
+    translated: ¿Vendrías conmigo?
+    locked: false
+  - time_start: 142820
+    time_end: 148220
+    original: If you can just let me know if it's okay
+    translated: Tan solo dime si está bien
+    locked: false
+  - time_start: 148220
+    time_end: 151180
+    original: To call you when I'm lonely
+    translated: Llamarte cuando me sienta solo
+    locked: false
+  - time_start: 151180
+    time_end: 154180
+    original: " "
+    translated: " "
+    locked: false
+
+notes:
+  - "Esta canción me encanta. En resumen habla del arrepentimiento causadas por las decisiones tomadas en la juventud; decisiones que fueron tomadas priorizando metas \"personales\" sobre las relaciones con personas importantes."
