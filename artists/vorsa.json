@@ -1,0 +1,16 @@
+{
+  "artist": "Vorsa",
+  "totalTracks": 1,
+  "totalSingles": 1,
+  "totalAlbumTracks": 0,
+  "totalFileSize": 7095,
+  "singles": [
+    {
+      "title": "VIOLENCE",
+      "fileSize": 7095,
+      "createdAt": 1785223832987,
+      "updatedAt": 1785223832987
+    }
+  ],
+  "albums": []
+}

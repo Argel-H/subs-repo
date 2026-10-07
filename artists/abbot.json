@@ -1,0 +1,16 @@
+{
+  "artist": "abbot",
+  "totalTracks": 1,
+  "totalSingles": 1,
+  "totalAlbumTracks": 0,
+  "totalFileSize": 11996,
+  "singles": [
+    {
+      "title": "Heartbreak",
+      "fileSize": 11996,
+      "createdAt": 1785223639953,
+      "updatedAt": 1785223639953
+    }
+  ],
+  "albums": []
+}

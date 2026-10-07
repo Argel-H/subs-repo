@@ -1,0 +1,42 @@
+{
+  "artist": "Sub Urban",
+  "totalTracks": 3,
+  "totalSingles": 0,
+  "totalAlbumTracks": 3,
+  "totalFileSize": 23263,
+  "singles": [],
+  "albums": [
+    {
+      "name": "A COURTSHIP HORROR",
+      "trackCount": 2,
+      "totalFileSize": 16594,
+      "tracks": [
+        {
+          "title": "01 Time of My Life",
+          "fileSize": 5749,
+          "createdAt": 1785342572844,
+          "updatedAt": 1785343275825
+        },
+        {
+          "title": "04 Smoke & Mirrors",
+          "fileSize": 10845,
+          "createdAt": 1788505271689,
+          "updatedAt": 1788510245717
+        }
+      ]
+    },
+    {
+      "name": "If Nevermore (Anhedonia)",
+      "trackCount": 1,
+      "totalFileSize": 6669,
+      "tracks": [
+        {
+          "title": "11 This Void Can Be Satiated",
+          "fileSize": 6669,
+          "createdAt": 1783692536979,
+          "updatedAt": 1787293223317
+        }
+      ]
+    }
+  ]
+}

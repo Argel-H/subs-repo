@@ -1,0 +1,41 @@
+{
+  "artist": "EDEN",
+  "totalTracks": 4,
+  "totalSingles": 0,
+  "totalAlbumTracks": 4,
+  "totalFileSize": 32763,
+  "singles": [],
+  "albums": [
+    {
+      "name": "DDAARRKK",
+      "trackCount": 4,
+      "totalFileSize": 32763,
+      "tracks": [
+        {
+          "title": "01 Zzz",
+          "fileSize": 9575,
+          "createdAt": 1785221193570,
+          "updatedAt": 1785221193570
+        },
+        {
+          "title": "05 Ghost in the Shell",
+          "fileSize": 10519,
+          "createdAt": 1785222795818,
+          "updatedAt": 1785222799181
+        },
+        {
+          "title": "07 5ever",
+          "fileSize": 7804,
+          "createdAt": 1785221309366,
+          "updatedAt": 1785221309366
+        },
+        {
+          "title": "13 Pocket (montreal)",
+          "fileSize": 4865,
+          "createdAt": 1785221363390,
+          "updatedAt": 1785221363390
+        }
+      ]
+    }
+  ]
+}

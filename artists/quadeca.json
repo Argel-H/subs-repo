@@ -1,0 +1,23 @@
+{
+  "artist": "Quadeca",
+  "totalTracks": 1,
+  "totalSingles": 0,
+  "totalAlbumTracks": 1,
+  "totalFileSize": 15364,
+  "singles": [],
+  "albums": [
+    {
+      "name": "Vanisher, Horizon Scraper",
+      "trackCount": 1,
+      "totalFileSize": 15364,
+      "tracks": [
+        {
+          "title": "14 CASPER",
+          "fileSize": 15364,
+          "createdAt": 1786440509581,
+          "updatedAt": 1787056666408
+        }
+      ]
+    }
+  ]
+}

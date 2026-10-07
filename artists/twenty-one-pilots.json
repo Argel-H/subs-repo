@@ -1,0 +1,23 @@
+{
+  "artist": "Twenty One Pilots",
+  "totalTracks": 1,
+  "totalSingles": 0,
+  "totalAlbumTracks": 1,
+  "totalFileSize": 10836,
+  "singles": [],
+  "albums": [
+    {
+      "name": "Breach",
+      "trackCount": 1,
+      "totalFileSize": 10836,
+      "tracks": [
+        {
+          "title": "05 The Contract",
+          "fileSize": 10836,
+          "createdAt": 1783661274730,
+          "updatedAt": 1785342834197
+        }
+      ]
+    }
+  ]
+}

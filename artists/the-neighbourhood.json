@@ -1,0 +1,36 @@
+{
+  "artist": "The Neighbourhood",
+  "totalTracks": 2,
+  "totalSingles": 0,
+  "totalAlbumTracks": 2,
+  "totalFileSize": 21011,
+  "singles": [],
+  "albums": [
+    {
+      "name": "Hard To Imagine The Neighbourhood Ever Changing",
+      "trackCount": 1,
+      "totalFileSize": 11615,
+      "tracks": [
+        {
+          "title": "09 - You Get Me So High",
+          "fileSize": 11615,
+          "createdAt": 1791220611984,
+          "updatedAt": 1791409336214
+        }
+      ]
+    },
+    {
+      "name": "Wiped Out!",
+      "trackCount": 1,
+      "totalFileSize": 9396,
+      "tracks": [
+        {
+          "title": "02 - Prey",
+          "fileSize": 9396,
+          "createdAt": 1791004662591,
+          "updatedAt": 1791042874607
+        }
+      ]
+    }
+  ]
+}

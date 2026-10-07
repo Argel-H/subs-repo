@@ -1,0 +1,16 @@
+{
+  "artist": "San Holo",
+  "totalTracks": 1,
+  "totalSingles": 1,
+  "totalAlbumTracks": 0,
+  "totalFileSize": 4924,
+  "singles": [
+    {
+      "title": "you’ve changed, i’ve changed",
+      "fileSize": 4924,
+      "createdAt": 1785223795400,
+      "updatedAt": 1785223795400
+    }
+  ],
+  "albums": []
+}
